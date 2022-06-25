@@ -1,0 +1,61 @@
+,MatchNo,date,HomeTeam,HomeRuns,HomeWickets,HomeOvers,AwayTeam,AwayRuns,AwayWickets,AwayOvers,winner,venue_y,city,player_of_match,toss_winner,toss_decision,result,result_margin,eliminator
+0,Match 60 ,2016-05-29,Royal Challengers Bangalore,200,7,20.0,Sunrisers Hyderabad,208,7,20.0,Sunrisers Hyderabad,M Chinnaswamy Stadium,Bangalore,BCJ Cutting,Sunrisers Hyderabad,bat,runs,8.0,N
+1,Match 59 ,2016-05-27,Gujarat Lions,162,7,20.0,Sunrisers Hyderabad,163,6,19.2,Sunrisers Hyderabad,Feroz Shah Kotla,Delhi,DA Warner,Sunrisers Hyderabad,field,wickets,4.0,N
+2,Match 58 ,2016-05-25,Sunrisers Hyderabad,162,8,20.0,Kolkata Knight Riders,140,8,20.0,Sunrisers Hyderabad,Feroz Shah Kotla,Delhi,MC Henriques,Kolkata Knight Riders,field,runs,22.0,N
+3,Match 57 ,2016-05-24,Gujarat Lions,158,0,20.0,Royal Challengers Bangalore,159,6,18.2,Royal Challengers Bangalore,M Chinnaswamy Stadium,Bangalore,AB de Villiers,Royal Challengers Bangalore,field,wickets,4.0,N
+4,Match 56 ,2016-05-22,Delhi Capitals,138,8,20.0,Royal Challengers Bangalore,139,4,18.1,Royal Challengers Bangalore,Shaheed Veer Narayan Singh International Stadium,Raipur,V Kohli,Royal Challengers Bangalore,field,wickets,6.0,N
+5,Match 55 ,2016-05-22,Kolkata Knight Riders,171,6,20.0,Sunrisers Hyderabad,149,8,20.0,Kolkata Knight Riders,Eden Gardens,Kolkata,YK Pathan,Sunrisers Hyderabad,field,runs,22.0,N
+6,Match 54 ,2016-05-21,Gujarat Lions,173,4,17.5,Mumbai Indians,172,8,20.0,Gujarat Lions,Green Park,Kanpur,SK Raina,Gujarat Lions,field,wickets,6.0,N
+7,Match 53 ,2016-05-21,Rising Pune Supergiant,173,6,20.0,Punjab Kings,172,7,20.0,Rising Pune Supergiants,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,MS Dhoni,Kings XI Punjab,bat,wickets,4.0,N
+8,Match 52 ,2016-05-20,Delhi Capitals,161,4,20.0,Sunrisers Hyderabad,158,7,20.0,Delhi Capitals,Shaheed Veer Narayan Singh International Stadium,Raipur,KK Nair,Delhi Daredevils,field,wickets,6.0,N
+9,Match 51 ,2016-05-19,Gujarat Lions,125,4,13.3,Kolkata Knight Riders,124,8,20.0,Gujarat Lions,Green Park,Kanpur,DR Smith,Gujarat Lions,field,wickets,6.0,N
+10,Match 50 ,2016-05-18,Royal Challengers Bangalore,211,3,15.0,Punjab Kings,120,9,14.0,Royal Challengers Bangalore,M Chinnaswamy Stadium,Bangalore,V Kohli,Kings XI Punjab,field,runs,82.0,N
+11,Match 49 ,2016-05-17,Rising Pune Supergiant,76,1,11.0,Delhi Capitals,121,6,20.0,Rising Pune Supergiants,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,AB Dinda,Rising Pune Supergiants,field,runs,19.0,N
+12,Final ,2016-05-16,Kolkata Knight Riders,183,5,20.0,Royal Challengers Bangalore,186,1,18.4,Royal Challengers Bangalore,Eden Gardens,Kolkata,V Kohli,Royal Challengers Bangalore,field,wickets,9.0,N
+13,Match 47 ,2016-05-15,Mumbai Indians,206,4,20.0,Delhi Capitals,126,0,19.1,Mumbai Indians,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,KH Pandya,Delhi Daredevils,field,runs,80.0,N
+14,Match 46 ,2016-05-15,Punjab Kings,179,4,20.0,Sunrisers Hyderabad,180,3,19.4,Sunrisers Hyderabad,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,HM Amla,Kings XI Punjab,bat,wickets,7.0,N
+15,Match 45 ,2016-05-14,Kolkata Knight Riders,66,2,5.0,Rising Pune Supergiant,103,6,17.4,Kolkata Knight Riders,Eden Gardens,Kolkata,YK Pathan,Rising Pune Supergiants,bat,wickets,8.0,N
+16,Match 44 ,2016-05-14,Royal Challengers Bangalore,248,3,20.0,Gujarat Lions,104,0,18.4,Royal Challengers Bangalore,M Chinnaswamy Stadium,Bangalore,AB de Villiers,Gujarat Lions,field,runs,144.0,N
+17,Match 43 ,2016-05-13,Mumbai Indians,124,9,20.0,Punjab Kings,127,3,17.0,Kings XI Punjab,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,MP Stoinis,Mumbai Indians,bat,wickets,7.0,N
+18,Match 42 ,2016-05-12,Sunrisers Hyderabad,146,8,20.0,Delhi Capitals,150,3,18.1,Delhi Capitals,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,CH Morris,Delhi Daredevils,field,wickets,7.0,N
+19,Match 41 ,2016-05-11,Royal Challengers Bangalore,151,4,20.0,Mumbai Indians,153,4,18.4,Mumbai Indians,M Chinnaswamy Stadium,Bangalore,KH Pandya,Mumbai Indians,field,wickets,6.0,N
+20,Match 40 ,2016-05-10,Rising Pune Supergiant,133,8,20.0,Sunrisers Hyderabad,137,8,20.0,Sunrisers Hyderabad,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,A Zampa,Sunrisers Hyderabad,bat,runs,4.0,N
+21,Match 39 ,2016-05-09,Punjab Kings,174,4,20.0,Royal Challengers Bangalore,175,6,20.0,Royal Challengers Bangalore,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,SR Watson,Kings XI Punjab,field,runs,1.0,N
+22,Match 38 ,2016-05-08,Kolkata Knight Riders,158,4,20.0,Gujarat Lions,164,5,18.0,Gujarat Lions,Eden Gardens,Kolkata,P Kumar,Gujarat Lions,field,wickets,5.0,N
+23,Match 37 ,2016-05-08,Mumbai Indians,92,0,16.3,Sunrisers Hyderabad,177,3,20.0,Sunrisers Hyderabad,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,A Nehra,Mumbai Indians,field,runs,85.0,N
+24,Match 36 ,2016-05-07,Punjab Kings,181,5,20.0,Delhi Capitals,172,5,20.0,Kings XI Punjab,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,MP Stoinis,Delhi Daredevils,field,runs,9.0,N
+25,Match 35 ,2016-05-07,Royal Challengers Bangalore,195,3,19.3,Rising Pune Supergiant,191,6,20.0,Royal Challengers Bangalore,M Chinnaswamy Stadium,Bangalore,V Kohli,Royal Challengers Bangalore,field,wickets,7.0,N
+26,Match 34 ,2016-05-06,Sunrisers Hyderabad,129,5,19.0,Gujarat Lions,126,6,20.0,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,B Kumar,Sunrisers Hyderabad,field,wickets,5.0,N
+27,Match 33 ,2016-05-05,Delhi Capitals,162,7,20.0,Rising Pune Supergiant,166,3,19.1,Rising Pune Supergiants,Feroz Shah Kotla,Delhi,AM Rahane,Rising Pune Supergiants,field,wickets,7.0,N
+28,Match 32 ,2016-05-04,Kolkata Knight Riders,164,3,20.0,Punjab Kings,157,9,20.0,Kolkata Knight Riders,Eden Gardens,Kolkata,AD Russell,Kings XI Punjab,field,runs,7.0,N
+29,Match 31 ,2016-05-03,Gujarat Lions,149,7,20.0,Delhi Capitals,150,2,17.2,Delhi Capitals,Saurashtra Cricket Association Stadium,Rajkot,RR Pant,Delhi Daredevils,field,wickets,8.0,N
+30,Match 30 ,2016-05-02,Royal Challengers Bangalore,185,7,20.0,Kolkata Knight Riders,189,5,19.1,Kolkata Knight Riders,M Chinnaswamy Stadium,Bangalore,AD Russell,Kolkata Knight Riders,field,wickets,5.0,N
+31,Match 29 ,2016-05-01,Rising Pune Supergiant,159,5,20.0,Mumbai Indians,161,2,18.3,Mumbai Indians,Maharashtra Cricket Association Stadium,Pune,RG Sharma,Mumbai Indians,field,wickets,8.0,N
+32,Match 28 ,2016-05-01,Gujarat Lions,131,9,20.0,Punjab Kings,154,0,19.5,Kings XI Punjab,Saurashtra Cricket Association Stadium,Rajkot,AR Patel,Gujarat Lions,field,runs,23.0,N
+33,Match 27 ,2016-04-30,Sunrisers Hyderabad,194,5,20.0,Royal Challengers Bangalore,179,6,20.0,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,DA Warner,Royal Challengers Bangalore,field,runs,15.0,N
+34,Match 26 ,2016-04-30,Delhi Capitals,186,8,20.0,Kolkata Knight Riders,159,0,18.3,Delhi Capitals,Feroz Shah Kotla,Delhi,CR Brathwaite,Kolkata Knight Riders,field,runs,27.0,N
+35,Match 25 ,2016-04-29,Rising Pune Supergiant,195,3,20.0,Gujarat Lions,196,7,20.0,Gujarat Lions,Maharashtra Cricket Association Stadium,Pune,DR Smith,Gujarat Lions,field,wickets,3.0,N
+36,Match 24 ,2016-04-28,Mumbai Indians,178,4,18.0,Kolkata Knight Riders,174,5,20.0,Mumbai Indians,Wankhede Stadium,Mumbai,RG Sharma,Mumbai Indians,field,wickets,6.0,N
+37,Match 23 ,2016-04-27,Delhi Capitals,171,5,20.0,Gujarat Lions,172,6,20.0,Gujarat Lions,Feroz Shah Kotla,Delhi,CH Morris,Delhi Daredevils,field,runs,1.0,N
+38,Match 22 ,2016-04-26,Sunrisers Hyderabad,118,8,20.0,Rising Pune Supergiant,94,3,11.0,Rising Pune Supergiants,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,AB Dinda,Rising Pune Supergiants,field,runs,34.0,N
+39,Match 21 ,2016-04-25,Punjab Kings,164,7,20.0,Mumbai Indians,189,6,20.0,Mumbai Indians,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,PA Patel,Kings XI Punjab,field,runs,25.0,N
+40,Match 20 ,2016-04-24,Rising Pune Supergiant,160,5,20.0,Kolkata Knight Riders,162,8,19.3,Kolkata Knight Riders,Maharashtra Cricket Association Stadium,Pune,SA Yadav,Kolkata Knight Riders,field,wickets,2.0,N
+41,Match 19 ,2016-04-24,Gujarat Lions,182,4,19.3,Royal Challengers Bangalore,180,2,20.0,Gujarat Lions,Saurashtra Cricket Association Stadium,Rajkot,V Kohli,Royal Challengers Bangalore,bat,wickets,6.0,N
+42,Match 18 ,2016-04-23,Sunrisers Hyderabad,146,5,17.5,Punjab Kings,143,6,20.0,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Mustafizur Rahman,Sunrisers Hyderabad,field,wickets,5.0,N
+43,Match 17 ,2016-04-23,Delhi Capitals,164,4,20.0,Mumbai Indians,154,7,20.0,Delhi Capitals,Feroz Shah Kotla,Delhi,SV Samson,Mumbai Indians,field,runs,10.0,N
+44,Match 16 ,2016-04-22,Rising Pune Supergiant,172,8,20.0,Royal Challengers Bangalore,185,3,20.0,Royal Challengers Bangalore,Maharashtra Cricket Association Stadium,Pune,AB de Villiers,Rising Pune Supergiants,field,runs,13.0,N
+45,Match 15 ,2016-04-21,Gujarat Lions,135,8,20.0,Sunrisers Hyderabad,137,0,14.5,Sunrisers Hyderabad,Saurashtra Cricket Association Stadium,Rajkot,B Kumar,Sunrisers Hyderabad,field,wickets,10.0,N
+46,Match 14 ,2016-04-20,Mumbai Indians,171,4,18.0,Royal Challengers Bangalore,170,7,20.0,Mumbai Indians,Wankhede Stadium,Mumbai,RG Sharma,Mumbai Indians,field,wickets,6.0,N
+47,Match 13 ,2016-04-19,Punjab Kings,138,8,20.0,Kolkata Knight Riders,141,4,17.1,Kolkata Knight Riders,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,RV Uthappa,Kolkata Knight Riders,field,wickets,6.0,N
+48,Match 12 ,2016-04-18,Sunrisers Hyderabad,145,3,17.3,Mumbai Indians,142,6,20.0,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,DA Warner,Sunrisers Hyderabad,field,wickets,7.0,N
+49,Match 11 ,2016-04-17,Royal Challengers Bangalore,191,5,20.0,Delhi Capitals,192,3,19.1,Delhi Capitals,M Chinnaswamy Stadium,Bangalore,Q de Kock,Delhi Daredevils,field,wickets,7.0,N
+50,Match 10 ,2016-04-17,Punjab Kings,153,4,18.4,Rising Pune Supergiant,152,7,20.0,Kings XI Punjab,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,M Vohra,Rising Pune Supergiants,bat,wickets,6.0,N
+51,Match 9 ,2016-04-16,Mumbai Indians,143,8,20.0,Gujarat Lions,147,7,20.0,Gujarat Lions,Wankhede Stadium,Mumbai,AJ Finch,Gujarat Lions,field,wickets,3.0,N
+52,Match 8 ,2016-04-16,Sunrisers Hyderabad,142,7,20.0,Kolkata Knight Riders,146,2,18.2,Kolkata Knight Riders,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,G Gambhir,Sunrisers Hyderabad,bat,wickets,8.0,N
+53,Match 7 ,2016-04-15,Delhi Capitals,113,2,13.3,Punjab Kings,111,9,20.0,Delhi Capitals,Feroz Shah Kotla,Delhi,A Mishra,Delhi Daredevils,field,wickets,8.0,N
+54,Match 6 ,2016-04-14,Gujarat Lions,164,3,18.0,Rising Pune Supergiant,163,5,20.0,Gujarat Lions,Saurashtra Cricket Association Stadium,Rajkot,AJ Finch,Rising Pune Supergiants,bat,wickets,7.0,N
+55,Match 5 ,2016-04-13,Kolkata Knight Riders,187,5,20.0,Mumbai Indians,188,4,19.1,Mumbai Indians,Eden Gardens,Kolkata,RG Sharma,Mumbai Indians,field,wickets,6.0,N
+56,Match 4 ,2016-04-12,Royal Challengers Bangalore,227,4,20.0,Sunrisers Hyderabad,182,6,20.0,Royal Challengers Bangalore,M Chinnaswamy Stadium,Bangalore,AB de Villiers,Sunrisers Hyderabad,field,runs,45.0,N
+57,Match 3 ,2016-04-11,Punjab Kings,161,6,20.0,Gujarat Lions,162,5,17.4,Gujarat Lions,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,AJ Finch,Gujarat Lions,field,wickets,5.0,N
+58,Match 2 ,2016-04-10,Kolkata Knight Riders,99,1,14.1,Delhi Capitals,98,0,17.4,Kolkata Knight Riders,Eden Gardens,Kolkata,AD Russell,Kolkata Knight Riders,field,wickets,9.0,N
+59,Match 1 ,2016-04-09,Mumbai Indians,121,8,20.0,Rising Pune Supergiant,126,1,14.4,Rising Pune Supergiants,Wankhede Stadium,Mumbai,AM Rahane,Mumbai Indians,bat,wickets,9.0,N

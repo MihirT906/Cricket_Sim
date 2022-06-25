@@ -1,0 +1,61 @@
+,MatchNo,date,HomeTeam,HomeRuns,HomeWickets,HomeOvers,AwayTeam,AwayRuns,AwayWickets,AwayOvers,winner,venue_y,city,player_of_match,toss_winner,toss_decision,result,result_margin,eliminator
+0,Match 60 ,2018-05-27,Chennai Super Kings,181,2,18.3,Sunrisers Hyderabad,178,6,20.0,Chennai Super Kings,Wankhede Stadium,Mumbai,SR Watson,Chennai Super Kings,field,wickets,8.0,N
+1,Match 59 ,2018-05-25,Sunrisers Hyderabad,174,7,20.0,Kolkata Knight Riders,160,9,20.0,Sunrisers Hyderabad,Eden Gardens,Kolkata,Rashid Khan,Kolkata Knight Riders,field,runs,14.0,N
+2,Match 58 ,2018-05-23,Kolkata Knight Riders,169,7,20.0,Rajasthan Royals,144,4,20.0,Kolkata Knight Riders,Eden Gardens,Kolkata,AD Russell,Rajasthan Royals,field,runs,25.0,N
+3,Match 57 ,2018-05-22,Sunrisers Hyderabad,139,7,20.0,Chennai Super Kings,140,8,19.1,Chennai Super Kings,Wankhede Stadium,Mumbai,F du Plessis,Chennai Super Kings,field,wickets,2.0,N
+4,Match 56 ,2018-05-20,Chennai Super Kings,159,5,19.1,Punjab Kings,153,0,19.4,Chennai Super Kings,Maharashtra Cricket Association Stadium,Pune,L Ngidi,Chennai Super Kings,field,wickets,5.0,N
+5,Match 55 ,2018-05-20,Delhi Capitals,174,4,20.0,Mumbai Indians,163,0,19.3,Delhi Capitals,Feroz Shah Kotla,Delhi,A Mishra,Delhi Daredevils,bat,runs,11.0,N
+6,Match 54 ,2018-05-19,Sunrisers Hyderabad,172,9,20.0,Kolkata Knight Riders,173,5,19.4,Kolkata Knight Riders,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,CA Lynn,Sunrisers Hyderabad,bat,wickets,5.0,N
+7,Match 53 ,2018-05-19,Rajasthan Royals,164,5,20.0,Royal Challengers Bangalore,134,0,19.2,Rajasthan Royals,Sawai Mansingh Stadium,Jaipur,S Gopal,Rajasthan Royals,bat,runs,30.0,N
+8,Match 52 ,2018-05-18,Delhi Capitals,162,5,20.0,Chennai Super Kings,128,6,20.0,Delhi Capitals,Feroz Shah Kotla,Delhi,HV Patel,Chennai Super Kings,field,runs,34.0,N
+9,Match 51 ,2018-05-17,Royal Challengers Bangalore,218,6,20.0,Sunrisers Hyderabad,204,3,20.0,Royal Challengers Bangalore,M.Chinnaswamy Stadium,Bengaluru,AB de Villiers,Sunrisers Hyderabad,field,runs,14.0,N
+10,Match 50 ,2018-05-16,Mumbai Indians,186,8,20.0,Punjab Kings,183,5,20.0,Mumbai Indians,Wankhede Stadium,Mumbai,JJ Bumrah,Kings XI Punjab,field,runs,3.0,N
+11,Match 49 ,2018-05-15,Kolkata Knight Riders,145,4,18.0,Rajasthan Royals,142,0,19.0,Kolkata Knight Riders,Eden Gardens,Kolkata,Kuldeep Yadav,Kolkata Knight Riders,field,wickets,6.0,N
+12,Final ,2018-05-14,Punjab Kings,88,0,15.1,Royal Challengers Bangalore,92,0,8.1,Royal Challengers Bangalore,Holkar Cricket Stadium,Indore,UT Yadav,Royal Challengers Bangalore,field,wickets,10.0,N
+13,Match 47 ,2018-05-13,Mumbai Indians,168,6,20.0,Rajasthan Royals,171,3,18.0,Rajasthan Royals,Wankhede Stadium,Mumbai,JC Buttler,Rajasthan Royals,field,wickets,7.0,N
+14,Match 46 ,2018-05-13,Chennai Super Kings,180,2,19.0,Sunrisers Hyderabad,179,4,20.0,Chennai Super Kings,Maharashtra Cricket Association Stadium,Pune,AT Rayudu,Chennai Super Kings,field,wickets,8.0,N
+15,Match 45 ,2018-05-12,Delhi Capitals,181,4,20.0,Royal Challengers Bangalore,187,5,19.0,Royal Challengers Bangalore,Feroz Shah Kotla,Delhi,AB de Villiers,Royal Challengers Bangalore,field,wickets,5.0,N
+16,Match 44 ,2018-05-12,Punjab Kings,214,8,20.0,Kolkata Knight Riders,245,6,20.0,Kolkata Knight Riders,Holkar Cricket Stadium,Indore,SP Narine,Kings XI Punjab,field,runs,31.0,N
+17,Match 43 ,2018-05-11,Rajasthan Royals,177,6,19.5,Chennai Super Kings,176,4,20.0,Rajasthan Royals,Sawai Mansingh Stadium,Jaipur,JC Buttler,Chennai Super Kings,bat,wickets,4.0,N
+18,Match 42 ,2018-05-10,Delhi Capitals,187,5,20.0,Sunrisers Hyderabad,191,1,18.5,Sunrisers Hyderabad,Feroz Shah Kotla,Delhi,S Dhawan,Delhi Daredevils,bat,wickets,9.0,N
+19,Match 41 ,2018-05-09,Kolkata Knight Riders,108,0,18.1,Mumbai Indians,210,6,20.0,Mumbai Indians,Eden Gardens,Kolkata,Ishan Kishan,Kolkata Knight Riders,field,runs,102.0,N
+20,Match 40 ,2018-05-08,Rajasthan Royals,158,8,20.0,Punjab Kings,143,7,20.0,Rajasthan Royals,Sawai Mansingh Stadium,Jaipur,JC Buttler,Rajasthan Royals,bat,runs,15.0,N
+21,Match 39 ,2018-05-07,Sunrisers Hyderabad,146,0,20.0,Royal Challengers Bangalore,141,6,20.0,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,KS Williamson,Royal Challengers Bangalore,field,runs,5.0,N
+22,Match 38 ,2018-05-06,Punjab Kings,155,4,18.4,Rajasthan Royals,152,9,20.0,Kings XI Punjab,Holkar Cricket Stadium,Indore,Mujeeb Ur Rahman,Kings XI Punjab,field,wickets,6.0,N
+23,Match 37 ,2018-05-06,Mumbai Indians,181,4,20.0,Kolkata Knight Riders,168,6,20.0,Mumbai Indians,Wankhede Stadium,Mumbai,HH Pandya,Kolkata Knight Riders,field,runs,13.0,N
+24,Match 36 ,2018-05-05,Sunrisers Hyderabad,164,3,19.5,Delhi Capitals,163,5,20.0,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Rashid Khan,Delhi Daredevils,bat,wickets,7.0,N
+25,Match 35 ,2018-05-05,Chennai Super Kings,128,4,18.0,Royal Challengers Bangalore,127,9,20.0,Chennai Super Kings,Maharashtra Cricket Association Stadium,Pune,RA Jadeja,Chennai Super Kings,field,wickets,6.0,N
+26,Match 34 ,2018-05-04,Punjab Kings,174,6,20.0,Mumbai Indians,176,4,19.0,Mumbai Indians,Holkar Cricket Stadium,Indore,SA Yadav,Mumbai Indians,field,wickets,6.0,N
+27,Match 33 ,2018-05-03,Kolkata Knight Riders,180,4,17.4,Chennai Super Kings,177,5,20.0,Kolkata Knight Riders,Eden Gardens,Kolkata,SP Narine,Kolkata Knight Riders,field,wickets,6.0,N
+28,Match 32 ,2018-05-02,Delhi Capitals,196,6,17.1,Rajasthan Royals,146,5,12.0,Delhi Capitals,Feroz Shah Kotla,Delhi,RR Pant,Rajasthan Royals,field,runs,4.0,N
+29,Match 31 ,2018-05-01,Royal Challengers Bangalore,167,7,20.0,Mumbai Indians,153,7,20.0,Royal Challengers Bangalore,M.Chinnaswamy Stadium,Bengaluru,TG Southee,Mumbai Indians,field,runs,14.0,N
+30,Match 30 ,2018-04-30,Chennai Super Kings,211,4,20.0,Delhi Capitals,198,5,20.0,Chennai Super Kings,Maharashtra Cricket Association Stadium,Pune,SR Watson,Delhi Daredevils,field,runs,13.0,N
+31,Match 29 ,2018-04-29,Royal Challengers Bangalore,175,4,20.0,Kolkata Knight Riders,176,4,19.1,Kolkata Knight Riders,M.Chinnaswamy Stadium,Bengaluru,CA Lynn,Kolkata Knight Riders,field,wickets,6.0,N
+32,Match 28 ,2018-04-29,Rajasthan Royals,140,6,20.0,Sunrisers Hyderabad,151,7,20.0,Sunrisers Hyderabad,Sawai Mansingh Stadium,Jaipur,KS Williamson,Sunrisers Hyderabad,bat,runs,11.0,N
+33,Match 27 ,2018-04-28,Chennai Super Kings,169,5,20.0,Mumbai Indians,170,2,19.4,Mumbai Indians,Maharashtra Cricket Association Stadium,Pune,RG Sharma,Mumbai Indians,field,wickets,8.0,N
+34,Match 26 ,2018-04-27,Delhi Capitals,219,4,20.0,Kolkata Knight Riders,164,9,20.0,Delhi Capitals,Feroz Shah Kotla,Delhi,SS Iyer,Kolkata Knight Riders,field,runs,55.0,N
+35,Match 25 ,2018-04-26,Sunrisers Hyderabad,132,6,20.0,Punjab Kings,119,0,19.2,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,AS Rajpoot,Kings XI Punjab,field,runs,13.0,N
+36,Match 24 ,2018-04-25,Royal Challengers Bangalore,205,8,20.0,Chennai Super Kings,207,5,19.4,Chennai Super Kings,M.Chinnaswamy Stadium,Bengaluru,MS Dhoni,Chennai Super Kings,field,wickets,5.0,N
+37,Match 23 ,2018-04-24,Mumbai Indians,87,0,18.5,Sunrisers Hyderabad,118,0,18.4,Sunrisers Hyderabad,Wankhede Stadium,Mumbai,Rashid Khan,Mumbai Indians,field,runs,31.0,N
+38,Match 22 ,2018-04-23,Delhi Capitals,139,8,20.0,Punjab Kings,143,8,20.0,Kings XI Punjab,Feroz Shah Kotla,Delhi,AS Rajpoot,Delhi Daredevils,field,runs,4.0,N
+39,Match 21 ,2018-04-22,Rajasthan Royals,168,7,19.4,Mumbai Indians,167,7,20.0,Rajasthan Royals,Sawai Mansingh Stadium,Jaipur,JC Archer,Mumbai Indians,bat,wickets,3.0,N
+40,Match 20 ,2018-04-22,Sunrisers Hyderabad,178,6,20.0,Chennai Super Kings,182,3,20.0,Chennai Super Kings,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,AT Rayudu,Sunrisers Hyderabad,field,runs,4.0,N
+41,Match 19 ,2018-04-21,Royal Challengers Bangalore,176,4,18.0,Delhi Capitals,174,5,20.0,Royal Challengers Bangalore,M.Chinnaswamy Stadium,Bengaluru,AB de Villiers,Royal Challengers Bangalore,field,wickets,6.0,N
+42,Match 18 ,2018-04-21,Kolkata Knight Riders,191,7,20.0,Punjab Kings,126,1,11.1,Kings XI Punjab,Eden Gardens,Kolkata,KL Rahul,Kings XI Punjab,field,wickets,9.0,N
+43,Match 17 ,2018-04-20,Chennai Super Kings,204,5,20.0,Rajasthan Royals,140,0,18.3,Chennai Super Kings,Maharashtra Cricket Association Stadium,Pune,SR Watson,Rajasthan Royals,field,runs,64.0,N
+44,Match 16 ,2018-04-19,Punjab Kings,193,3,20.0,Sunrisers Hyderabad,178,4,20.0,Kings XI Punjab,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,CH Gayle,Kings XI Punjab,bat,runs,15.0,N
+45,Match 15 ,2018-04-18,Rajasthan Royals,160,8,20.0,Kolkata Knight Riders,163,3,18.5,Kolkata Knight Riders,Sawai Mansingh Stadium,Jaipur,N Rana,Kolkata Knight Riders,field,wickets,7.0,N
+46,Match 14 ,2018-04-17,Mumbai Indians,213,6,20.0,Royal Challengers Bangalore,167,8,20.0,Mumbai Indians,Wankhede Stadium,Mumbai,RG Sharma,Royal Challengers Bangalore,field,runs,46.0,N
+47,Match 13 ,2018-04-16,Kolkata Knight Riders,200,9,20.0,Delhi Capitals,129,0,14.2,Kolkata Knight Riders,Eden Gardens,Kolkata,N Rana,Delhi Daredevils,field,runs,71.0,N
+48,Match 12 ,2018-04-15,Punjab Kings,197,7,20.0,Chennai Super Kings,193,5,20.0,Kings XI Punjab,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,CH Gayle,Chennai Super Kings,field,runs,4.0,N
+49,Match 11 ,2018-04-15,Royal Challengers Bangalore,198,6,20.0,Rajasthan Royals,217,4,20.0,Rajasthan Royals,M.Chinnaswamy Stadium,Bengaluru,SV Samson,Royal Challengers Bangalore,field,runs,19.0,N
+50,Match 10 ,2018-04-14,Kolkata Knight Riders,138,8,20.0,Sunrisers Hyderabad,139,5,19.0,Sunrisers Hyderabad,Eden Gardens,Kolkata,B Stanlake,Sunrisers Hyderabad,field,wickets,5.0,N
+51,Match 9 ,2018-04-14,Mumbai Indians,194,7,20.0,Delhi Capitals,195,3,20.0,Delhi Capitals,Wankhede Stadium,Mumbai,JJ Roy,Delhi Daredevils,field,wickets,7.0,N
+52,Match 8 ,2018-04-13,Royal Challengers Bangalore,159,6,19.3,Punjab Kings,155,0,19.2,Royal Challengers Bangalore,M.Chinnaswamy Stadium,Bengaluru,UT Yadav,Royal Challengers Bangalore,field,wickets,4.0,N
+53,Match 7 ,2018-04-12,Sunrisers Hyderabad,151,9,20.0,Mumbai Indians,147,8,20.0,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Rashid Khan,Sunrisers Hyderabad,field,wickets,1.0,N
+54,Match 6 ,2018-04-11,Rajasthan Royals,153,5,17.5,Delhi Capitals,60,4,6.0,Rajasthan Royals,Sawai Mansingh Stadium,Jaipur,SV Samson,Delhi Daredevils,field,runs,10.0,N
+55,Match 5 ,2018-04-10,Chennai Super Kings,205,5,19.5,Kolkata Knight Riders,202,6,20.0,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk",Chennai,SW Billings,Chennai Super Kings,field,wickets,5.0,N
+56,Match 4 ,2018-04-09,Sunrisers Hyderabad,127,1,15.5,Rajasthan Royals,125,9,20.0,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,S Dhawan,Sunrisers Hyderabad,field,wickets,9.0,N
+57,Match 3 ,2018-04-08,Kolkata Knight Riders,177,6,18.5,Royal Challengers Bangalore,176,7,20.0,Kolkata Knight Riders,Eden Gardens,Kolkata,SP Narine,Kolkata Knight Riders,field,wickets,4.0,N
+58,Match 2 ,2018-04-08,Punjab Kings,167,4,18.5,Delhi Capitals,166,7,20.0,Kings XI Punjab,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,KL Rahul,Kings XI Punjab,field,wickets,6.0,N
+59,Match 1 ,2018-04-07,Mumbai Indians,165,4,20.0,Chennai Super Kings,169,9,19.5,Chennai Super Kings,Wankhede Stadium,Mumbai,DJ Bravo,Chennai Super Kings,field,wickets,1.0,N
