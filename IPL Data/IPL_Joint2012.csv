@@ -1,0 +1,74 @@
+,MatchNo,date,HomeTeam,HomeRuns,HomeWickets,HomeOvers,AwayTeam,AwayRuns,AwayWickets,AwayOvers,winner,venue_y,city,player_of_match,toss_winner,toss_decision,result,result_margin,eliminator
+0,Match 75 ,2012-05-27,Kolkata Knight Riders,192,5,19.4,Chennai Super Kings,190,3,20.0,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk",Chennai,MS Bisla,Chennai Super Kings,bat,wickets,5.0,N
+1,Match 74 ,2012-05-25,Chennai Super Kings,222,5,20.0,Delhi Capitals,136,0,16.5,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk",Chennai,M Vijay,Delhi Daredevils,field,runs,86.0,N
+2,Match 73 ,2012-05-23,Mumbai Indians,149,9,20.0,Chennai Super Kings,187,5,20.0,Chennai Super Kings,M Chinnaswamy Stadium,Bangalore,MS Dhoni,Mumbai Indians,field,runs,38.0,N
+3,Match 72 ,2012-05-22,Delhi Capitals,144,8,20.0,Kolkata Knight Riders,162,4,20.0,Kolkata Knight Riders,Subrata Roy Sahara Stadium,Pune,YK Pathan,Kolkata Knight Riders,bat,runs,18.0,N
+4,Match 71 ,2012-05-20,Rajasthan Royals,162,6,20.0,Mumbai Indians,163,0,18.0,Mumbai Indians,Sawai Mansingh Stadium,Jaipur,DR Smith,Rajasthan Royals,bat,wickets,10.0,N
+5,Match 70 ,2012-05-20,Deccan Chargers,132,7,20.0,Royal Challengers Bangalore,123,9,20.0,Deccan Chargers,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,DW Steyn,Royal Challengers Bangalore,field,runs,9.0,N
+6,Match 69 ,2012-05-19,Pune Warriors India,102,8,20.0,Kolkata Knight Riders,136,4,20.0,Kolkata Knight Riders,Subrata Roy Sahara Stadium,Pune,Shakib Al Hasan,Kolkata Knight Riders,bat,runs,34.0,N
+7,Match 68 ,2012-05-19,Punjab Kings,141,8,20.0,Delhi Capitals,145,4,18.2,Delhi Capitals,Himachal Pradesh Cricket Association Stadium,Dharamsala,UT Yadav,Delhi Daredevils,field,wickets,6.0,N
+8,Match 67 ,2012-05-18,Deccan Chargers,128,5,18.4,Rajasthan Royals,126,8,20.0,Deccan Chargers,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,DW Steyn,Rajasthan Royals,bat,wickets,5.0,N
+9,Match 66 ,2012-05-17,Delhi Capitals,194,9,20.0,Royal Challengers Bangalore,215,1,20.0,Royal Challengers Bangalore,Feroz Shah Kotla,Delhi,CH Gayle,Delhi Daredevils,field,runs,21.0,N
+10,Match 65 ,2012-05-17,Punjab Kings,123,4,16.3,Chennai Super Kings,120,7,20.0,Kings XI Punjab,Himachal Pradesh Cricket Association Stadium,Dharamsala,AC Gilchrist,Kings XI Punjab,field,wickets,6.0,N
+11,Match 64 ,2012-05-16,Mumbai Indians,108,0,19.1,Kolkata Knight Riders,140,7,20.0,Kolkata Knight Riders,Wankhede Stadium,Mumbai,SP Narine,Mumbai Indians,field,runs,32.0,N
+12,Match 63 ,2012-05-15,Delhi Capitals,140,5,19.0,Punjab Kings,136,8,20.0,Delhi Capitals,Feroz Shah Kotla,Delhi,UT Yadav,Kings XI Punjab,bat,wickets,5.0,N
+13,Match 62 ,2012-05-14,Kolkata Knight Riders,158,6,20.0,Chennai Super Kings,160,5,20.0,Chennai Super Kings,Eden Gardens,Kolkata,MEK Hussey,Chennai Super Kings,field,wickets,5.0,N
+14,Match 61 ,2012-05-14,Royal Challengers Bangalore,171,6,20.0,Mumbai Indians,173,5,19.4,Mumbai Indians,M Chinnaswamy Stadium,Bangalore,AT Rayudu,Mumbai Indians,field,wickets,5.0,N
+15,Match 60 ,2012-05-13,Punjab Kings,194,6,20.0,Deccan Chargers,190,4,20.0,Kings XI Punjab,"Punjab Cricket Association Stadium, Mohali",Chandigarh,DJ Hussey,Deccan Chargers,bat,wickets,4.0,N
+16,Match 59 ,2012-05-13,Rajasthan Royals,170,4,20.0,Pune Warriors India,125,9,20.0,Rajasthan Royals,Sawai Mansingh Stadium,Jaipur,A Chandila,Rajasthan Royals,bat,runs,45.0,N
+17,Match 58 ,2012-05-12,Chennai Super Kings,115,1,15.2,Delhi Capitals,114,5,20.0,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk",Chennai,BW Hilfenhaus,Chennai Super Kings,field,wickets,9.0,N
+18,Match 57 ,2012-05-12,Kolkata Knight Riders,155,4,20.0,Mumbai Indians,182,1,20.0,Mumbai Indians,Eden Gardens,Kolkata,RG Sharma,Mumbai Indians,bat,runs,27.0,N
+19,Match 56 ,2012-05-11,Pune Warriors India,138,9,20.0,Royal Challengers Bangalore,173,3,20.0,Royal Challengers Bangalore,Subrata Roy Sahara Stadium,Pune,CH Gayle,Pune Warriors,field,runs,35.0,N
+20,Match 55 ,2012-05-10,Rajasthan Royals,126,6,20.0,Chennai Super Kings,127,6,18.1,Chennai Super Kings,Sawai Mansingh Stadium,Jaipur,BW Hilfenhaus,Chennai Super Kings,field,wickets,4.0,N
+21,Match 54 ,2012-05-10,Deccan Chargers,187,4,20.0,Delhi Capitals,193,1,16.4,Delhi Capitals,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,DA Warner,Deccan Chargers,bat,wickets,9.0,N
+22,Match 53 ,2012-05-09,Mumbai Indians,141,6,20.0,Royal Challengers Bangalore,142,1,18.0,Royal Challengers Bangalore,Wankhede Stadium,Mumbai,CH Gayle,Royal Challengers Bangalore,field,wickets,9.0,N
+23,Match 52 ,2012-05-08,Deccan Chargers,145,8,20.0,Punjab Kings,170,5,20.0,Kings XI Punjab,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Mandeep Singh,Deccan Chargers,field,runs,25.0,N
+24,Match 51 ,2012-05-08,Pune Warriors India,125,6,20.0,Rajasthan Royals,126,3,16.2,Rajasthan Royals,Subrata Roy Sahara Stadium,Pune,SR Watson,Pune Warriors,bat,wickets,7.0,N
+25,Match 50 ,2012-05-07,Delhi Capitals,153,9,20.0,Kolkata Knight Riders,154,4,18.4,Kolkata Knight Riders,Feroz Shah Kotla,Delhi,JH Kallis,Delhi Daredevils,bat,wickets,6.0,N
+26,Match 49 ,2012-05-06,Royal Challengers Bangalore,185,5,18.5,Deccan Chargers,181,2,20.0,Royal Challengers Bangalore,M Chinnaswamy Stadium,Bangalore,AB de Villiers,Royal Challengers Bangalore,field,wickets,5.0,N
+27,Final ,2012-05-06,Mumbai Indians,174,8,20.0,Chennai Super Kings,173,8,20.0,Mumbai Indians,Wankhede Stadium,Mumbai,DR Smith,Mumbai Indians,field,wickets,2.0,N
+28,Match 47 ,2012-05-05,Punjab Kings,134,8,20.0,Rajasthan Royals,177,6,20.0,Rajasthan Royals,"Punjab Cricket Association Stadium, Mohali",Chandigarh,SR Watson,Rajasthan Royals,bat,runs,43.0,N
+29,Match 46 ,2012-05-05,Kolkata Knight Riders,150,5,20.0,Pune Warriors India,143,8,20.0,Kolkata Knight Riders,Eden Gardens,Kolkata,SP Narine,Kolkata Knight Riders,bat,runs,7.0,N
+30,Match 45 ,2012-05-04,Chennai Super Kings,160,6,20.0,Deccan Chargers,150,5,20.0,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk",Chennai,SK Raina,Chennai Super Kings,bat,runs,10.0,N
+31,Match 44 ,2012-05-03,Pune Warriors India,119,6,20.0,Mumbai Indians,120,9,20.0,Mumbai Indians,Subrata Roy Sahara Stadium,Pune,SL Malinga,Mumbai Indians,bat,runs,1.0,N
+32,Match 43 ,2012-05-02,Royal Challengers Bangalore,158,5,20.0,Punjab Kings,163,6,19.5,Kings XI Punjab,M Chinnaswamy Stadium,Bangalore,Azhar Mahmood,Kings XI Punjab,field,wickets,4.0,N
+33,Match 42 ,2012-05-01,Rajasthan Royals,141,6,20.0,Delhi Capitals,144,4,15.2,Delhi Capitals,Sawai Mansingh Stadium,Jaipur,P Negi,Rajasthan Royals,bat,wickets,6.0,N
+34,Match 41 ,2012-05-01,Deccan Chargers,186,4,20.0,Pune Warriors India,173,5,20.0,Deccan Chargers,Barabati Stadium,Cuttack,KC Sangakkara,Deccan Chargers,bat,runs,13.0,N
+35,Match 40 ,2012-04-30,Chennai Super Kings,139,5,20.0,Kolkata Knight Riders,140,5,19.4,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk",Chennai,G Gambhir,Chennai Super Kings,bat,wickets,5.0,N
+36,Match 39 ,2012-04-29,Mumbai Indians,101,5,18.1,Deccan Chargers,100,0,18.4,Mumbai Indians,Wankhede Stadium,Mumbai,DW Steyn,Mumbai Indians,field,wickets,5.0,N
+37,Match 38 ,2012-04-29,Delhi Capitals,152,6,20.0,Rajasthan Royals,151,3,20.0,Delhi Capitals,Feroz Shah Kotla,Delhi,V Sehwag,Delhi Daredevils,bat,runs,1.0,N
+38,Match 37 ,2012-04-28,Kolkata Knight Riders,190,4,20.0,Royal Challengers Bangalore,143,6,20.0,Kolkata Knight Riders,Eden Gardens,Kolkata,G Gambhir,Kolkata Knight Riders,bat,runs,47.0,N
+39,Match 36 ,2012-04-28,Chennai Super Kings,149,8,20.0,Punjab Kings,156,8,20.0,Kings XI Punjab,"MA Chidambaram Stadium, Chepauk",Chennai,Mandeep Singh,Kings XI Punjab,bat,runs,7.0,N
+40,Match 35 ,2012-04-27,Delhi Capitals,207,5,20.0,Mumbai Indians,170,9,20.0,Delhi Capitals,Feroz Shah Kotla,Delhi,V Sehwag,Mumbai Indians,field,runs,37.0,N
+41,Match 34 ,2012-04-26,Pune Warriors India,159,7,20.0,Deccan Chargers,177,4,20.0,Deccan Chargers,Subrata Roy Sahara Stadium,Pune,CL White,Deccan Chargers,bat,runs,18.0,N
+42,Match 32 ,2012-04-25,Punjab Kings,148,0,20.0,Mumbai Indians,146,2,16.0,Mumbai Indians,"Punjab Cricket Association Stadium, Mohali",Chandigarh,AT Rayudu,Kings XI Punjab,bat,wickets,4.0,N
+43,Match 30 ,2012-04-24,Pune Warriors India,127,0,20.0,Delhi Capitals,126,7,19.0,Delhi Capitals,Subrata Roy Sahara Stadium,Pune,V Sehwag,Pune Warriors,bat,wickets,8.0,N
+44,Match 29 ,2012-04-23,Rajasthan Royals,164,0,20.0,Royal Challengers Bangalore,163,6,19.3,Royal Challengers Bangalore,Sawai Mansingh Stadium,Jaipur,AB de Villiers,Rajasthan Royals,field,runs,46.0,N
+45,Match 28 ,2012-04-22,Deccan Chargers,192,0,20.0,Kolkata Knight Riders,172,7,20.0,Kolkata Knight Riders,Barabati Stadium,Cuttack,B Lee,Kolkata Knight Riders,field,wickets,5.0,N
+46,Match 27 ,2012-04-22,Mumbai Indians,146,0,20.0,Punjab Kings,147,3,20.0,Kings XI Punjab,Wankhede Stadium,Mumbai,SE Marsh,Mumbai Indians,bat,wickets,6.0,N
+47,Match 26 ,2012-04-21,Delhi Capitals,166,0,20.0,Pune Warriors India,163,6,19.3,Pune Warriors,Feroz Shah Kotla,Delhi,SC Ganguly,Delhi Daredevils,field,runs,20.0,N
+48,Match 25 ,2012-04-21,Chennai Super Kings,157,0,19.1,Rajasthan Royals,162,5,20.0,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk",Chennai,F du Plessis,Rajasthan Royals,bat,wickets,7.0,N
+49,Match 24 ,2012-04-20,Punjab Kings,127,0,20.0,Royal Challengers Bangalore,124,7,16.3,Royal Challengers Bangalore,"Punjab Cricket Association Stadium, Mohali",Chandigarh,CH Gayle,Royal Challengers Bangalore,field,wickets,5.0,N
+50,Match 23 ,2012-04-19,Delhi Capitals,182,0,20.0,Deccan Chargers,186,4,20.0,Delhi Capitals,Feroz Shah Kotla,Delhi,KP Pietersen,Deccan Chargers,bat,wickets,5.0,N
+51,Match 22 ,2012-04-18,Punjab Kings,196,0,19.4,Kolkata Knight Riders,197,5,20.0,Kolkata Knight Riders,"Punjab Cricket Association Stadium, Mohali",Chandigarh,G Gambhir,Kings XI Punjab,bat,wickets,8.0,N
+52,Match 21 ,2012-04-17,Royal Challengers Bangalore,93,0,19.2,Pune Warriors India,92,0,14.5,Royal Challengers Bangalore,M Chinnaswamy Stadium,Bangalore,CH Gayle,Pune Warriors,bat,wickets,6.0,N
+53,Match 20 ,2012-04-17,Rajasthan Royals,195,0,19.5,Deccan Chargers,136,0,20.0,Rajasthan Royals,Sawai Mansingh Stadium,Jaipur,BJ Hodge,Deccan Chargers,bat,wickets,5.0,N
+54,Match 19 ,2012-04-16,Mumbai Indians,134,0,20.0,Delhi Capitals,132,7,20.0,Delhi Capitals,Wankhede Stadium,Mumbai,S Nadeem,Delhi Daredevils,field,wickets,7.0,N
+55,Match 18 ,2012-04-15,Royal Challengers Bangalore,155,0,19.2,Rajasthan Royals,156,3,20.0,Rajasthan Royals,M Chinnaswamy Stadium,Bangalore,AM Rahane,Rajasthan Royals,bat,runs,59.0,N
+56,Match 17 ,2012-04-15,Kolkata Knight Riders,131,0,19.2,Punjab Kings,137,5,20.0,Kings XI Punjab,Eden Gardens,Kolkata,SP Narine,Kolkata Knight Riders,field,runs,2.0,N
+57,Match 16 ,2012-04-14,Pune Warriors India,11,0,17.4,Chennai Super Kings,116,3,19.0,Pune Warriors,Subrata Roy Sahara Stadium,Pune,JD Ryder,Chennai Super Kings,bat,wickets,7.0,N
+58,Match 15 ,2012-04-13,Kolkata Knight Riders,205,0,20.0,Rajasthan Royals,208,5,20.0,Kolkata Knight Riders,Eden Gardens,Kolkata,Shakib Al Hasan,Rajasthan Royals,bat,wickets,5.0,N
+59,Match 14 ,2012-04-12,Punjab Kings,17,0,20.0,Pune Warriors India,197,6,19.4,Kings XI Punjab,"Punjab Cricket Association Stadium, Mohali",Chandigarh,AD Mascarenhas,Kings XI Punjab,field,wickets,7.0,N
+60,Match 13 ,2012-04-12,Chennai Super Kings,110,0,13.2,Royal Challengers Bangalore,111,2,20.0,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk",Chennai,F du Plessis,Royal Challengers Bangalore,bat,wickets,5.0,N
+61,Match 12 ,2012-04-11,Mumbai Indians,165,0,20.0,Rajasthan Royals,123,9,20.0,Mumbai Indians,Wankhede Stadium,Mumbai,KA Pollard,Rajasthan Royals,field,runs,27.0,N
+62,Match 11 ,2012-04-10,Delhi Capitals,142,0,20.0,Chennai Super Kings,138,9,20.0,Delhi Capitals,Feroz Shah Kotla,Delhi,M Morkel,Delhi Daredevils,field,wickets,8.0,N
+63,Match 10 ,2012-04-10,Royal Challengers Bangalore,144,0,20.0,Kolkata Knight Riders,166,6,20.0,Kolkata Knight Riders,M Chinnaswamy Stadium,Bangalore,L Balaji,Royal Challengers Bangalore,field,runs,42.0,N
+64,Match 9 ,2012-04-09,Deccan Chargers,14,0,20.0,Mumbai Indians,164,5,20.0,Mumbai Indians,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,RG Sharma,Deccan Chargers,bat,wickets,5.0,N
+65,Match 8 ,2012-04-08,Pune Warriors India,193,0,17.1,Punjab Kings,119,0,20.0,Pune Warriors,Subrata Roy Sahara Stadium,Pune,MN Samuels,Pune Warriors,bat,runs,22.0,N
+66,Match 7 ,2012-04-08,Rajasthan Royals,137,0,20.0,Kolkata Knight Riders,157,8,20.0,Rajasthan Royals,Sawai Mansingh Stadium,Jaipur,BJ Hodge,Kolkata Knight Riders,field,runs,22.0,N
+67,Match 6 ,2012-04-07,Deccan Chargers,160,0,20.0,Chennai Super Kings,191,4,20.0,Chennai Super Kings,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,RA Jadeja,Deccan Chargers,field,runs,74.0,N
+68,Match 5 ,2012-04-07,Royal Challengers Bangalore,129,0,20.0,Delhi Capitals,101,9,20.0,Royal Challengers Bangalore,M Chinnaswamy Stadium,Bangalore,AB de Villiers,Delhi Daredevils,field,runs,20.0,N
+69,Match 4 ,2012-04-06,Rajasthan Royals,100,0,12.0,Punjab Kings,97,9,11.1,Rajasthan Royals,Sawai Mansingh Stadium,Jaipur,AM Rahane,Kings XI Punjab,field,runs,31.0,N
+70,Match 3 ,2012-04-06,Mumbai Indians,115,0,19.5,Pune Warriors India,112,0,16.5,Pune Warriors,Wankhede Stadium,Mumbai,SPD Smith,Mumbai Indians,field,runs,28.0,N
+71,Match 2 ,2012-04-05,Kolkata Knight Riders,0,0,0.0,Delhi Capitals,0,0,0.0,Delhi Capitals,Eden Gardens,Kolkata,IK Pathan,Delhi Daredevils,field,wickets,8.0,N
+72,Match 1 ,2012-04-04,Chennai Super Kings,0,0,0.0,Mumbai Indians,0,0,0.0,Mumbai Indians,"MA Chidambaram Stadium, Chepauk",Chennai,RE Levi,Mumbai Indians,field,wickets,8.0,N

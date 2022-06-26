@@ -1,0 +1,58 @@
+,MatchNo,date,HomeTeam,HomeRuns,HomeWickets,HomeOvers,AwayTeam,AwayRuns,AwayWickets,AwayOvers,winner,venue_y,city,player_of_match,toss_winner,toss_decision,result,result_margin,eliminator
+0,Match 59 ,2009-05-24,Royal Challengers Bangalore,137,9,20.0,Deccan Chargers,143,6,20.0,Deccan Chargers,New Wanderers Stadium,Johannesburg,A Kumble,Royal Challengers Bangalore,field,runs,6.0,N
+1,Match 58 ,2009-05-23,Royal Challengers Bangalore,149,4,18.5,Chennai Super Kings,146,5,20.0,Royal Challengers Bangalore,New Wanderers Stadium,Johannesburg,MK Pandey,Royal Challengers Bangalore,field,wickets,6.0,N
+2,Match 57 ,2009-05-22,Delhi Capitals,153,8,20.0,Deccan Chargers,154,4,17.4,Deccan Chargers,SuperSport Park,Centurion,AC Gilchrist,Deccan Chargers,field,wickets,6.0,N
+3,Match 56 ,2009-05-21,Royal Challengers Bangalore,170,4,20.0,Deccan Chargers,158,6,20.0,Royal Challengers Bangalore,SuperSport Park,Centurion,MK Pandey,Royal Challengers Bangalore,bat,runs,12.0,N
+4,Match 55 ,2009-05-21,Delhi Capitals,166,6,17.3,Mumbai Indians,165,8,20.0,Delhi Capitals,SuperSport Park,Centurion,V Sehwag,Delhi Daredevils,field,wickets,4.0,N
+5,Match 54 ,2009-05-20,Chennai Super Kings,116,9,20.0,Punjab Kings,92,8,20.0,Chennai Super Kings,Kingsmead,Durban,M Muralitharan,Chennai Super Kings,bat,runs,24.0,N
+6,Match 53 ,2009-05-20,Kolkata Knight Riders,102,6,19.3,Rajasthan Royals,101,9,20.0,Kolkata Knight Riders,Kingsmead,Durban,LR Shukla,Kolkata Knight Riders,field,wickets,4.0,N
+7,Match 52 ,2009-05-19,Royal Challengers Bangalore,135,3,19.0,Delhi Capitals,134,7,20.0,Royal Challengers Bangalore,New Wanderers Stadium,Johannesburg,JH Kallis,Delhi Daredevils,bat,wickets,7.0,N
+8,Match 51 ,2009-05-18,Chennai Super Kings,188,3,20.0,Kolkata Knight Riders,189,3,20.0,Kolkata Knight Riders,SuperSport Park,Centurion,BJ Hodge,Chennai Super Kings,bat,wickets,7.0,N
+9,Match 50 ,2009-05-17,Delhi Capitals,150,3,20.0,Rajasthan Royals,136,9,20.0,Delhi Capitals,OUTsurance Oval,Bloemfontein,AB de Villiers,Delhi Daredevils,bat,runs,14.0,N
+10,Match 49 ,2009-05-17,Deccan Chargers,133,8,20.0,Punjab Kings,134,7,20.0,Kings XI Punjab,New Wanderers Stadium,Johannesburg,Yuvraj Singh,Deccan Chargers,field,runs,1.0,N
+11,Final ,2009-05-16,Deccan Chargers,166,4,20.0,Kolkata Knight Riders,160,5,20.0,Deccan Chargers,New Wanderers Stadium,Johannesburg,RG Sharma,Deccan Chargers,field,wickets,6.0,N
+12,Match 47 ,2009-05-16,Chennai Super Kings,151,3,19.1,Mumbai Indians,147,5,20.0,Chennai Super Kings,St George's Park,Port Elizabeth,ML Hayden,Mumbai Indians,bat,wickets,7.0,N
+13,Match 46 ,2009-05-15,Delhi Capitals,120,9,20.0,Punjab Kings,123,4,19.1,Kings XI Punjab,OUTsurance Oval,Bloemfontein,B Lee,Kings XI Punjab,field,wickets,6.0,N
+14,Match 45 ,2009-05-14,Mumbai Indians,143,0,19.5,Rajasthan Royals,145,7,20.0,Rajasthan Royals,Kingsmead,Durban,SK Warne,Rajasthan Royals,bat,runs,2.0,N
+15,Match 44 ,2009-05-14,Royal Challengers Bangalore,132,8,19.4,Chennai Super Kings,129,0,19.4,Royal Challengers Bangalore,Kingsmead,Durban,LRPL Taylor,Chennai Super Kings,bat,wickets,2.0,N
+16,Match 43 ,2009-05-13,Deccan Chargers,161,0,19.4,Delhi Capitals,173,7,20.0,Delhi Capitals,Kingsmead,Durban,R Bhatia,Deccan Chargers,field,runs,12.0,N
+17,Match 42 ,2009-05-12,Punjab Kings,119,9,20.0,Mumbai Indians,122,2,16.2,Mumbai Indians,SuperSport Park,Centurion,Harbhajan Singh,Kings XI Punjab,bat,wickets,8.0,N
+18,Match 41 ,2009-05-12,Royal Challengers Bangalore,176,4,19.2,Kolkata Knight Riders,173,4,20.0,Royal Challengers Bangalore,SuperSport Park,Centurion,LRPL Taylor,Royal Challengers Bangalore,field,wickets,6.0,N
+19,Match 40 ,2009-05-11,Deccan Chargers,166,7,20.0,Rajasthan Royals,113,0,19.3,Deccan Chargers,De Beers Diamond Oval,Kimberley,DR Smith,Deccan Chargers,bat,runs,53.0,N
+20,Match 39 ,2009-05-10,Delhi Capitals,125,3,17.1,Kolkata Knight Riders,123,8,20.0,Delhi Capitals,New Wanderers Stadium,Johannesburg,A Mishra,Delhi Daredevils,field,wickets,7.0,N
+21,Match 38 ,2009-05-10,Royal Challengers Bangalore,141,7,20.0,Mumbai Indians,157,2,20.0,Mumbai Indians,St George's Park,Port Elizabeth,JP Duminy,Mumbai Indians,bat,runs,16.0,N
+22,Match 37 ,2009-05-09,Chennai Super Kings,141,3,18.2,Rajasthan Royals,140,7,20.0,Chennai Super Kings,De Beers Diamond Oval,Kimberley,S Badrinath,Rajasthan Royals,bat,wickets,7.0,N
+23,Match 36 ,2009-05-09,Deccan Chargers,168,5,20.0,Punjab Kings,169,7,19.5,Kings XI Punjab,De Beers Diamond Oval,Kimberley,DPMD Jayawardene,Kings XI Punjab,field,wickets,3.0,N
+24,Match 35 ,2009-05-08,Delhi Capitals,118,3,18.5,Mumbai Indians,116,0,20.0,Delhi Capitals,Buffalo Park,East London,A Nehra,Mumbai Indians,bat,wickets,7.0,N
+25,Match 34 ,2009-05-07,Chennai Super Kings,185,3,18.0,Punjab Kings,174,3,18.0,Chennai Super Kings,SuperSport Park,Centurion,ML Hayden,Chennai Super Kings,bat,runs,12.0,N
+26,Match 33 ,2009-05-07,Royal Challengers Bangalore,105,0,20.0,Rajasthan Royals,107,3,15.0,Rajasthan Royals,SuperSport Park,Centurion,A Singh,Rajasthan Royals,field,wickets,7.0,N
+27,Match 32 ,2009-05-06,Deccan Chargers,145,6,20.0,Mumbai Indians,126,8,20.0,Deccan Chargers,SuperSport Park,Centurion,RG Sharma,Deccan Chargers,bat,runs,19.0,N
+28,Match 31 ,2009-05-05,Delhi Capitals,157,1,19.0,Kolkata Knight Riders,154,3,20.0,Delhi Capitals,Kingsmead,Durban,G Gambhir,Kolkata Knight Riders,bat,wickets,9.0,N
+29,Match 30 ,2009-05-05,Punjab Kings,133,8,20.0,Rajasthan Royals,211,4,20.0,Rajasthan Royals,Kingsmead,Durban,GC Smith,Kings XI Punjab,field,runs,78.0,N
+30,Match 29 ,2009-05-04,Chennai Super Kings,178,3,20.0,Deccan Chargers,100,0,14.4,Chennai Super Kings,Buffalo Park,East London,MS Dhoni,Chennai Super Kings,bat,runs,78.0,N
+31,Match 28 ,2009-05-03,Royal Challengers Bangalore,150,1,18.1,Mumbai Indians,149,4,20.0,Royal Challengers Bangalore,New Wanderers Stadium,Johannesburg,JH Kallis,Mumbai Indians,bat,wickets,9.0,N
+32,Match 27 ,2009-05-03,Punjab Kings,154,4,20.0,Kolkata Knight Riders,153,3,20.0,Kings XI Punjab,St George's Park,Port Elizabeth,DPMD Jayawardene,Kolkata Knight Riders,bat,wickets,6.0,N
+33,Match 26 ,2009-05-02,Chennai Super Kings,163,0,20.0,Delhi Capitals,145,8,20.0,Chennai Super Kings,New Wanderers Stadium,Johannesburg,SB Jakati,Delhi Daredevils,field,runs,18.0,N
+34,Match 25 ,2009-05-02,Deccan Chargers,141,5,20.0,Rajasthan Royals,142,7,19.4,Rajasthan Royals,St George's Park,Port Elizabeth,YK Pathan,Deccan Chargers,bat,wickets,3.0,N
+35,Match 24 ,2009-05-01,Royal Challengers Bangalore,145,9,20.0,Punjab Kings,137,7,20.0,Royal Challengers Bangalore,Kingsmead,Durban,Yuvraj Singh,Royal Challengers Bangalore,bat,runs,8.0,N
+36,Match 23 ,2009-05-01,Kolkata Knight Riders,139,6,20.0,Mumbai Indians,148,6,20.0,Mumbai Indians,Buffalo Park,East London,JP Duminy,Mumbai Indians,bat,runs,9.0,N
+37,Match 22 ,2009-04-30,Chennai Super Kings,164,5,20.0,Rajasthan Royals,126,9,19.3,Chennai Super Kings,SuperSport Park,Centurion,SK Raina,Rajasthan Royals,field,runs,38.0,N
+38,Match 21 ,2009-04-30,Deccan Chargers,148,9,20.0,Delhi Capitals,150,4,18.4,Delhi Capitals,SuperSport Park,Centurion,DP Nannes,Delhi Daredevils,field,wickets,6.0,N
+39,Match 20 ,2009-04-29,Punjab Kings,119,8,20.0,Mumbai Indians,116,7,20.0,Kings XI Punjab,Kingsmead,Durban,KC Sangakkara,Kings XI Punjab,bat,runs,3.0,N
+40,Match 19 ,2009-04-29,Royal Challengers Bangalore,143,5,19.5,Kolkata Knight Riders,139,6,20.0,Royal Challengers Bangalore,Kingsmead,Durban,MV Boucher,Kolkata Knight Riders,bat,wickets,5.0,N
+41,Match 18 ,2009-04-28,Delhi Capitals,143,7,20.0,Rajasthan Royals,147,5,18.3,Rajasthan Royals,SuperSport Park,Centurion,YK Pathan,Delhi Daredevils,bat,wickets,5.0,N
+42,Match 17 ,2009-04-27,Kolkata Knight Riders,95,9,15.2,Mumbai Indians,187,6,20.0,Mumbai Indians,St George's Park,Port Elizabeth,SR Tendulkar,Mumbai Indians,bat,runs,92.0,N
+43,Match 16 ,2009-04-27,Chennai Super Kings,165,6,20.0,Deccan Chargers,169,4,19.3,Deccan Chargers,Kingsmead,Durban,HH Gibbs,Deccan Chargers,field,wickets,6.0,N
+44,Match 15 ,2009-04-26,Punjab Kings,139,6,20.0,Rajasthan Royals,112,7,20.0,Kings XI Punjab,Newlands,Cape Town,KC Sangakkara,Kings XI Punjab,bat,runs,27.0,N
+45,Match 14 ,2009-04-26,Royal Challengers Bangalore,149,7,20.0,Delhi Capitals,150,4,19.2,Delhi Capitals,St George's Park,Port Elizabeth,TM Dilshan,Royal Challengers Bangalore,bat,wickets,6.0,N
+46,Match 12 ,2009-04-25,Deccan Chargers,173,0,20.0,Mumbai Indians,168,9,19.0,Deccan Chargers,Kingsmead,Durban,PP Ojha,Deccan Chargers,bat,runs,12.0,N
+47,Match 11 ,2009-04-24,Royal Challengers Bangalore,150,0,20.0,Punjab Kings,150,8,20.0,Kings XI Punjab,Kingsmead,Durban,RS Bopara,Royal Challengers Bangalore,bat,wickets,7.0,N
+48,Match 10 ,2009-04-23,Kolkata Knight Riders,189,0,20.0,Rajasthan Royals,180,9,20.0,Rajasthan Royals,Newlands,Cape Town,YK Pathan,Kolkata Knight Riders,field,tie,,Y
+49,Match 9 ,2009-04-23,Chennai Super Kings,184,0,20.0,Delhi Capitals,160,8,20.0,Delhi Capitals,Kingsmead,Durban,AB de Villiers,Delhi Daredevils,bat,runs,9.0,N
+50,Match 8 ,2009-04-22,Royal Challengers Bangalore,158,6,20.0,Deccan Chargers,79,1,9.2,Deccan Chargers,Newlands,Cape Town,AC Gilchrist,Deccan Chargers,bat,runs,24.0,N
+51,Match 6 ,2009-04-21,Punjab Kings,104,2,13.1,Kolkata Knight Riders,101,0,19.4,Kolkata Knight Riders,Kingsmead,Durban,CH Gayle,Kolkata Knight Riders,field,runs,11.0,N
+52,Match 5 ,2009-04-20,Royal Challengers Bangalore,58,0,4.5,Chennai Super Kings,104,7,12.0,Chennai Super Kings,St George's Park,Port Elizabeth,M Muralitharan,Chennai Super Kings,bat,runs,92.0,N
+53,Match 4 ,2009-04-19,Deccan Chargers,133,8,20.0,Kolkata Knight Riders,58,0,15.1,Deccan Chargers,Newlands,Cape Town,RP Singh,Kolkata Knight Riders,bat,wickets,8.0,N
+54,Match 3 ,2009-04-19,Delhi Capitals,146,7,20.0,Punjab Kings,165,7,20.0,Delhi Capitals,Newlands,Cape Town,DL Vettori,Delhi Daredevils,field,wickets,10.0,N
+55,Match 2 ,2009-04-18,Royal Challengers Bangalore,0,0,0.0,Rajasthan Royals,0,0,0.0,Royal Challengers Bangalore,Newlands,Cape Town,R Dravid,Royal Challengers Bangalore,bat,runs,75.0,N
+56,Match 1 ,2009-04-18,Chennai Super Kings,0,0,0.0,Mumbai Indians,0,0,0.0,Mumbai Indians,Newlands,Cape Town,SR Tendulkar,Chennai Super Kings,field,runs,19.0,N

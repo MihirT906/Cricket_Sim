@@ -1,0 +1,61 @@
+,MatchNo,date,HomeTeam,HomeRuns,HomeWickets,HomeOvers,AwayTeam,AwayRuns,AwayWickets,AwayOvers,winner,venue_y,city,player_of_match,toss_winner,toss_decision,result,result_margin,eliminator
+0,Match 60 ,2014-06-01,Punjab Kings,199,4,20.0,Kolkata Knight Riders,200,7,19.3,Kolkata Knight Riders,M Chinnaswamy Stadium,Bangalore,MK Pandey,Kolkata Knight Riders,field,wickets,3.0,N
+1,Match 59 ,2014-05-30,Punjab Kings,226,6,20.0,Chennai Super Kings,202,7,20.0,Kings XI Punjab,Wankhede Stadium,Mumbai,V Sehwag,Chennai Super Kings,field,runs,24.0,N
+2,Match 58 ,2014-05-28,Chennai Super Kings,176,3,18.4,Mumbai Indians,173,8,20.0,Chennai Super Kings,Brabourne Stadium,Mumbai,SK Raina,Chennai Super Kings,field,wickets,7.0,N
+3,Match 57 ,2014-05-28,Punjab Kings,135,8,20.0,Kolkata Knight Riders,163,8,20.0,Kolkata Knight Riders,Eden Gardens,Kolkata,UT Yadav,Kings XI Punjab,field,runs,28.0,N
+4,Match 56 ,2014-05-25,Mumbai Indians,195,5,14.4,Rajasthan Royals,189,4,20.0,Mumbai Indians,Wankhede Stadium,Mumbai,CJ Anderson,Mumbai Indians,field,wickets,5.0,N
+5,Match 55 ,2014-05-25,Punjab Kings,119,3,13.5,Delhi Capitals,115,0,18.1,Kings XI Punjab,"Punjab Cricket Association Stadium, Mohali",Chandigarh,M Vohra,Kings XI Punjab,field,wickets,7.0,N
+6,Match 54 ,2014-05-24,Kolkata Knight Riders,161,6,14.2,Sunrisers Hyderabad,160,7,20.0,Kolkata Knight Riders,Eden Gardens,Kolkata,YK Pathan,Kolkata Knight Riders,field,wickets,4.0,N
+7,Match 53 ,2014-05-24,Royal Challengers Bangalore,154,6,20.0,Chennai Super Kings,160,2,17.4,Chennai Super Kings,M Chinnaswamy Stadium,Bangalore,MS Dhoni,Chennai Super Kings,field,wickets,8.0,N
+8,Match 52 ,2014-05-23,Punjab Kings,179,4,20.0,Rajasthan Royals,163,8,20.0,Kings XI Punjab,"Punjab Cricket Association Stadium, Mohali",Chandigarh,SE Marsh,Rajasthan Royals,field,runs,16.0,N
+9,Match 51 ,2014-05-23,Mumbai Indians,173,0,19.3,Delhi Capitals,158,4,20.0,Mumbai Indians,Wankhede Stadium,Mumbai,MEK Hussey,Delhi Daredevils,field,runs,15.0,N
+10,Match 50 ,2014-05-22,Chennai Super Kings,185,3,20.0,Sunrisers Hyderabad,189,4,19.4,Sunrisers Hyderabad,JSCA International Stadium Complex,Ranchi,DA Warner,Sunrisers Hyderabad,field,wickets,6.0,N
+11,Match 49 ,2014-05-22,Kolkata Knight Riders,195,4,20.0,Royal Challengers Bangalore,165,5,20.0,Kolkata Knight Riders,Eden Gardens,Kolkata,RV Uthappa,Royal Challengers Bangalore,field,runs,30.0,N
+12,Final ,2014-05-21,Punjab Kings,156,8,20.0,Mumbai Indians,159,3,19.0,Mumbai Indians,"Punjab Cricket Association Stadium, Mohali",Chandigarh,LMP Simmons,Mumbai Indians,field,wickets,7.0,N
+13,Match 47 ,2014-05-20,Kolkata Knight Riders,156,2,18.0,Chennai Super Kings,154,4,20.0,Kolkata Knight Riders,Eden Gardens,Kolkata,RV Uthappa,Kolkata Knight Riders,field,wickets,8.0,N
+14,Match 46 ,2014-05-20,Sunrisers Hyderabad,161,3,19.4,Royal Challengers Bangalore,160,6,20.0,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,DA Warner,Royal Challengers Bangalore,bat,wickets,7.0,N
+15,Match 45 ,2014-05-19,Delhi Capitals,164,7,20.0,Punjab Kings,165,6,19.4,Kings XI Punjab,Feroz Shah Kotla,Delhi,AR Patel,Kings XI Punjab,field,wickets,4.0,N
+16,Match 44 ,2014-05-19,Rajasthan Royals,153,8,20.0,Mumbai Indians,178,3,20.0,Mumbai Indians,"Sardar Patel Stadium, Motera",Ahmedabad,MEK Hussey,Mumbai Indians,bat,runs,25.0,N
+17,Match 43 ,2014-05-18,Sunrisers Hyderabad,142,8,20.0,Kolkata Knight Riders,146,3,19.4,Kolkata Knight Riders,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,UT Yadav,Sunrisers Hyderabad,bat,wickets,7.0,N
+18,Match 42 ,2014-05-18,Chennai Super Kings,138,4,20.0,Royal Challengers Bangalore,142,5,19.5,Royal Challengers Bangalore,JSCA International Stadium Complex,Ranchi,AB de Villiers,Chennai Super Kings,bat,wickets,5.0,N
+19,Match 41 ,2014-05-15,Rajasthan Royals,201,6,20.0,Delhi Capitals,139,9,20.0,Rajasthan Royals,"Sardar Patel Stadium, Motera",Ahmedabad,AM Rahane,Delhi Daredevils,field,runs,62.0,N
+20,Match 40 ,2014-05-14,Kolkata Knight Riders,142,4,18.4,Mumbai Indians,141,5,20.0,Kolkata Knight Riders,Barabati Stadium,Cuttack,RV Uthappa,Kolkata Knight Riders,field,wickets,6.0,N
+21,Match 39 ,2014-05-14,Sunrisers Hyderabad,205,5,20.0,Punjab Kings,211,4,18.4,Kings XI Punjab,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,WP Saha,Kings XI Punjab,field,wickets,6.0,N
+22,Match 38 ,2014-05-13,Royal Challengers Bangalore,186,4,20.0,Delhi Capitals,170,7,20.0,Royal Challengers Bangalore,M Chinnaswamy Stadium,Bangalore,Yuvraj Singh,Delhi Daredevils,field,runs,16.0,N
+23,Match 37 ,2014-05-13,Chennai Super Kings,149,5,19.4,Rajasthan Royals,148,8,20.0,Chennai Super Kings,JSCA International Stadium Complex,Ranchi,RA Jadeja,Rajasthan Royals,bat,wickets,5.0,N
+24,Match 36 ,2014-05-12,Sunrisers Hyderabad,157,3,20.0,Mumbai Indians,160,3,18.4,Mumbai Indians,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,AT Rayudu,Sunrisers Hyderabad,bat,wickets,7.0,N
+25,Match 35 ,2014-05-11,Royal Challengers Bangalore,190,5,20.0,Rajasthan Royals,191,5,18.5,Rajasthan Royals,M Chinnaswamy Stadium,Bangalore,JP Faulkner,Royal Challengers Bangalore,bat,wickets,5.0,N
+26,Match 34 ,2014-05-11,Punjab Kings,149,8,20.0,Kolkata Knight Riders,150,1,18.0,Kolkata Knight Riders,Barabati Stadium,Cuttack,G Gambhir,Kolkata Knight Riders,field,wickets,9.0,N
+27,Match 33 ,2014-05-10,Mumbai Indians,157,6,20.0,Chennai Super Kings,160,6,19.3,Chennai Super Kings,Wankhede Stadium,Mumbai,DR Smith,Chennai Super Kings,field,wickets,4.0,N
+28,Match 32 ,2014-05-10,Delhi Capitals,143,7,20.0,Sunrisers Hyderabad,44,2,4.2,Sunrisers Hyderabad,Feroz Shah Kotla,Delhi,DW Steyn,Sunrisers Hyderabad,field,wickets,8.0,N
+29,Match 31 ,2014-05-09,Royal Challengers Bangalore,166,9,20.0,Punjab Kings,198,8,20.0,Kings XI Punjab,M Chinnaswamy Stadium,Bangalore,Sandeep Sharma,Royal Challengers Bangalore,field,runs,32.0,N
+30,Match 30 ,2014-05-08,Rajasthan Royals,102,0,19.5,Sunrisers Hyderabad,134,9,20.0,Sunrisers Hyderabad,"Sardar Patel Stadium, Motera",Ahmedabad,B Kumar,Rajasthan Royals,field,runs,32.0,N
+31,Match 29 ,2014-05-07,Punjab Kings,231,4,20.0,Chennai Super Kings,187,6,20.0,Kings XI Punjab,Barabati Stadium,Cuttack,GJ Maxwell,Chennai Super Kings,field,runs,44.0,N
+32,Match 28 ,2014-05-07,Delhi Capitals,160,5,20.0,Kolkata Knight Riders,161,2,18.2,Kolkata Knight Riders,Feroz Shah Kotla,Delhi,G Gambhir,Delhi Daredevils,bat,wickets,8.0,N
+33,Match 27 ,2014-05-06,Mumbai Indians,187,5,20.0,Royal Challengers Bangalore,168,8,20.0,Mumbai Indians,Wankhede Stadium,Mumbai,RG Sharma,Royal Challengers Bangalore,field,runs,19.0,N
+34,Match 26 ,2014-05-05,Delhi Capitals,178,5,20.0,Chennai Super Kings,181,2,19.4,Chennai Super Kings,Feroz Shah Kotla,Delhi,DR Smith,Chennai Super Kings,field,wickets,8.0,N
+35,Match 25 ,2014-05-05,Rajasthan Royals,170,6,20.0,Kolkata Knight Riders,160,6,20.0,Rajasthan Royals,"Sardar Patel Stadium, Motera",Ahmedabad,PV Tambe,Kolkata Knight Riders,field,runs,10.0,N
+36,Match 24 ,2014-05-04,Royal Challengers Bangalore,158,6,19.5,Sunrisers Hyderabad,155,6,20.0,Royal Challengers Bangalore,M Chinnaswamy Stadium,Bangalore,AB de Villiers,Royal Challengers Bangalore,field,wickets,4.0,N
+37,Match 23 ,2014-05-03,Delhi Capitals,152,5,20.0,Rajasthan Royals,156,3,18.3,Rajasthan Royals,Feroz Shah Kotla,Delhi,KK Nair,Rajasthan Royals,field,wickets,7.0,N
+38,Match 22 ,2014-05-03,Mumbai Indians,170,5,19.1,Punjab Kings,168,5,20.0,Mumbai Indians,Wankhede Stadium,Mumbai,CJ Anderson,Kings XI Punjab,bat,wickets,5.0,N
+39,Match 21 ,2014-05-02,Chennai Super Kings,148,3,17.0,Kolkata Knight Riders,114,9,17.0,Chennai Super Kings,JSCA International Stadium Complex,Ranchi,RA Jadeja,Chennai Super Kings,bat,runs,34.0,N
+40,Match 20 ,2014-04-30,Mumbai Indians,157,7,20.0,Sunrisers Hyderabad,172,5,20.0,Sunrisers Hyderabad,Dubai International Cricket Stadium,,B Kumar,Mumbai Indians,field,runs,15.0,N
+41,Match 19 ,2014-04-29,Kolkata Knight Riders,152,8,20.0,Rajasthan Royals,152,5,20.0,Rajasthan Royals,Sheikh Zayed Stadium,Abu Dhabi,JP Faulkner,Rajasthan Royals,bat,tie,,Y
+42,Match 18 ,2014-04-28,Punjab Kings,127,5,18.5,Royal Challengers Bangalore,124,8,20.0,Kings XI Punjab,Dubai International Cricket Stadium,,Sandeep Sharma,Kings XI Punjab,field,wickets,5.0,N
+43,Match 17 ,2014-04-27,Sunrisers Hyderabad,145,5,20.0,Chennai Super Kings,146,5,19.3,Chennai Super Kings,Sharjah Cricket Stadium,,DR Smith,Sunrisers Hyderabad,bat,wickets,5.0,N
+44,Match 16 ,2014-04-27,Delhi Capitals,126,4,18.5,Mumbai Indians,125,6,20.0,Delhi Capitals,Sharjah Cricket Stadium,,M Vijay,Mumbai Indians,bat,wickets,6.0,N
+45,Match 15 ,2014-04-26,Kolkata Knight Riders,109,0,18.2,Punjab Kings,132,9,20.0,Kings XI Punjab,Sheikh Zayed Stadium,Abu Dhabi,Sandeep Sharma,Kolkata Knight Riders,field,runs,23.0,N
+46,Match 14 ,2014-04-26,Rajasthan Royals,71,4,13.0,Royal Challengers Bangalore,70,0,15.0,Rajasthan Royals,Sheikh Zayed Stadium,Abu Dhabi,PV Tambe,Rajasthan Royals,field,wickets,6.0,N
+47,Match 13 ,2014-04-25,Chennai Super Kings,142,3,19.0,Mumbai Indians,141,7,20.0,Chennai Super Kings,Dubai International Cricket Stadium,,MM Sharma,Mumbai Indians,bat,wickets,7.0,N
+48,Match 12 ,2014-04-25,Sunrisers Hyderabad,184,1,20.0,Delhi Capitals,180,4,20.0,Sunrisers Hyderabad,Dubai International Cricket Stadium,,AJ Finch,Sunrisers Hyderabad,bat,runs,4.0,N
+49,Match 11 ,2014-04-24,Royal Challengers Bangalore,148,5,20.0,Kolkata Knight Riders,150,7,20.0,Kolkata Knight Riders,Sharjah Cricket Stadium,,CA Lynn,Royal Challengers Bangalore,field,runs,2.0,N
+50,Match 10 ,2014-04-23,Rajasthan Royals,133,0,19.5,Chennai Super Kings,140,6,20.0,Chennai Super Kings,Dubai International Cricket Stadium,,RA Jadeja,Rajasthan Royals,field,runs,7.0,N
+51,Match 9 ,2014-04-22,Punjab Kings,193,6,20.0,Sunrisers Hyderabad,121,0,19.2,Kings XI Punjab,Sharjah Cricket Stadium,,GJ Maxwell,Sunrisers Hyderabad,field,runs,72.0,N
+52,Match 8 ,2014-04-21,Chennai Super Kings,177,7,20.0,Delhi Capitals,84,0,15.4,Chennai Super Kings,Sheikh Zayed Stadium,Abu Dhabi,SK Raina,Chennai Super Kings,bat,runs,93.0,N
+53,Match 7 ,2014-04-20,Rajasthan Royals,191,5,20.0,Punjab Kings,193,3,18.4,Kings XI Punjab,Sharjah Cricket Stadium,,GJ Maxwell,Kings XI Punjab,field,wickets,7.0,N
+54,Match 6 ,2014-04-19,Kolkata Knight Riders,166,5,20.0,Delhi Capitals,167,6,19.3,Delhi Capitals,Dubai International Cricket Stadium,,JP Duminy,Kolkata Knight Riders,bat,wickets,4.0,N
+55,Match 5 ,2014-04-19,Royal Challengers Bangalore,116,3,17.3,Mumbai Indians,115,9,20.0,Royal Challengers Bangalore,Dubai International Cricket Stadium,,PA Patel,Royal Challengers Bangalore,field,wickets,7.0,N
+56,Match 4 ,2014-04-18,Sunrisers Hyderabad,133,6,20.0,Rajasthan Royals,135,6,19.3,Rajasthan Royals,Sheikh Zayed Stadium,Abu Dhabi,AM Rahane,Rajasthan Royals,field,wickets,4.0,N
+57,Match 3 ,2014-04-18,Chennai Super Kings,205,4,20.0,Punjab Kings,206,4,18.5,Kings XI Punjab,Sheikh Zayed Stadium,Abu Dhabi,GJ Maxwell,Chennai Super Kings,bat,wickets,6.0,N
+58,Match 2 ,2014-04-17,Delhi Capitals,145,4,20.0,Royal Challengers Bangalore,146,2,16.4,Royal Challengers Bangalore,Sharjah Cricket Stadium,,YS Chahal,Royal Challengers Bangalore,field,wickets,8.0,N
+59,Match 1 ,2014-04-16,Mumbai Indians,122,7,20.0,Kolkata Knight Riders,163,5,20.0,Kolkata Knight Riders,Sheikh Zayed Stadium,Abu Dhabi,JH Kallis,Kolkata Knight Riders,bat,runs,41.0,N
