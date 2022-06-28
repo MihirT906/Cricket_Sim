@@ -1,0 +1,950 @@
+,Season,MatchNo,Date,HomeTeam,HomeRuns,HomeWickets,HomeOvers,AwayTeam,AwayRuns,AwayWickets,AwayOvers,Winner,Venue,City,PlayerOfMatch,TossWinner,TossDecision,Result,ResultMargin,Eliminator
+0,2008,Match 59 ,2008-06-01,Chennai Super Kings,163,5,20.0,Rajasthan Royals,164,7,20.0,Rajasthan Royals,Dr DY Patil Sports Academy,Mumbai,YK Pathan,Rajasthan Royals,field,wickets,3.0,N
+1,2008,Match 58 ,2008-05-31,Chennai Super Kings,116,1,14.5,Punjab Kings,112,8,20.0,Chennai Super Kings,Wankhede Stadium,Mumbai,M Ntini,Punjab Kings,bat,wickets,9.0,N
+2,2008,Match 57 ,2008-05-30,Delhi Capitals,87,0,16.1,Rajasthan Royals,192,9,20.0,Rajasthan Royals,Wankhede Stadium,Mumbai,SR Watson,Delhi Daredevils,field,runs,105.0,N
+3,2008,Match 56 ,2008-05-28,Punjab Kings,221,3,20.0,Rajasthan Royals,180,7,20.0,Punjab Kings,Punjab Cricket Association Stadium,Chandigarh,SE Marsh,Rajasthan Royals,field,runs,41.0,N
+4,2008,Match 55 ,2008-05-28,Royal Challengers Bangalore,122,9,18.0,Mumbai Indians,126,1,16.0,Mumbai Indians,M Chinnaswamy Stadium,Bangalore,CRD Fernando,Mumbai Indians,field,wickets,9.0,N
+5,2008,Match 54 ,2008-05-27,Sunrisers Hyderabad,147,8,20.0,Chennai Super Kings,148,3,19.2,Chennai Super Kings,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,SK Raina,Sunrisers Hyderabad,bat,wickets,7.0,N
+6,2008,Match 53 ,2008-05-26,Rajasthan Royals,146,5,20.0,Mumbai Indians,145,7,20.0,Rajasthan Royals,Sawai Mansingh Stadium,Jaipur,Sohail Tanvir,Rajasthan Royals,field,wickets,5.0,N
+7,2008,Match 52 ,2008-05-25,Kolkata Knight Riders,175,7,19.4,Punjab Kings,174,6,20.0,Kolkata Knight Riders,Eden Gardens,Kolkata,Umar Gul,Punjab Kings,bat,wickets,3.0,N
+8,2008,Match 51 ,2008-05-25,Sunrisers Hyderabad,165,0,20.0,Royal Challengers Bangalore,171,5,19.0,Royal Challengers Bangalore,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,R Vinay Kumar,Sunrisers Hyderabad,bat,wickets,5.0,N
+9,2008,Match 50 ,2008-05-24,Delhi Capitals,179,5,19.5,Mumbai Indians,180,8,20.0,Delhi Capitals,Feroz Shah Kotla,Delhi,KD Karthik,Delhi Daredevils,field,wickets,5.0,N
+10,2008,Match 49 ,2008-05-24,Chennai Super Kings,201,7,20.0,Rajasthan Royals,211,5,20.0,Rajasthan Royals,MA Chidambaram Stadium,Chennai,JA Morkel,Rajasthan Royals,bat,runs,10.0,N
+11,2008,Final ,2008-05-23,Punjab Kings,178,4,19.3,Sunrisers Hyderabad,175,4,20.0,Punjab Kings,Punjab Cricket Association Stadium,Chandigarh,SE Marsh,Punjab Kings,field,wickets,6.0,N
+12,2008,Match 46 ,2008-05-21,Chennai Super Kings,112,8,20.0,Royal Challengers Bangalore,126,8,20.0,Royal Challengers Bangalore,MA Chidambaram Stadium,Chennai,A Kumble,Royal Challengers Bangalore,bat,runs,14.0,N
+13,2008,Match 45 ,2008-05-21,Mumbai Indians,188,0,20.0,Punjab Kings,189,4,20.0,Punjab Kings,Wankhede Stadium,Mumbai,SE Marsh,Mumbai Indians,field,runs,1.0,N
+14,2008,Match 44 ,2008-05-20,Kolkata Knight Riders,147,8,20.0,Rajasthan Royals,150,4,16.3,Rajasthan Royals,Eden Gardens,Kolkata,YK Pathan,Rajasthan Royals,field,wickets,6.0,N
+15,2008,Match 43 ,2008-05-19,Royal Challengers Bangalore,154,7,20.0,Delhi Capitals,158,5,18.2,Delhi Capitals,M Chinnaswamy Stadium,Bangalore,SP Goswami,Delhi Daredevils,field,wickets,5.0,N
+16,2008,Match 42 ,2008-05-18,Sunrisers Hyderabad,153,7,20.0,Mumbai Indians,178,7,20.0,Mumbai Indians,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,DJ Bravo,Sunrisers Hyderabad,field,runs,25.0,N
+17,2008,Match 41 ,2008-05-18,Kolkata Knight Riders,149,5,20.0,Chennai Super Kings,55,0,8.0,Chennai Super Kings,Eden Gardens,Kolkata,M Ntini,Kolkata Knight Riders,bat,runs,3.0,N
+18,2008,Match 40 ,2008-05-17,Delhi Capitals,118,4,11.0,Punjab Kings,94,3,8.0,Punjab Kings,Feroz Shah Kotla,Delhi,DPMD Jayawardene,Delhi Daredevils,bat,runs,6.0,N
+19,2008,Match 39 ,2008-05-17,Rajasthan Royals,197,1,20.0,Royal Challengers Bangalore,132,9,20.0,Rajasthan Royals,Sawai Mansingh Stadium,Jaipur,GC Smith,Royal Challengers Bangalore,field,runs,65.0,N
+20,2008,Match 38 ,2008-05-16,Mumbai Indians,68,2,5.3,Kolkata Knight Riders,67,0,15.2,Mumbai Indians,Wankhede Stadium,Mumbai,SM Pollock,Mumbai Indians,field,wickets,8.0,N
+21,2008,Match 37 ,2008-05-15,Delhi Capitals,194,4,20.0,Sunrisers Hyderabad,182,9,20.0,Delhi Capitals,Feroz Shah Kotla,Delhi,A Mishra,Sunrisers Hyderabad,field,runs,12.0,N
+22,2008,Match 36 ,2008-05-14,Mumbai Indians,158,1,13.5,Chennai Super Kings,156,6,20.0,Mumbai Indians,Wankhede Stadium,Mumbai,ST Jayasuriya,Mumbai Indians,field,wickets,9.0,N
+23,2008,Match 35 ,2008-05-13,Kolkata Knight Riders,133,6,20.0,Delhi Capitals,110,0,17.5,Kolkata Knight Riders,Eden Gardens,Kolkata,Shoaib Akhtar,Kolkata Knight Riders,bat,runs,23.0,N
+24,2008,Match 34 ,2008-05-12,Punjab Kings,144,1,15.4,Royal Challengers Bangalore,143,8,20.0,Punjab Kings,Punjab Cricket Association Stadium,Chandigarh,SE Marsh,Royal Challengers Bangalore,bat,wickets,9.0,N
+25,2008,Match 33 ,2008-05-11,Rajasthan Royals,159,7,19.1,Delhi Capitals,156,7,20.0,Rajasthan Royals,Sawai Mansingh Stadium,Jaipur,SR Watson,Rajasthan Royals,field,wickets,3.0,N
+26,2008,Match 32 ,2008-05-11,Sunrisers Hyderabad,181,7,20.0,Kolkata Knight Riders,204,4,20.0,Kolkata Knight Riders,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,SC Ganguly,Kolkata Knight Riders,bat,runs,23.0,N
+27,2008,Match 31 ,2008-05-10,Chennai Super Kings,181,4,20.0,Punjab Kings,163,9,20.0,Chennai Super Kings,MA Chidambaram Stadium,Chennai,L Balaji,Punjab Kings,field,runs,18.0,N
+28,2008,Match 30 ,2008-05-09,Rajasthan Royals,141,2,16.0,Sunrisers Hyderabad,140,8,20.0,Rajasthan Royals,Sawai Mansingh Stadium,Jaipur,YK Pathan,Rajasthan Royals,field,wickets,8.0,N
+29,2008,Match 29 ,2008-05-08,Kolkata Knight Riders,129,7,16.0,Royal Challengers Bangalore,124,4,16.0,Kolkata Knight Riders,Eden Gardens,Kolkata,SC Ganguly,Kolkata Knight Riders,bat,runs,5.0,N
+30,2008,Match 28 ,2008-05-08,Delhi Capitals,187,5,20.0,Chennai Super Kings,188,6,20.0,Chennai Super Kings,Feroz Shah Kotla,Delhi,MS Dhoni,Chennai Super Kings,field,wickets,4.0,N
+31,2008,Match 27 ,2008-05-07,Mumbai Indians,104,3,15.1,Rajasthan Royals,103,0,16.2,Mumbai Indians,Dr DY Patil Sports Academy,Mumbai,A Nehra,Mumbai Indians,field,wickets,7.0,N
+32,2008,Match 26 ,2008-05-06,Chennai Super Kings,144,7,20.0,Sunrisers Hyderabad,148,3,18.0,Sunrisers Hyderabad,MA Chidambaram Stadium,Chennai,AC Gilchrist,Sunrisers Hyderabad,field,wickets,7.0,N
+33,2008,Match 25 ,2008-05-05,Royal Challengers Bangalore,126,0,19.2,Punjab Kings,127,4,18.2,Punjab Kings,M Chinnaswamy Stadium,Bangalore,S Sreesanth,Punjab Kings,field,wickets,6.0,N
+34,2008,Match 24 ,2008-05-04,Rajasthan Royals,110,2,14.2,Chennai Super Kings,109,0,19.0,Rajasthan Royals,Sawai Mansingh Stadium,Jaipur,Sohail Tanvir,Chennai Super Kings,bat,wickets,8.0,N
+35,2008,Match 23 ,2008-05-04,Mumbai Indians,162,8,20.0,Delhi Capitals,133,0,18.5,Mumbai Indians,Dr DY Patil Sports Academy,Mumbai,SM Pollock,Delhi Daredevils,field,runs,29.0,N
+36,2008,Match 22 ,2008-05-03,Punjab Kings,178,6,20.0,Kolkata Knight Riders,169,6,20.0,Punjab Kings,Punjab Cricket Association Stadium,Chandigarh,IK Pathan,Punjab Kings,bat,runs,9.0,N
+37,2008,Match 21 ,2008-05-03,Royal Challengers Bangalore,156,8,20.0,Sunrisers Hyderabad,153,6,20.0,Royal Challengers Bangalore,M Chinnaswamy Stadium,Bangalore,P Kumar,Sunrisers Hyderabad,field,runs,3.0,N
+38,2008,Match 20 ,2008-05-02,Chennai Super Kings,169,6,20.0,Delhi Capitals,172,2,19.0,Delhi Capitals,MA Chidambaram Stadium,Chennai,V Sehwag,Chennai Super Kings,bat,wickets,8.0,N
+39,2008,Match 19 ,2008-05-01,Sunrisers Hyderabad,164,8,20.0,Punjab Kings,167,3,18.5,Punjab Kings,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,SE Marsh,Punjab Kings,field,wickets,7.0,N
+40,2008,Match 18 ,2008-05-01,Rajasthan Royals,196,7,20.0,Kolkata Knight Riders,151,0,19.1,Rajasthan Royals,Sawai Mansingh Stadium,Jaipur,SA Asnodkar,Rajasthan Royals,bat,runs,45.0,N
+41,2008,Match 17 ,2008-04-30,Delhi Capitals,191,5,20.0,Royal Challengers Bangalore,181,5,20.0,Delhi Capitals,Feroz Shah Kotla,Delhi,GD McGrath,Royal Challengers Bangalore,field,runs,10.0,N
+42,2008,Match 16 ,2008-04-29,Kolkata Knight Riders,137,8,20.0,Mumbai Indians,138,3,18.4,Mumbai Indians,Eden Gardens,Kolkata,ST Jayasuriya,Kolkata Knight Riders,bat,wickets,7.0,N
+43,2008,Match 15 ,2008-04-28,Royal Challengers Bangalore,165,0,19.4,Chennai Super Kings,178,5,20.0,Chennai Super Kings,M Chinnaswamy Stadium,Bangalore,MS Dhoni,Chennai Super Kings,bat,runs,13.0,N
+44,2008,Match 14 ,2008-04-27,Mumbai Indians,154,7,20.0,Sunrisers Hyderabad,155,0,12.0,Sunrisers Hyderabad,Dr DY Patil Sports Academy,Mumbai,AC Gilchrist,Sunrisers Hyderabad,field,wickets,10.0,N
+45,2008,Match 13 ,2008-04-27,Punjab Kings,162,6,19.3,Delhi Capitals,158,8,20.0,Punjab Kings,Punjab Cricket Association Stadium,Chandigarh,SM Katich,Delhi Daredevils,bat,wickets,4.0,N
+46,2008,Match 12 ,2008-04-26,Royal Challengers Bangalore,135,8,20.0,Rajasthan Royals,138,3,17.1,Rajasthan Royals,M Chinnaswamy Stadium,Bangalore,SR Watson,Rajasthan Royals,field,wickets,7.0,N
+47,2008,Match 11 ,2008-04-26,Chennai Super Kings,152,1,17.0,Kolkata Knight Riders,147,9,20.0,Chennai Super Kings,MA Chidambaram Stadium,Chennai,JDP Oram,Kolkata Knight Riders,bat,wickets,9.0,N
+48,2008,Match 10 ,2008-04-25,Punjab Kings,182,0,20.0,Mumbai Indians,116,9,20.0,Punjab Kings,Punjab Cricket Association Stadium,Chandigarh,KC Sangakkara,Mumbai Indians,field,runs,66.0,N
+49,2008,Match 9 ,2008-04-24,Sunrisers Hyderabad,214,5,20.0,Rajasthan Royals,217,7,19.5,Rajasthan Royals,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,YK Pathan,Rajasthan Royals,field,wickets,3.0,N
+50,2008,Match 8 ,2008-04-23,Chennai Super Kings,208,5,20.0,Mumbai Indians,202,7,20.0,Chennai Super Kings,MA Chidambaram Stadium,Chennai,ML Hayden,Mumbai Indians,field,runs,6.0,N
+51,2008,Match 7 ,2008-04-22,Sunrisers Hyderabad,142,8,20.0,Delhi Capitals,143,1,13.0,Delhi Capitals,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,V Sehwag,Sunrisers Hyderabad,bat,wickets,9.0,N
+52,2008,Match 6 ,2008-04-21,Rajasthan Royals,168,4,18.1,Punjab Kings,166,8,20.0,Rajasthan Royals,Sawai Mansingh Stadium,Jaipur,SR Watson,Punjab Kings,bat,wickets,6.0,N
+53,2008,Match 5 ,2008-04-20,Mumbai Indians,165,6,20.0,Royal Challengers Bangalore,166,5,19.4,Royal Challengers Bangalore,Wankhede Stadium,Mumbai,MV Boucher,Mumbai Indians,bat,wickets,5.0,N
+54,2008,Match 4 ,2008-04-20,Kolkata Knight Riders,112,5,19.0,Sunrisers Hyderabad,110,0,18.4,Kolkata Knight Riders,Eden Gardens,Kolkata,DJ Hussey,Sunrisers Hyderabad,bat,wickets,5.0,N
+55,2008,Match 3 ,2008-04-19,Delhi Capitals,132,1,15.1,Rajasthan Royals,129,8,20.0,Delhi Capitals,Feroz Shah Kotla,Delhi,MF Maharoof,Rajasthan Royals,bat,wickets,9.0,N
+56,2008,Match 2 ,2008-04-19,Punjab Kings,207,4,20.0,Chennai Super Kings,240,5,20.0,Chennai Super Kings,Punjab Cricket Association Stadium,Chandigarh,MEK Hussey,Chennai Super Kings,bat,runs,33.0,N
+57,2008,Match 1 ,2008-04-18,Royal Challengers Bangalore,82,0,15.1,Kolkata Knight Riders,222,3,20.0,Kolkata Knight Riders,M Chinnaswamy Stadium,Bangalore,BB McCullum,Royal Challengers Bangalore,field,runs,140.0,N
+58,2009,Match 59 ,2009-05-24,Royal Challengers Bangalore,137,9,20.0,Sunrisers Hyderabad,143,6,20.0,Sunrisers Hyderabad,New Wanderers Stadium,Johannesburg,A Kumble,Royal Challengers Bangalore,field,runs,6.0,N
+59,2009,Match 58 ,2009-05-23,Royal Challengers Bangalore,149,4,18.5,Chennai Super Kings,146,5,20.0,Royal Challengers Bangalore,New Wanderers Stadium,Johannesburg,MK Pandey,Royal Challengers Bangalore,field,wickets,6.0,N
+60,2009,Match 57 ,2009-05-22,Delhi Capitals,153,8,20.0,Sunrisers Hyderabad,154,4,17.4,Sunrisers Hyderabad,SuperSport Park,Centurion,AC Gilchrist,Sunrisers Hyderabad,field,wickets,6.0,N
+61,2009,Match 56 ,2009-05-21,Royal Challengers Bangalore,170,4,20.0,Sunrisers Hyderabad,158,6,20.0,Royal Challengers Bangalore,SuperSport Park,Centurion,MK Pandey,Royal Challengers Bangalore,bat,runs,12.0,N
+62,2009,Match 55 ,2009-05-21,Delhi Capitals,166,6,17.3,Mumbai Indians,165,8,20.0,Delhi Capitals,SuperSport Park,Centurion,V Sehwag,Delhi Daredevils,field,wickets,4.0,N
+63,2009,Match 54 ,2009-05-20,Chennai Super Kings,116,9,20.0,Punjab Kings,92,8,20.0,Chennai Super Kings,Kingsmead,Durban,M Muralitharan,Chennai Super Kings,bat,runs,24.0,N
+64,2009,Match 53 ,2009-05-20,Kolkata Knight Riders,102,6,19.3,Rajasthan Royals,101,9,20.0,Kolkata Knight Riders,Kingsmead,Durban,LR Shukla,Kolkata Knight Riders,field,wickets,4.0,N
+65,2009,Match 52 ,2009-05-19,Royal Challengers Bangalore,135,3,19.0,Delhi Capitals,134,7,20.0,Royal Challengers Bangalore,New Wanderers Stadium,Johannesburg,JH Kallis,Delhi Daredevils,bat,wickets,7.0,N
+66,2009,Match 51 ,2009-05-18,Chennai Super Kings,188,3,20.0,Kolkata Knight Riders,189,3,20.0,Kolkata Knight Riders,SuperSport Park,Centurion,BJ Hodge,Chennai Super Kings,bat,wickets,7.0,N
+67,2009,Match 50 ,2009-05-17,Delhi Capitals,150,3,20.0,Rajasthan Royals,136,9,20.0,Delhi Capitals,OUTsurance Oval,Bloemfontein,AB de Villiers,Delhi Daredevils,bat,runs,14.0,N
+68,2009,Match 49 ,2009-05-17,Sunrisers Hyderabad,133,8,20.0,Punjab Kings,134,7,20.0,Punjab Kings,New Wanderers Stadium,Johannesburg,Yuvraj Singh,Sunrisers Hyderabad,field,runs,1.0,N
+69,2009,Final ,2009-05-16,Sunrisers Hyderabad,166,4,20.0,Kolkata Knight Riders,160,5,20.0,Sunrisers Hyderabad,New Wanderers Stadium,Johannesburg,RG Sharma,Sunrisers Hyderabad,field,wickets,6.0,N
+70,2009,Match 47 ,2009-05-16,Chennai Super Kings,151,3,19.1,Mumbai Indians,147,5,20.0,Chennai Super Kings,St George's Park,Port Elizabeth,ML Hayden,Mumbai Indians,bat,wickets,7.0,N
+71,2009,Match 46 ,2009-05-15,Delhi Capitals,120,9,20.0,Punjab Kings,123,4,19.1,Punjab Kings,OUTsurance Oval,Bloemfontein,B Lee,Punjab Kings,field,wickets,6.0,N
+72,2009,Match 45 ,2009-05-14,Mumbai Indians,143,0,19.5,Rajasthan Royals,145,7,20.0,Rajasthan Royals,Kingsmead,Durban,SK Warne,Rajasthan Royals,bat,runs,2.0,N
+73,2009,Match 44 ,2009-05-14,Royal Challengers Bangalore,132,8,19.4,Chennai Super Kings,129,0,19.4,Royal Challengers Bangalore,Kingsmead,Durban,LRPL Taylor,Chennai Super Kings,bat,wickets,2.0,N
+74,2009,Match 43 ,2009-05-13,Sunrisers Hyderabad,161,0,19.4,Delhi Capitals,173,7,20.0,Delhi Capitals,Kingsmead,Durban,R Bhatia,Sunrisers Hyderabad,field,runs,12.0,N
+75,2009,Match 42 ,2009-05-12,Punjab Kings,119,9,20.0,Mumbai Indians,122,2,16.2,Mumbai Indians,SuperSport Park,Centurion,Harbhajan Singh,Punjab Kings,bat,wickets,8.0,N
+76,2009,Match 41 ,2009-05-12,Royal Challengers Bangalore,176,4,19.2,Kolkata Knight Riders,173,4,20.0,Royal Challengers Bangalore,SuperSport Park,Centurion,LRPL Taylor,Royal Challengers Bangalore,field,wickets,6.0,N
+77,2009,Match 40 ,2009-05-11,Sunrisers Hyderabad,166,7,20.0,Rajasthan Royals,113,0,19.3,Sunrisers Hyderabad,De Beers Diamond Oval,Kimberley,DR Smith,Sunrisers Hyderabad,bat,runs,53.0,N
+78,2009,Match 39 ,2009-05-10,Delhi Capitals,125,3,17.1,Kolkata Knight Riders,123,8,20.0,Delhi Capitals,New Wanderers Stadium,Johannesburg,A Mishra,Delhi Daredevils,field,wickets,7.0,N
+79,2009,Match 38 ,2009-05-10,Royal Challengers Bangalore,141,7,20.0,Mumbai Indians,157,2,20.0,Mumbai Indians,St George's Park,Port Elizabeth,JP Duminy,Mumbai Indians,bat,runs,16.0,N
+80,2009,Match 37 ,2009-05-09,Chennai Super Kings,141,3,18.2,Rajasthan Royals,140,7,20.0,Chennai Super Kings,De Beers Diamond Oval,Kimberley,S Badrinath,Rajasthan Royals,bat,wickets,7.0,N
+81,2009,Match 36 ,2009-05-09,Sunrisers Hyderabad,168,5,20.0,Punjab Kings,169,7,19.5,Punjab Kings,De Beers Diamond Oval,Kimberley,DPMD Jayawardene,Punjab Kings,field,wickets,3.0,N
+82,2009,Match 35 ,2009-05-08,Delhi Capitals,118,3,18.5,Mumbai Indians,116,0,20.0,Delhi Capitals,Buffalo Park,East London,A Nehra,Mumbai Indians,bat,wickets,7.0,N
+83,2009,Match 34 ,2009-05-07,Chennai Super Kings,185,3,18.0,Punjab Kings,174,3,18.0,Chennai Super Kings,SuperSport Park,Centurion,ML Hayden,Chennai Super Kings,bat,runs,12.0,N
+84,2009,Match 33 ,2009-05-07,Royal Challengers Bangalore,105,0,20.0,Rajasthan Royals,107,3,15.0,Rajasthan Royals,SuperSport Park,Centurion,A Singh,Rajasthan Royals,field,wickets,7.0,N
+85,2009,Match 32 ,2009-05-06,Sunrisers Hyderabad,145,6,20.0,Mumbai Indians,126,8,20.0,Sunrisers Hyderabad,SuperSport Park,Centurion,RG Sharma,Sunrisers Hyderabad,bat,runs,19.0,N
+86,2009,Match 31 ,2009-05-05,Delhi Capitals,157,1,19.0,Kolkata Knight Riders,154,3,20.0,Delhi Capitals,Kingsmead,Durban,G Gambhir,Kolkata Knight Riders,bat,wickets,9.0,N
+87,2009,Match 30 ,2009-05-05,Punjab Kings,133,8,20.0,Rajasthan Royals,211,4,20.0,Rajasthan Royals,Kingsmead,Durban,GC Smith,Punjab Kings,field,runs,78.0,N
+88,2009,Match 29 ,2009-05-04,Chennai Super Kings,178,3,20.0,Sunrisers Hyderabad,100,0,14.4,Chennai Super Kings,Buffalo Park,East London,MS Dhoni,Chennai Super Kings,bat,runs,78.0,N
+89,2009,Match 28 ,2009-05-03,Royal Challengers Bangalore,150,1,18.1,Mumbai Indians,149,4,20.0,Royal Challengers Bangalore,New Wanderers Stadium,Johannesburg,JH Kallis,Mumbai Indians,bat,wickets,9.0,N
+90,2009,Match 27 ,2009-05-03,Punjab Kings,154,4,20.0,Kolkata Knight Riders,153,3,20.0,Punjab Kings,St George's Park,Port Elizabeth,DPMD Jayawardene,Kolkata Knight Riders,bat,wickets,6.0,N
+91,2009,Match 26 ,2009-05-02,Chennai Super Kings,163,0,20.0,Delhi Capitals,145,8,20.0,Chennai Super Kings,New Wanderers Stadium,Johannesburg,SB Jakati,Delhi Daredevils,field,runs,18.0,N
+92,2009,Match 25 ,2009-05-02,Sunrisers Hyderabad,141,5,20.0,Rajasthan Royals,142,7,19.4,Rajasthan Royals,St George's Park,Port Elizabeth,YK Pathan,Sunrisers Hyderabad,bat,wickets,3.0,N
+93,2009,Match 24 ,2009-05-01,Royal Challengers Bangalore,145,9,20.0,Punjab Kings,137,7,20.0,Royal Challengers Bangalore,Kingsmead,Durban,Yuvraj Singh,Royal Challengers Bangalore,bat,runs,8.0,N
+94,2009,Match 23 ,2009-05-01,Kolkata Knight Riders,139,6,20.0,Mumbai Indians,148,6,20.0,Mumbai Indians,Buffalo Park,East London,JP Duminy,Mumbai Indians,bat,runs,9.0,N
+95,2009,Match 22 ,2009-04-30,Chennai Super Kings,164,5,20.0,Rajasthan Royals,126,9,19.3,Chennai Super Kings,SuperSport Park,Centurion,SK Raina,Rajasthan Royals,field,runs,38.0,N
+96,2009,Match 21 ,2009-04-30,Sunrisers Hyderabad,148,9,20.0,Delhi Capitals,150,4,18.4,Delhi Capitals,SuperSport Park,Centurion,DP Nannes,Delhi Daredevils,field,wickets,6.0,N
+97,2009,Match 20 ,2009-04-29,Punjab Kings,119,8,20.0,Mumbai Indians,116,7,20.0,Punjab Kings,Kingsmead,Durban,KC Sangakkara,Punjab Kings,bat,runs,3.0,N
+98,2009,Match 19 ,2009-04-29,Royal Challengers Bangalore,143,5,19.5,Kolkata Knight Riders,139,6,20.0,Royal Challengers Bangalore,Kingsmead,Durban,MV Boucher,Kolkata Knight Riders,bat,wickets,5.0,N
+99,2009,Match 18 ,2009-04-28,Delhi Capitals,143,7,20.0,Rajasthan Royals,147,5,18.3,Rajasthan Royals,SuperSport Park,Centurion,YK Pathan,Delhi Daredevils,bat,wickets,5.0,N
+100,2009,Match 17 ,2009-04-27,Kolkata Knight Riders,95,9,15.2,Mumbai Indians,187,6,20.0,Mumbai Indians,St George's Park,Port Elizabeth,SR Tendulkar,Mumbai Indians,bat,runs,92.0,N
+101,2009,Match 16 ,2009-04-27,Chennai Super Kings,165,6,20.0,Sunrisers Hyderabad,169,4,19.3,Sunrisers Hyderabad,Kingsmead,Durban,HH Gibbs,Sunrisers Hyderabad,field,wickets,6.0,N
+102,2009,Match 15 ,2009-04-26,Punjab Kings,139,6,20.0,Rajasthan Royals,112,7,20.0,Punjab Kings,Newlands,Cape Town,KC Sangakkara,Punjab Kings,bat,runs,27.0,N
+103,2009,Match 14 ,2009-04-26,Royal Challengers Bangalore,149,7,20.0,Delhi Capitals,150,4,19.2,Delhi Capitals,St George's Park,Port Elizabeth,TM Dilshan,Royal Challengers Bangalore,bat,wickets,6.0,N
+104,2009,Match 12 ,2009-04-25,Sunrisers Hyderabad,173,0,20.0,Mumbai Indians,168,9,19.0,Sunrisers Hyderabad,Kingsmead,Durban,PP Ojha,Sunrisers Hyderabad,bat,runs,12.0,N
+105,2009,Match 11 ,2009-04-24,Royal Challengers Bangalore,150,0,20.0,Punjab Kings,150,8,20.0,Punjab Kings,Kingsmead,Durban,RS Bopara,Royal Challengers Bangalore,bat,wickets,7.0,N
+106,2009,Match 10 ,2009-04-23,Kolkata Knight Riders,189,0,20.0,Rajasthan Royals,180,9,20.0,Rajasthan Royals,Newlands,Cape Town,YK Pathan,Kolkata Knight Riders,field,tie,0.0,Y
+107,2009,Match 9 ,2009-04-23,Chennai Super Kings,184,0,20.0,Delhi Capitals,160,8,20.0,Delhi Capitals,Kingsmead,Durban,AB de Villiers,Delhi Daredevils,bat,runs,9.0,N
+108,2009,Match 8 ,2009-04-22,Royal Challengers Bangalore,158,6,20.0,Sunrisers Hyderabad,79,1,9.2,Sunrisers Hyderabad,Newlands,Cape Town,AC Gilchrist,Sunrisers Hyderabad,bat,runs,24.0,N
+109,2009,Match 6 ,2009-04-21,Punjab Kings,104,2,13.1,Kolkata Knight Riders,101,0,19.4,Kolkata Knight Riders,Kingsmead,Durban,CH Gayle,Kolkata Knight Riders,field,runs,11.0,N
+110,2009,Match 5 ,2009-04-20,Royal Challengers Bangalore,58,0,4.5,Chennai Super Kings,104,7,12.0,Chennai Super Kings,St George's Park,Port Elizabeth,M Muralitharan,Chennai Super Kings,bat,runs,92.0,N
+111,2009,Match 4 ,2009-04-19,Sunrisers Hyderabad,133,8,20.0,Kolkata Knight Riders,58,0,15.1,Sunrisers Hyderabad,Newlands,Cape Town,RP Singh,Kolkata Knight Riders,bat,wickets,8.0,N
+112,2009,Match 3 ,2009-04-19,Delhi Capitals,146,7,20.0,Punjab Kings,165,7,20.0,Delhi Capitals,Newlands,Cape Town,DL Vettori,Delhi Daredevils,field,wickets,10.0,N
+113,2009,Match 2 ,2009-04-18,Royal Challengers Bangalore,0,0,0.0,Rajasthan Royals,0,0,0.0,Royal Challengers Bangalore,Newlands,Cape Town,R Dravid,Royal Challengers Bangalore,bat,runs,75.0,N
+114,2009,Match 1 ,2009-04-18,Chennai Super Kings,0,0,0.0,Mumbai Indians,0,0,0.0,Mumbai Indians,Newlands,Cape Town,SR Tendulkar,Chennai Super Kings,field,runs,19.0,N
+115,2010,Match 60 ,2010-04-25,Chennai Super Kings,168,5,20.0,Mumbai Indians,146,9,20.0,Chennai Super Kings,Dr DY Patil Sports Academy,Mumbai,SK Raina,Chennai Super Kings,bat,runs,22.0,N
+116,2010,Match 59 ,2010-04-24,Royal Challengers Bangalore,86,1,13.5,Sunrisers Hyderabad,82,0,18.3,Royal Challengers Bangalore,Dr DY Patil Sports Academy,Mumbai,A Kumble,Sunrisers Hyderabad,bat,wickets,9.0,N
+117,2010,Match 58 ,2010-04-22,Chennai Super Kings,142,7,20.0,Sunrisers Hyderabad,104,0,19.2,Chennai Super Kings,Dr DY Patil Sports Academy,Mumbai,DE Bollinger,Chennai Super Kings,bat,runs,38.0,N
+118,2010,Match 57 ,2010-04-21,Royal Challengers Bangalore,149,9,20.0,Mumbai Indians,184,5,20.0,Mumbai Indians,Dr DY Patil Sports Academy,Mumbai,KA Pollard,Mumbai Indians,bat,runs,35.0,N
+119,2010,Match 56 ,2010-04-19,Kolkata Knight Riders,135,1,17.3,Mumbai Indians,133,8,20.0,Kolkata Knight Riders,Eden Gardens,Kolkata,M Kartik,Mumbai Indians,bat,wickets,9.0,N
+120,2010,Match 55 ,2010-04-18,Delhi Capitals,134,7,20.0,Sunrisers Hyderabad,145,7,20.0,Sunrisers Hyderabad,Feroz Shah Kotla,Delhi,A Symonds,Sunrisers Hyderabad,bat,runs,11.0,N
+121,2010,Match 54 ,2010-04-18,Punjab Kings,192,3,20.0,Chennai Super Kings,195,4,19.4,Chennai Super Kings,Himachal Pradesh Cricket Association Stadium,Dharamsala,MS Dhoni,Chennai Super Kings,field,wickets,6.0,N
+122,2010,Match 53 ,2010-04-17,Kolkata Knight Riders,133,2,16.1,Rajasthan Royals,132,9,20.0,Kolkata Knight Riders,Eden Gardens,Kolkata,JD Unadkat,Rajasthan Royals,bat,wickets,8.0,N
+123,2010,Match 52 ,2010-04-17,Royal Challengers Bangalore,134,9,20.0,Mumbai Indians,191,4,20.0,Mumbai Indians,M Chinnaswamy Stadium,Bangalore,R McLaren,Royal Challengers Bangalore,field,runs,57.0,N
+124,2010,Match 51 ,2010-04-16,Punjab Kings,174,3,20.0,Sunrisers Hyderabad,178,5,19.1,Sunrisers Hyderabad,Himachal Pradesh Cricket Association Stadium,Dharamsala,RG Sharma,Sunrisers Hyderabad,field,wickets,5.0,N
+125,2010,Match 50 ,2010-04-15,Chennai Super Kings,112,9,20.0,Delhi Capitals,113,4,18.4,Delhi Capitals,MA Chidambaram Stadium,Chennai,G Gambhir,Chennai Super Kings,bat,wickets,6.0,N
+126,2010,Match 49 ,2010-04-14,Rajasthan Royals,130,6,20.0,Royal Challengers Bangalore,132,5,15.4,Royal Challengers Bangalore,Sawai Mansingh Stadium,Jaipur,KP Pietersen,Rajasthan Royals,bat,wickets,5.0,N
+127,2010,Final ,2010-04-13,Chennai Super Kings,143,1,13.3,Kolkata Knight Riders,139,8,20.0,Chennai Super Kings,MA Chidambaram Stadium,Chennai,R Ashwin,Kolkata Knight Riders,bat,wickets,9.0,N
+128,2010,Match 47 ,2010-04-13,Mumbai Indians,183,4,20.0,Delhi Capitals,144,7,20.0,Mumbai Indians,Brabourne Stadium,Mumbai,KA Pollard,Mumbai Indians,bat,runs,39.0,N
+129,2010,Match 46 ,2010-04-12,Sunrisers Hyderabad,151,6,20.0,Royal Challengers Bangalore,138,0,19.4,Sunrisers Hyderabad,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,Harmeet Singh,Royal Challengers Bangalore,field,runs,13.0,N
+130,2010,Match 45 ,2010-04-11,Rajasthan Royals,137,8,20.0,Mumbai Indians,174,5,20.0,Mumbai Indians,Sawai Mansingh Stadium,Jaipur,SR Tendulkar,Rajasthan Royals,field,runs,37.0,N
+131,2010,Match 44 ,2010-04-11,Delhi Capitals,111,0,19.4,Punjab Kings,112,3,18.4,Punjab Kings,Feroz Shah Kotla,Delhi,PP Chawla,Delhi Daredevils,bat,wickets,7.0,N
+132,2010,Match 43 ,2010-04-10,Royal Challengers Bangalore,162,3,17.1,Kolkata Knight Riders,160,9,20.0,Royal Challengers Bangalore,M Chinnaswamy Stadium,Bangalore,R Vinay Kumar,Royal Challengers Bangalore,field,wickets,7.0,N
+133,2010,Match 42 ,2010-04-10,Sunrisers Hyderabad,139,4,19.1,Chennai Super Kings,138,8,20.0,Sunrisers Hyderabad,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,RJ Harris,Chennai Super Kings,bat,wickets,6.0,N
+134,2010,Match 41 ,2010-04-09,Punjab Kings,158,4,19.2,Mumbai Indians,154,9,20.0,Punjab Kings,Punjab Cricket Association Stadium,Chandigarh,KC Sangakkara,Mumbai Indians,bat,wickets,6.0,N
+135,2010,Match 40 ,2010-04-08,Royal Challengers Bangalore,184,6,20.0,Sunrisers Hyderabad,186,3,19.2,Sunrisers Hyderabad,M Chinnaswamy Stadium,Bangalore,TL Suman,Sunrisers Hyderabad,field,wickets,7.0,N
+136,2010,Match 39 ,2010-04-07,Kolkata Knight Riders,181,3,20.0,Delhi Capitals,167,8,20.0,Kolkata Knight Riders,Eden Gardens,Kolkata,SC Ganguly,Kolkata Knight Riders,bat,runs,14.0,N
+137,2010,Match 38 ,2010-04-07,Rajasthan Royals,157,1,15.0,Punjab Kings,153,6,20.0,Rajasthan Royals,Sawai Mansingh Stadium,Jaipur,MJ Lumb,Punjab Kings,bat,wickets,9.0,N
+138,2010,Match 37 ,2010-04-06,Chennai Super Kings,165,4,20.0,Mumbai Indians,141,9,20.0,Chennai Super Kings,MA Chidambaram Stadium,Chennai,SK Raina,Chennai Super Kings,bat,runs,24.0,N
+139,2010,Match 36 ,2010-04-05,Sunrisers Hyderabad,157,0,19.5,Rajasthan Royals,159,0,19.5,Rajasthan Royals,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,SK Warne,Rajasthan Royals,bat,runs,2.0,N
+140,2010,Match 35 ,2010-04-04,Delhi Capitals,184,5,20.0,Royal Challengers Bangalore,147,9,20.0,Delhi Capitals,Feroz Shah Kotla,Delhi,PD Collingwood,Delhi Daredevils,bat,runs,37.0,N
+141,2010,Match 34 ,2010-04-04,Kolkata Knight Riders,200,3,20.0,Punjab Kings,204,2,18.2,Punjab Kings,Eden Gardens,Kolkata,DPMD Jayawardene,Kolkata Knight Riders,bat,wickets,8.0,N
+142,2010,Match 33 ,2010-04-03,Mumbai Indians,178,5,20.0,Sunrisers Hyderabad,115,0,18.2,Mumbai Indians,Brabourne Stadium,Mumbai,AT Rayudu,Mumbai Indians,bat,runs,63.0,N
+143,2010,Match 32 ,2010-04-03,Chennai Super Kings,246,5,20.0,Rajasthan Royals,223,5,20.0,Chennai Super Kings,MA Chidambaram Stadium,Chennai,M Vijay,Chennai Super Kings,bat,runs,23.0,N
+144,2010,Match 31 ,2010-04-02,Punjab Kings,181,5,20.0,Royal Challengers Bangalore,184,4,19.1,Royal Challengers Bangalore,Punjab Cricket Association Stadium,Chandigarh,KP Pietersen,Punjab Kings,bat,wickets,6.0,N
+145,2010,Match 30 ,2010-04-01,Kolkata Knight Riders,181,6,20.0,Sunrisers Hyderabad,157,5,20.0,Kolkata Knight Riders,Eden Gardens,Kolkata,SC Ganguly,Kolkata Knight Riders,bat,runs,24.0,N
+146,2010,Match 29 ,2010-03-31,Delhi Capitals,188,6,20.0,Rajasthan Royals,121,0,17.4,Delhi Capitals,Feroz Shah Kotla,Delhi,KD Karthik,Delhi Daredevils,bat,runs,67.0,N
+147,2010,Match 28 ,2010-03-31,Chennai Super Kings,162,5,18.5,Royal Challengers Bangalore,161,4,20.0,Chennai Super Kings,MA Chidambaram Stadium,Chennai,M Vijay,Royal Challengers Bangalore,bat,wickets,5.0,N
+148,2010,Match 27 ,2010-03-30,Mumbai Indians,164,6,19.3,Punjab Kings,163,0,20.0,Mumbai Indians,Brabourne Stadium,Mumbai,SL Malinga,Mumbai Indians,field,wickets,4.0,N
+149,2010,Match 26 ,2010-03-29,Delhi Capitals,177,4,20.0,Kolkata Knight Riders,137,9,20.0,Delhi Capitals,Feroz Shah Kotla,Delhi,DA Warner,Delhi Daredevils,bat,runs,40.0,N
+150,2010,Match 25 ,2010-03-28,Sunrisers Hyderabad,131,0,17.4,Mumbai Indians,172,7,20.0,Mumbai Indians,Dr DY Patil Sports Academy,Mumbai,Harbhajan Singh,Sunrisers Hyderabad,field,runs,41.0,N
+151,2010,Match 24 ,2010-03-28,Rajasthan Royals,177,8,20.0,Chennai Super Kings,160,6,20.0,Rajasthan Royals,"Sardar Patel Stadium, Motera",Ahmedabad,NV Ojha,Rajasthan Royals,bat,runs,17.0,N
+152,2010,Match 23 ,2010-03-27,Punjab Kings,144,6,20.0,Kolkata Knight Riders,183,5,20.0,Kolkata Knight Riders,Punjab Cricket Association Stadium,Chandigarh,MK Tiwary,Kolkata Knight Riders,bat,runs,39.0,N
+153,2010,Match 22 ,2010-03-26,Rajasthan Royals,151,2,15.4,Sunrisers Hyderabad,148,9,20.0,Rajasthan Royals,"Sardar Patel Stadium, Motera",Ahmedabad,YK Pathan,Sunrisers Hyderabad,bat,wickets,8.0,N
+154,2010,Match 21 ,2010-03-25,Mumbai Indians,181,5,19.0,Chennai Super Kings,180,2,20.0,Mumbai Indians,Brabourne Stadium,Mumbai,SR Tendulkar,Mumbai Indians,field,wickets,5.0,N
+155,2010,Match 20 ,2010-03-25,Royal Challengers Bangalore,166,9,20.0,Delhi Capitals,183,4,20.0,Delhi Capitals,M Chinnaswamy Stadium,Bangalore,KM Jadhav,Royal Challengers Bangalore,field,runs,17.0,N
+156,2010,Match 19 ,2010-03-24,Punjab Kings,152,0,19.1,Rajasthan Royals,183,5,20.0,Rajasthan Royals,Punjab Cricket Association Stadium,Chandigarh,AC Voges,Punjab Kings,field,runs,31.0,N
+157,2010,Match 18 ,2010-03-23,Royal Challengers Bangalore,171,5,20.0,Chennai Super Kings,135,7,20.0,Royal Challengers Bangalore,M Chinnaswamy Stadium,Bangalore,RV Uthappa,Chennai Super Kings,field,runs,36.0,N
+158,2010,Match 17 ,2010-03-22,Mumbai Indians,156,3,18.3,Kolkata Knight Riders,155,3,20.0,Mumbai Indians,Brabourne Stadium,Mumbai,SR Tendulkar,Kolkata Knight Riders,bat,wickets,7.0,N
+159,2010,Match 16 ,2010-03-21,Chennai Super Kings,136,7,20.0,Punjab Kings,136,8,20.0,Punjab Kings,MA Chidambaram Stadium,Chennai,J Theron,Chennai Super Kings,field,tie,0.0,Y
+160,2010,Match 15 ,2010-03-21,Sunrisers Hyderabad,171,6,20.0,Delhi Capitals,161,9,20.0,Sunrisers Hyderabad,Barabati Stadium,Cuttack,A Symonds,Sunrisers Hyderabad,bat,runs,10.0,N
+161,2010,Match 14 ,2010-03-20,Mumbai Indians,151,9,20.0,Royal Challengers Bangalore,155,3,19.1,Royal Challengers Bangalore,Brabourne Stadium,Mumbai,JH Kallis,Mumbai Indians,bat,wickets,7.0,N
+162,2010,Match 13 ,2010-03-20,Rajasthan Royals,168,7,20.0,Kolkata Knight Riders,134,5,20.0,Rajasthan Royals,"Sardar Patel Stadium, Motera",Ahmedabad,AA Jhunjhunwala,Rajasthan Royals,bat,runs,34.0,N
+163,2010,Match 12 ,2010-03-19,Sunrisers Hyderabad,170,7,20.0,Punjab Kings,164,8,20.0,Sunrisers Hyderabad,Barabati Stadium,Cuttack,A Symonds,Punjab Kings,field,runs,6.0,N
+164,2010,Match 11 ,2010-03-19,Delhi Capitals,185,6,20.0,Chennai Super Kings,190,5,19.1,Chennai Super Kings,Feroz Shah Kotla,Delhi,ML Hayden,Delhi Daredevils,bat,wickets,5.0,N
+165,2010,Match 10 ,2010-03-18,Royal Challengers Bangalore,93,0,10.4,Rajasthan Royals,92,0,19.5,Royal Challengers Bangalore,M Chinnaswamy Stadium,Bangalore,JH Kallis,Royal Challengers Bangalore,field,wickets,10.0,N
+166,2010,Match 9 ,2010-03-17,Delhi Capitals,120,9,16.3,Mumbai Indians,218,7,20.0,Mumbai Indians,Feroz Shah Kotla,Delhi,SR Tendulkar,Delhi Daredevils,field,runs,98.0,N
+167,2010,Match 8 ,2010-03-16,Kolkata Knight Riders,109,0,19.2,Chennai Super Kings,164,3,20.0,Chennai Super Kings,Eden Gardens,Kolkata,MS Dhoni,Chennai Super Kings,bat,runs,55.0,N
+168,2010,Match 7 ,2010-03-16,Royal Challengers Bangalore,204,2,18.5,Punjab Kings,203,3,20.0,Royal Challengers Bangalore,M Chinnaswamy Stadium,Bangalore,JH Kallis,Punjab Kings,bat,wickets,8.0,N
+169,2010,Match 6 ,2010-03-15,Rajasthan Royals,141,6,20.0,Delhi Capitals,142,4,17.1,Delhi Capitals,"Sardar Patel Stadium, Motera",Ahmedabad,V Sehwag,Delhi Daredevils,field,wickets,6.0,N
+170,2010,Match 5 ,2010-03-14,Chennai Super Kings,159,9,20.0,Sunrisers Hyderabad,190,4,20.0,Sunrisers Hyderabad,MA Chidambaram Stadium,Chennai,WPUJC Vaas,Sunrisers Hyderabad,bat,runs,31.0,N
+171,2010,Match 4 ,2010-03-14,Kolkata Knight Riders,136,3,19.2,Royal Challengers Bangalore,135,7,20.0,Kolkata Knight Riders,Eden Gardens,Kolkata,MK Tiwary,Kolkata Knight Riders,field,wickets,7.0,N
+172,2010,Match 3 ,2010-03-13,Punjab Kings,142,9,20.0,Delhi Capitals,146,5,19.5,Delhi Capitals,Punjab Cricket Association Stadium,Chandigarh,G Gambhir,Delhi Daredevils,field,wickets,5.0,N
+173,2010,Match 2 ,2010-03-13,Mumbai Indians,212,6,20.0,Rajasthan Royals,208,7,20.0,Mumbai Indians,Brabourne Stadium,Mumbai,YK Pathan,Mumbai Indians,bat,runs,4.0,N
+174,2010,Match 1 ,2010-03-12,Sunrisers Hyderabad,150,7,20.0,Kolkata Knight Riders,161,4,20.0,Kolkata Knight Riders,Dr DY Patil Sports Academy,Mumbai,AD Mathews,Sunrisers Hyderabad,field,runs,11.0,N
+175,2011,Match 74 ,2011-05-28,Chennai Super Kings,205,5,20.0,Royal Challengers Bangalore,147,8,20.0,Chennai Super Kings,MA Chidambaram Stadium,Chennai,M Vijay,Chennai Super Kings,bat,runs,58.0,N
+176,2011,Match 73 ,2011-05-27,Royal Challengers Bangalore,185,4,20.0,Mumbai Indians,142,8,20.0,Royal Challengers Bangalore,MA Chidambaram Stadium,Chennai,CH Gayle,Mumbai Indians,field,runs,43.0,N
+177,2011,Match 72 ,2011-05-25,Kolkata Knight Riders,147,7,20.0,Mumbai Indians,148,6,19.2,Mumbai Indians,Wankhede Stadium,Mumbai,MM Patel,Mumbai Indians,field,wickets,4.0,N
+178,2011,Match 71 ,2011-05-24,Royal Challengers Bangalore,175,4,20.0,Chennai Super Kings,177,4,19.4,Chennai Super Kings,Wankhede Stadium,Mumbai,SK Raina,Chennai Super Kings,field,wickets,6.0,N
+179,2011,Match 70 ,2011-05-22,Kolkata Knight Riders,175,7,20.0,Mumbai Indians,178,5,20.0,Mumbai Indians,Eden Gardens,Kolkata,JEC Franklin,Mumbai Indians,field,wickets,5.0,N
+180,2011,Match 69 ,2011-05-22,Royal Challengers Bangalore,129,2,18.0,Chennai Super Kings,128,8,20.0,Royal Challengers Bangalore,M Chinnaswamy Stadium,Bangalore,CH Gayle,Royal Challengers Bangalore,field,wickets,8.0,N
+181,2011,Match 68 ,2011-05-21,Delhi Capitals,116,0,19.0,Pune Warriors India,198,2,20.0,No Result,Feroz Shah Kotla,Delhi,,Delhi Daredevils,bat,,,
+182,2011,Match 67 ,2011-05-21,Punjab Kings,133,5,20.0,Sunrisers Hyderabad,134,0,13.1,Sunrisers Hyderabad,Himachal Pradesh Cricket Association Stadium,Dharamsala,S Dhawan,Punjab Kings,field,runs,82.0,N
+183,2011,Match 66 ,2011-05-20,Mumbai Indians,118,7,20.0,Rajasthan Royals,119,3,16.4,Rajasthan Royals,Wankhede Stadium,Mumbai,SR Watson,Mumbai Indians,bat,wickets,10.0,N
+184,2011,Match 65 ,2011-05-19,Pune Warriors India,152,5,20.0,Kolkata Knight Riders,141,5,20.0,Kolkata Knight Riders,Dr DY Patil Sports Academy,Mumbai,YK Pathan,Kolkata Knight Riders,field,wickets,7.0,N
+185,2011,Match 64 ,2011-05-18,Chennai Super Kings,232,2,20.0,Kochi Tuskers Kerala,121,0,17.0,Chennai Super Kings,MA Chidambaram Stadium,Chennai,WP Saha,Chennai Super Kings,bat,runs,11.0,N
+186,2011,Match 63 ,2011-05-17,Punjab Kings,136,9,20.0,Royal Challengers Bangalore,138,4,19.2,Punjab Kings,Himachal Pradesh Cricket Association Stadium,Dharamsala,AC Gilchrist,Punjab Kings,bat,runs,111.0,N
+187,2011,Match 62 ,2011-05-16,Pune Warriors India,98,2,7.2,Sunrisers Hyderabad,97,0,18.3,Sunrisers Hyderabad,Dr DY Patil Sports Academy,Mumbai,A Mishra,Sunrisers Hyderabad,field,wickets,6.0,N
+188,2011,Match 61 ,2011-05-15,Kochi Tuskers Kerala,170,6,20.0,Rajasthan Royals,141,8,20.0,Kochi Tuskers Kerala,Holkar Cricket Stadium,Indore,BJ Hodge,Kochi Tuskers Kerala,field,wickets,8.0,N
+189,2011,Match 60 ,2011-05-15,Punjab Kings,125,8,20.0,Delhi Capitals,135,6,20.0,Punjab Kings,Himachal Pradesh Cricket Association Stadium,Dharamsala,PP Chawla,Delhi Daredevils,field,runs,29.0,N
+190,2011,Match 59 ,2011-05-14,Mumbai Indians,105,6,12.3,Sunrisers Hyderabad,89,4,13.0,Sunrisers Hyderabad,Wankhede Stadium,Mumbai,A Mishra,Sunrisers Hyderabad,bat,runs,10.0,N
+191,2011,Match 58 ,2011-05-14,Royal Challengers Bangalore,178,7,20.0,Kolkata Knight Riders,181,4,18.5,Royal Challengers Bangalore,M Chinnaswamy Stadium,Bangalore,CH Gayle,Royal Challengers Bangalore,field,wickets,4.0,N
+192,2011,Match 57 ,2011-05-13,Kochi Tuskers Kerala,176,4,20.0,Punjab Kings,158,6,20.0,Punjab Kings,Holkar Cricket Stadium,Indore,KD Karthik,Punjab Kings,field,wickets,6.0,N
+193,2011,Match 56 ,2011-05-12,Chennai Super Kings,146,6,20.0,Delhi Capitals,151,1,17.0,Chennai Super Kings,MA Chidambaram Stadium,Chennai,MS Dhoni,Chennai Super Kings,bat,runs,18.0,N
+194,2011,Match 55 ,2011-05-11,Rajasthan Royals,163,8,20.0,Royal Challengers Bangalore,87,0,12.5,Royal Challengers Bangalore,Sawai Mansingh Stadium,Jaipur,S Aravind,Royal Challengers Bangalore,field,wickets,9.0,N
+195,2011,Match 54 ,2011-05-10,Punjab Kings,136,8,20.0,Mumbai Indians,137,4,18.2,Punjab Kings,Punjab Cricket Association Stadium,Chandigarh,BA Bhatt,Mumbai Indians,field,runs,76.0,N
+196,2011,Match 53 ,2011-05-10,Sunrisers Hyderabad,133,0,19.3,Pune Warriors India,196,3,20.0,Pune Warriors,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,MR Marsh,Sunrisers Hyderabad,bat,wickets,6.0,N
+197,2011,Match 52 ,2011-05-09,Rajasthan Royals,119,8,20.0,Chennai Super Kings,120,5,17.1,Chennai Super Kings,Sawai Mansingh Stadium,Jaipur,M Vijay,Rajasthan Royals,field,runs,63.0,N
+198,2011,Match 51 ,2011-05-08,Punjab Kings,128,1,13.1,Pune Warriors India,125,9,20.0,Pune Warriors,Punjab Cricket Association Stadium,Chandigarh,R Sharma,Punjab Kings,bat,wickets,5.0,N
+199,2011,Match 50 ,2011-05-08,Royal Challengers Bangalore,178,4,20.0,Kochi Tuskers Kerala,146,0,19.5,Royal Challengers Bangalore,M Chinnaswamy Stadium,Bangalore,CH Gayle,Kochi Tuskers Kerala,bat,wickets,9.0,N
+200,2011,Match 49 ,2011-05-07,Mumbai Indians,61,2,10.0,Delhi Capitals,114,4,20.0,Mumbai Indians,Wankhede Stadium,Mumbai,AT Rayudu,Delhi Daredevils,field,runs,32.0,N
+201,2011,Final ,2011-05-07,Kolkata Knight Riders,205,6,20.0,Chennai Super Kings,120,9,20.0,Kolkata Knight Riders,Eden Gardens,Kolkata,Iqbal Abdulla,Chennai Super Kings,bat,runs,10.0,N
+202,2011,Match 47 ,2011-05-06,Royal Challengers Bangalore,175,5,20.0,Punjab Kings,179,6,19.0,Royal Challengers Bangalore,M Chinnaswamy Stadium,Bangalore,CH Gayle,Punjab Kings,field,runs,85.0,N
+203,2011,Match 46 ,2011-05-05,Sunrisers Hyderabad,156,5,20.0,Delhi Capitals,139,7,20.0,Delhi Capitals,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,V Sehwag,Delhi Daredevils,field,wickets,4.0,N
+204,2011,Match 45 ,2011-05-05,Kochi Tuskers Kerala,139,7,20.0,Kolkata Knight Riders,160,7,20.0,Kochi Tuskers Kerala,Nehru Stadium,Kochi,BJ Hodge,Kolkata Knight Riders,field,runs,17.0,N
+205,2011,Match 44 ,2011-05-04,Pune Warriors India,149,2,18.4,Mumbai Indians,147,6,20.0,Mumbai Indians,Dr DY Patil Sports Academy,Mumbai,R Sharma,Pune Warriors,field,runs,21.0,N
+206,2011,Match 43 ,2011-05-04,Chennai Super Kings,149,6,20.0,Rajasthan Royals,169,4,20.0,Chennai Super Kings,MA Chidambaram Stadium,Chennai,MEK Hussey,Rajasthan Royals,bat,wickets,8.0,N
+207,2011,Match 42 ,2011-05-03,Sunrisers Hyderabad,140,6,20.0,Kolkata Knight Riders,141,3,15.0,Kolkata Knight Riders,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,YK Pathan,Sunrisers Hyderabad,field,runs,20.0,N
+208,2011,Match 41 ,2011-05-02,Delhi Capitals,159,5,20.0,Kochi Tuskers Kerala,136,8,20.0,Kochi Tuskers Kerala,Feroz Shah Kotla,Delhi,P Parameswaran,Kochi Tuskers Kerala,field,wickets,7.0,N
+209,2011,Match 40 ,2011-05-02,Mumbai Indians,165,5,20.0,Punjab Kings,146,8,20.0,Mumbai Indians,Wankhede Stadium,Mumbai,KA Pollard,Punjab Kings,field,runs,23.0,N
+210,2011,Match 39 ,2011-05-01,Chennai Super Kings,144,4,19.3,Sunrisers Hyderabad,143,7,20.0,Chennai Super Kings,MA Chidambaram Stadium,Chennai,JA Morkel,Chennai Super Kings,bat,runs,19.0,N
+211,2011,Match 38 ,2011-05-01,Rajasthan Royals,120,2,17.2,Pune Warriors India,119,6,20.0,Rajasthan Royals,Sawai Mansingh Stadium,Jaipur,LRPL Taylor,Rajasthan Royals,field,wickets,6.0,N
+212,2011,Match 37 ,2011-04-30,Kolkata Knight Riders,119,0,18.5,Punjab Kings,157,7,20.0,Kolkata Knight Riders,Eden Gardens,Kolkata,Iqbal Abdulla,Kolkata Knight Riders,field,wickets,8.0,N
+213,2011,Match 36 ,2011-04-30,Kochi Tuskers Kerala,181,5,20.0,Delhi Capitals,155,5,20.0,Delhi Capitals,Nehru Stadium,Kochi,V Sehwag,Delhi Daredevils,bat,runs,38.0,N
+214,2011,Match 35 ,2011-04-29,Royal Challengers Bangalore,95,3,18.1,Pune Warriors India,94,8,20.0,Royal Challengers Bangalore,M Chinnaswamy Stadium,Bangalore,V Kohli,Pune Warriors,field,runs,26.0,N
+215,2011,Match 34 ,2011-04-29,Rajasthan Royals,131,9,20.0,Mumbai Indians,148,7,20.0,Rajasthan Royals,Sawai Mansingh Stadium,Jaipur,J Botha,Rajasthan Royals,field,wickets,7.0,N
+216,2011,Match 33 ,2011-04-28,Delhi Capitals,74,0,16.3,Kolkata Knight Riders,129,7,20.0,Kolkata Knight Riders,Feroz Shah Kotla,Delhi,MK Tiwary,Delhi Daredevils,field,runs,17.0,N
+217,2011,Match 32 ,2011-04-27,Kochi Tuskers Kerala,141,6,20.0,Sunrisers Hyderabad,145,2,19.3,Sunrisers Hyderabad,Nehru Stadium,Kochi,I Sharma,Kochi Tuskers Kerala,field,runs,55.0,N
+218,2011,Match 31 ,2011-04-27,Pune Warriors India,160,6,20.0,Chennai Super Kings,161,7,19.3,Chennai Super Kings,Dr DY Patil Sports Academy,Mumbai,DE Bollinger,Pune Warriors,bat,wickets,8.0,N
+219,2011,Match 30 ,2011-04-26,Delhi Capitals,142,6,20.0,Royal Challengers Bangalore,117,9,20.0,Royal Challengers Bangalore,Feroz Shah Kotla,Delhi,V Kohli,Royal Challengers Bangalore,field,wickets,3.0,N
+220,2011,Match 29 ,2011-04-25,Chennai Super Kings,111,2,14.1,Pune Warriors India,109,0,20.0,Chennai Super Kings,MA Chidambaram Stadium,Chennai,MEK Hussey,Pune Warriors,field,runs,25.0,N
+221,2011,Match 28 ,2011-04-24,Rajasthan Royals,135,8,20.0,Kochi Tuskers Kerala,172,4,20.0,Rajasthan Royals,Sawai Mansingh Stadium,Jaipur,SK Warne,Rajasthan Royals,field,wickets,8.0,N
+222,2011,Match 27 ,2011-04-24,Sunrisers Hyderabad,231,4,20.0,Mumbai Indians,202,6,20.0,Mumbai Indians,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,SL Malinga,Sunrisers Hyderabad,field,runs,37.0,N
+223,2011,Match 26 ,2011-04-23,Delhi Capitals,164,4,20.0,Punjab Kings,156,9,20.0,Delhi Capitals,Feroz Shah Kotla,Delhi,DA Warner,Punjab Kings,field,runs,29.0,N
+224,2011,Match 25 ,2011-04-22,Mumbai Indians,171,5,20.0,Chennai Super Kings,175,1,18.1,Mumbai Indians,Wankhede Stadium,Mumbai,Harbhajan Singh,Chennai Super Kings,field,runs,8.0,N
+225,2011,Match 24 ,2011-04-22,Kolkata Knight Riders,195,7,20.0,Royal Challengers Bangalore,147,7,20.0,Royal Challengers Bangalore,Eden Gardens,Kolkata,CH Gayle,Royal Challengers Bangalore,field,wickets,9.0,N
+226,2011,Match 23 ,2011-04-21,Punjab Kings,126,9,20.0,Rajasthan Royals,132,7,20.0,Punjab Kings,Punjab Cricket Association Stadium,Chandigarh,SE Marsh,Rajasthan Royals,field,runs,48.0,N
+227,2011,Match 22 ,2011-04-20,Kolkata Knight Riders,124,3,20.0,Kochi Tuskers Kerala,118,0,17.2,Kochi Tuskers Kerala,Eden Gardens,Kolkata,DPMD Jayawardene,Kolkata Knight Riders,field,runs,6.0,N
+228,2011,Match 21 ,2011-04-20,Mumbai Indians,0,0,20.0,Pune Warriors India,152,7,20.0,Mumbai Indians,Wankhede Stadium,Mumbai,MM Patel,Pune Warriors,bat,wickets,7.0,N
+229,2011,Match 19 ,2011-04-19,Delhi Capitals,131,0,13.5,Sunrisers Hyderabad,85,2,15.2,Sunrisers Hyderabad,Feroz Shah Kotla,Delhi,S Sohal,Sunrisers Hyderabad,bat,runs,16.0,N
+230,2011,Match 18 ,2011-04-18,Kochi Tuskers Kerala,8,0,20.0,Chennai Super Kings,187,5,19.2,Kochi Tuskers Kerala,Nehru Stadium,Kochi,BB McCullum,Kochi Tuskers Kerala,field,wickets,7.0,N
+231,2011,Match 17 ,2011-04-17,Kolkata Knight Riders,190,0,20.0,Rajasthan Royals,165,8,17.4,Kolkata Knight Riders,Eden Gardens,Kolkata,L Balaji,Kolkata Knight Riders,field,wickets,8.0,N
+232,2011,Match 16 ,2011-04-17,Pune Warriors India,166,0,20.0,Delhi Capitals,183,5,20.0,Delhi Capitals,Dr DY Patil Sports Academy,Mumbai,Yuvraj Singh,Delhi Daredevils,field,wickets,3.0,N
+233,2011,Match 15 ,2011-04-16,Sunrisers Hyderabad,162,0,20.0,Punjab Kings,182,2,19.0,Punjab Kings,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,PC Valthaty,Punjab Kings,field,wickets,8.0,N
+234,2011,Match 14 ,2011-04-16,Chennai Super Kings,184,0,20.0,Royal Challengers Bangalore,159,4,18.3,Chennai Super Kings,MA Chidambaram Stadium,Chennai,MEK Hussey,Chennai Super Kings,bat,runs,21.0,N
+235,2011,Match 13 ,2011-04-15,Mumbai Indians,160,0,20.0,Kochi Tuskers Kerala,175,5,20.0,Kochi Tuskers Kerala,Wankhede Stadium,Mumbai,BB McCullum,Kochi Tuskers Kerala,field,wickets,8.0,N
+236,2011,Match 12 ,2011-04-15,Rajasthan Royals,142,0,18.5,Kolkata Knight Riders,151,6,20.0,Kolkata Knight Riders,Sawai Mansingh Stadium,Jaipur,G Gambhir,Kolkata Knight Riders,field,wickets,9.0,N
+237,2011,Match 11 ,2011-04-14,Sunrisers Hyderabad,148,0,19.1,Royal Challengers Bangalore,193,4,20.0,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,DW Steyn,Royal Challengers Bangalore,field,runs,33.0,N
+238,2011,Match 10 ,2011-04-13,Pune Warriors India,188,0,20.0,Kochi Tuskers Kerala,140,4,18.3,Pune Warriors,Dr DY Patil Sports Academy,Mumbai,MD Mishra,Kochi Tuskers Kerala,bat,wickets,4.0,N
+239,2011,Match 9 ,2011-04-13,Punjab Kings,143,0,18.3,Chennai Super Kings,152,4,20.0,Punjab Kings,Punjab Cricket Association Stadium,Chandigarh,PC Valthaty,Punjab Kings,field,wickets,6.0,N
+240,2011,Match 8 ,2011-04-12,Royal Challengers Bangalore,151,0,20.0,Mumbai Indians,163,4,20.0,Mumbai Indians,M Chinnaswamy Stadium,Bangalore,SR Tendulkar,Mumbai Indians,field,wickets,9.0,N
+241,2011,Match 7 ,2011-04-12,Rajasthan Royals,154,0,13.1,Delhi Capitals,113,3,20.0,Rajasthan Royals,Sawai Mansingh Stadium,Jaipur,SK Warne,Delhi Daredevils,bat,wickets,6.0,N
+242,2011,Match 6 ,2011-04-11,Kolkata Knight Riders,112,0,17.4,Sunrisers Hyderabad,95,0,16.5,Kolkata Knight Riders,Eden Gardens,Kolkata,JH Kallis,Kolkata Knight Riders,bat,runs,9.0,N
+243,2011,Match 5 ,2011-04-10,Pune Warriors India,99,0,20.0,Punjab Kings,161,5,18.4,Pune Warriors,Dr DY Patil Sports Academy,Mumbai,SB Wagh,Punjab Kings,bat,wickets,7.0,N
+244,2011,Match 4 ,2011-04-10,Delhi Capitals,162,0,20.0,Mumbai Indians,137,8,18.5,Mumbai Indians,Feroz Shah Kotla,Delhi,SL Malinga,Delhi Daredevils,bat,wickets,8.0,N
+245,2011,Match 3 ,2011-04-09,Kochi Tuskers Kerala,141,0,20.0,Royal Challengers Bangalore,153,4,20.0,Royal Challengers Bangalore,Nehru Stadium,Kochi,AB de Villiers,Kochi Tuskers Kerala,bat,wickets,6.0,N
+246,2011,Match 2 ,2011-04-09,Sunrisers Hyderabad,151,0,0.0,Rajasthan Royals,0,0,0.0,Rajasthan Royals,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,SK Trivedi,Rajasthan Royals,field,wickets,8.0,N
+247,2011,Match 1 ,2011-04-08,Chennai Super Kings,0,0,0.0,Kolkata Knight Riders,0,0,0.0,Chennai Super Kings,MA Chidambaram Stadium,Chennai,S Anirudha,Chennai Super Kings,bat,runs,2.0,N
+248,2012,Match 75 ,2012-05-27,Kolkata Knight Riders,192,5,19.4,Chennai Super Kings,190,3,20.0,Kolkata Knight Riders,MA Chidambaram Stadium,Chennai,MS Bisla,Chennai Super Kings,bat,wickets,5.0,N
+249,2012,Match 74 ,2012-05-25,Chennai Super Kings,222,5,20.0,Delhi Capitals,136,0,16.5,Chennai Super Kings,MA Chidambaram Stadium,Chennai,M Vijay,Delhi Daredevils,field,runs,86.0,N
+250,2012,Match 73 ,2012-05-23,Mumbai Indians,149,9,20.0,Chennai Super Kings,187,5,20.0,Chennai Super Kings,M Chinnaswamy Stadium,Bangalore,MS Dhoni,Mumbai Indians,field,runs,38.0,N
+251,2012,Match 72 ,2012-05-22,Delhi Capitals,144,8,20.0,Kolkata Knight Riders,162,4,20.0,Kolkata Knight Riders,Subrata Roy Sahara Stadium,Pune,YK Pathan,Kolkata Knight Riders,bat,runs,18.0,N
+252,2012,Match 71 ,2012-05-20,Rajasthan Royals,162,6,20.0,Mumbai Indians,163,0,18.0,Mumbai Indians,Sawai Mansingh Stadium,Jaipur,DR Smith,Rajasthan Royals,bat,wickets,10.0,N
+253,2012,Match 70 ,2012-05-20,Sunrisers Hyderabad,132,7,20.0,Royal Challengers Bangalore,123,9,20.0,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,DW Steyn,Royal Challengers Bangalore,field,runs,9.0,N
+254,2012,Match 69 ,2012-05-19,Pune Warriors India,102,8,20.0,Kolkata Knight Riders,136,4,20.0,Kolkata Knight Riders,Subrata Roy Sahara Stadium,Pune,Shakib Al Hasan,Kolkata Knight Riders,bat,runs,34.0,N
+255,2012,Match 68 ,2012-05-19,Punjab Kings,141,8,20.0,Delhi Capitals,145,4,18.2,Delhi Capitals,Himachal Pradesh Cricket Association Stadium,Dharamsala,UT Yadav,Delhi Daredevils,field,wickets,6.0,N
+256,2012,Match 67 ,2012-05-18,Sunrisers Hyderabad,128,5,18.4,Rajasthan Royals,126,8,20.0,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,DW Steyn,Rajasthan Royals,bat,wickets,5.0,N
+257,2012,Match 66 ,2012-05-17,Delhi Capitals,194,9,20.0,Royal Challengers Bangalore,215,1,20.0,Royal Challengers Bangalore,Feroz Shah Kotla,Delhi,CH Gayle,Delhi Daredevils,field,runs,21.0,N
+258,2012,Match 65 ,2012-05-17,Punjab Kings,123,4,16.3,Chennai Super Kings,120,7,20.0,Punjab Kings,Himachal Pradesh Cricket Association Stadium,Dharamsala,AC Gilchrist,Punjab Kings,field,wickets,6.0,N
+259,2012,Match 64 ,2012-05-16,Mumbai Indians,108,0,19.1,Kolkata Knight Riders,140,7,20.0,Kolkata Knight Riders,Wankhede Stadium,Mumbai,SP Narine,Mumbai Indians,field,runs,32.0,N
+260,2012,Match 63 ,2012-05-15,Delhi Capitals,140,5,19.0,Punjab Kings,136,8,20.0,Delhi Capitals,Feroz Shah Kotla,Delhi,UT Yadav,Punjab Kings,bat,wickets,5.0,N
+261,2012,Match 62 ,2012-05-14,Kolkata Knight Riders,158,6,20.0,Chennai Super Kings,160,5,20.0,Chennai Super Kings,Eden Gardens,Kolkata,MEK Hussey,Chennai Super Kings,field,wickets,5.0,N
+262,2012,Match 61 ,2012-05-14,Royal Challengers Bangalore,171,6,20.0,Mumbai Indians,173,5,19.4,Mumbai Indians,M Chinnaswamy Stadium,Bangalore,AT Rayudu,Mumbai Indians,field,wickets,5.0,N
+263,2012,Match 60 ,2012-05-13,Punjab Kings,194,6,20.0,Sunrisers Hyderabad,190,4,20.0,Punjab Kings,Punjab Cricket Association Stadium,Chandigarh,DJ Hussey,Sunrisers Hyderabad,bat,wickets,4.0,N
+264,2012,Match 59 ,2012-05-13,Rajasthan Royals,170,4,20.0,Pune Warriors India,125,9,20.0,Rajasthan Royals,Sawai Mansingh Stadium,Jaipur,A Chandila,Rajasthan Royals,bat,runs,45.0,N
+265,2012,Match 58 ,2012-05-12,Chennai Super Kings,115,1,15.2,Delhi Capitals,114,5,20.0,Chennai Super Kings,MA Chidambaram Stadium,Chennai,BW Hilfenhaus,Chennai Super Kings,field,wickets,9.0,N
+266,2012,Match 57 ,2012-05-12,Kolkata Knight Riders,155,4,20.0,Mumbai Indians,182,1,20.0,Mumbai Indians,Eden Gardens,Kolkata,RG Sharma,Mumbai Indians,bat,runs,27.0,N
+267,2012,Match 56 ,2012-05-11,Pune Warriors India,138,9,20.0,Royal Challengers Bangalore,173,3,20.0,Royal Challengers Bangalore,Subrata Roy Sahara Stadium,Pune,CH Gayle,Pune Warriors,field,runs,35.0,N
+268,2012,Match 55 ,2012-05-10,Rajasthan Royals,126,6,20.0,Chennai Super Kings,127,6,18.1,Chennai Super Kings,Sawai Mansingh Stadium,Jaipur,BW Hilfenhaus,Chennai Super Kings,field,wickets,4.0,N
+269,2012,Match 54 ,2012-05-10,Sunrisers Hyderabad,187,4,20.0,Delhi Capitals,193,1,16.4,Delhi Capitals,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,DA Warner,Sunrisers Hyderabad,bat,wickets,9.0,N
+270,2012,Match 53 ,2012-05-09,Mumbai Indians,141,6,20.0,Royal Challengers Bangalore,142,1,18.0,Royal Challengers Bangalore,Wankhede Stadium,Mumbai,CH Gayle,Royal Challengers Bangalore,field,wickets,9.0,N
+271,2012,Match 52 ,2012-05-08,Sunrisers Hyderabad,145,8,20.0,Punjab Kings,170,5,20.0,Punjab Kings,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Mandeep Singh,Sunrisers Hyderabad,field,runs,25.0,N
+272,2012,Match 51 ,2012-05-08,Pune Warriors India,125,6,20.0,Rajasthan Royals,126,3,16.2,Rajasthan Royals,Subrata Roy Sahara Stadium,Pune,SR Watson,Pune Warriors,bat,wickets,7.0,N
+273,2012,Match 50 ,2012-05-07,Delhi Capitals,153,9,20.0,Kolkata Knight Riders,154,4,18.4,Kolkata Knight Riders,Feroz Shah Kotla,Delhi,JH Kallis,Delhi Daredevils,bat,wickets,6.0,N
+274,2012,Match 49 ,2012-05-06,Royal Challengers Bangalore,185,5,18.5,Sunrisers Hyderabad,181,2,20.0,Royal Challengers Bangalore,M Chinnaswamy Stadium,Bangalore,AB de Villiers,Royal Challengers Bangalore,field,wickets,5.0,N
+275,2012,Final ,2012-05-06,Mumbai Indians,174,8,20.0,Chennai Super Kings,173,8,20.0,Mumbai Indians,Wankhede Stadium,Mumbai,DR Smith,Mumbai Indians,field,wickets,2.0,N
+276,2012,Match 47 ,2012-05-05,Punjab Kings,134,8,20.0,Rajasthan Royals,177,6,20.0,Rajasthan Royals,Punjab Cricket Association Stadium,Chandigarh,SR Watson,Rajasthan Royals,bat,runs,43.0,N
+277,2012,Match 46 ,2012-05-05,Kolkata Knight Riders,150,5,20.0,Pune Warriors India,143,8,20.0,Kolkata Knight Riders,Eden Gardens,Kolkata,SP Narine,Kolkata Knight Riders,bat,runs,7.0,N
+278,2012,Match 45 ,2012-05-04,Chennai Super Kings,160,6,20.0,Sunrisers Hyderabad,150,5,20.0,Chennai Super Kings,MA Chidambaram Stadium,Chennai,SK Raina,Chennai Super Kings,bat,runs,10.0,N
+279,2012,Match 44 ,2012-05-03,Pune Warriors India,119,6,20.0,Mumbai Indians,120,9,20.0,Mumbai Indians,Subrata Roy Sahara Stadium,Pune,SL Malinga,Mumbai Indians,bat,runs,1.0,N
+280,2012,Match 43 ,2012-05-02,Royal Challengers Bangalore,158,5,20.0,Punjab Kings,163,6,19.5,Punjab Kings,M Chinnaswamy Stadium,Bangalore,Azhar Mahmood,Punjab Kings,field,wickets,4.0,N
+281,2012,Match 42 ,2012-05-01,Rajasthan Royals,141,6,20.0,Delhi Capitals,144,4,15.2,Delhi Capitals,Sawai Mansingh Stadium,Jaipur,P Negi,Rajasthan Royals,bat,wickets,6.0,N
+282,2012,Match 41 ,2012-05-01,Sunrisers Hyderabad,186,4,20.0,Pune Warriors India,173,5,20.0,Sunrisers Hyderabad,Barabati Stadium,Cuttack,KC Sangakkara,Sunrisers Hyderabad,bat,runs,13.0,N
+283,2012,Match 40 ,2012-04-30,Chennai Super Kings,139,5,20.0,Kolkata Knight Riders,140,5,19.4,Kolkata Knight Riders,MA Chidambaram Stadium,Chennai,G Gambhir,Chennai Super Kings,bat,wickets,5.0,N
+284,2012,Match 39 ,2012-04-29,Mumbai Indians,101,5,18.1,Sunrisers Hyderabad,100,0,18.4,Mumbai Indians,Wankhede Stadium,Mumbai,DW Steyn,Mumbai Indians,field,wickets,5.0,N
+285,2012,Match 38 ,2012-04-29,Delhi Capitals,152,6,20.0,Rajasthan Royals,151,3,20.0,Delhi Capitals,Feroz Shah Kotla,Delhi,V Sehwag,Delhi Daredevils,bat,runs,1.0,N
+286,2012,Match 37 ,2012-04-28,Kolkata Knight Riders,190,4,20.0,Royal Challengers Bangalore,143,6,20.0,Kolkata Knight Riders,Eden Gardens,Kolkata,G Gambhir,Kolkata Knight Riders,bat,runs,47.0,N
+287,2012,Match 36 ,2012-04-28,Chennai Super Kings,149,8,20.0,Punjab Kings,156,8,20.0,Punjab Kings,MA Chidambaram Stadium,Chennai,Mandeep Singh,Punjab Kings,bat,runs,7.0,N
+288,2012,Match 35 ,2012-04-27,Delhi Capitals,207,5,20.0,Mumbai Indians,170,9,20.0,Delhi Capitals,Feroz Shah Kotla,Delhi,V Sehwag,Mumbai Indians,field,runs,37.0,N
+289,2012,Match 34 ,2012-04-26,Pune Warriors India,159,7,20.0,Sunrisers Hyderabad,177,4,20.0,Sunrisers Hyderabad,Subrata Roy Sahara Stadium,Pune,CL White,Sunrisers Hyderabad,bat,runs,18.0,N
+290,2012,Match 32 ,2012-04-25,Punjab Kings,148,0,20.0,Mumbai Indians,146,2,16.0,Mumbai Indians,Punjab Cricket Association Stadium,Chandigarh,AT Rayudu,Punjab Kings,bat,wickets,4.0,N
+291,2012,Match 30 ,2012-04-24,Pune Warriors India,127,0,20.0,Delhi Capitals,126,7,19.0,Delhi Capitals,Subrata Roy Sahara Stadium,Pune,V Sehwag,Pune Warriors,bat,wickets,8.0,N
+292,2012,Match 29 ,2012-04-23,Rajasthan Royals,164,0,20.0,Royal Challengers Bangalore,163,6,19.3,Royal Challengers Bangalore,Sawai Mansingh Stadium,Jaipur,AB de Villiers,Rajasthan Royals,field,runs,46.0,N
+293,2012,Match 28 ,2012-04-22,Sunrisers Hyderabad,192,0,20.0,Kolkata Knight Riders,172,7,20.0,Kolkata Knight Riders,Barabati Stadium,Cuttack,B Lee,Kolkata Knight Riders,field,wickets,5.0,N
+294,2012,Match 27 ,2012-04-22,Mumbai Indians,146,0,20.0,Punjab Kings,147,3,20.0,Punjab Kings,Wankhede Stadium,Mumbai,SE Marsh,Mumbai Indians,bat,wickets,6.0,N
+295,2012,Match 26 ,2012-04-21,Delhi Capitals,166,0,20.0,Pune Warriors India,163,6,19.3,Pune Warriors,Feroz Shah Kotla,Delhi,SC Ganguly,Delhi Daredevils,field,runs,20.0,N
+296,2012,Match 25 ,2012-04-21,Chennai Super Kings,157,0,19.1,Rajasthan Royals,162,5,20.0,Chennai Super Kings,MA Chidambaram Stadium,Chennai,F du Plessis,Rajasthan Royals,bat,wickets,7.0,N
+297,2012,Match 24 ,2012-04-20,Punjab Kings,127,0,20.0,Royal Challengers Bangalore,124,7,16.3,Royal Challengers Bangalore,Punjab Cricket Association Stadium,Chandigarh,CH Gayle,Royal Challengers Bangalore,field,wickets,5.0,N
+298,2012,Match 23 ,2012-04-19,Delhi Capitals,182,0,20.0,Sunrisers Hyderabad,186,4,20.0,Delhi Capitals,Feroz Shah Kotla,Delhi,KP Pietersen,Sunrisers Hyderabad,bat,wickets,5.0,N
+299,2012,Match 22 ,2012-04-18,Punjab Kings,196,0,19.4,Kolkata Knight Riders,197,5,20.0,Kolkata Knight Riders,Punjab Cricket Association Stadium,Chandigarh,G Gambhir,Punjab Kings,bat,wickets,8.0,N
+300,2012,Match 21 ,2012-04-17,Royal Challengers Bangalore,93,0,19.2,Pune Warriors India,92,0,14.5,Royal Challengers Bangalore,M Chinnaswamy Stadium,Bangalore,CH Gayle,Pune Warriors,bat,wickets,6.0,N
+301,2012,Match 20 ,2012-04-17,Rajasthan Royals,195,0,19.5,Sunrisers Hyderabad,136,0,20.0,Rajasthan Royals,Sawai Mansingh Stadium,Jaipur,BJ Hodge,Sunrisers Hyderabad,bat,wickets,5.0,N
+302,2012,Match 19 ,2012-04-16,Mumbai Indians,134,0,20.0,Delhi Capitals,132,7,20.0,Delhi Capitals,Wankhede Stadium,Mumbai,S Nadeem,Delhi Daredevils,field,wickets,7.0,N
+303,2012,Match 18 ,2012-04-15,Royal Challengers Bangalore,155,0,19.2,Rajasthan Royals,156,3,20.0,Rajasthan Royals,M Chinnaswamy Stadium,Bangalore,AM Rahane,Rajasthan Royals,bat,runs,59.0,N
+304,2012,Match 17 ,2012-04-15,Kolkata Knight Riders,131,0,19.2,Punjab Kings,137,5,20.0,Punjab Kings,Eden Gardens,Kolkata,SP Narine,Kolkata Knight Riders,field,runs,2.0,N
+305,2012,Match 16 ,2012-04-14,Pune Warriors India,11,0,17.4,Chennai Super Kings,116,3,19.0,Pune Warriors,Subrata Roy Sahara Stadium,Pune,JD Ryder,Chennai Super Kings,bat,wickets,7.0,N
+306,2012,Match 15 ,2012-04-13,Kolkata Knight Riders,205,0,20.0,Rajasthan Royals,208,5,20.0,Kolkata Knight Riders,Eden Gardens,Kolkata,Shakib Al Hasan,Rajasthan Royals,bat,wickets,5.0,N
+307,2012,Match 14 ,2012-04-12,Punjab Kings,17,0,20.0,Pune Warriors India,197,6,19.4,Punjab Kings,Punjab Cricket Association Stadium,Chandigarh,AD Mascarenhas,Punjab Kings,field,wickets,7.0,N
+308,2012,Match 13 ,2012-04-12,Chennai Super Kings,110,0,13.2,Royal Challengers Bangalore,111,2,20.0,Chennai Super Kings,MA Chidambaram Stadium,Chennai,F du Plessis,Royal Challengers Bangalore,bat,wickets,5.0,N
+309,2012,Match 12 ,2012-04-11,Mumbai Indians,165,0,20.0,Rajasthan Royals,123,9,20.0,Mumbai Indians,Wankhede Stadium,Mumbai,KA Pollard,Rajasthan Royals,field,runs,27.0,N
+310,2012,Match 11 ,2012-04-10,Delhi Capitals,142,0,20.0,Chennai Super Kings,138,9,20.0,Delhi Capitals,Feroz Shah Kotla,Delhi,M Morkel,Delhi Daredevils,field,wickets,8.0,N
+311,2012,Match 10 ,2012-04-10,Royal Challengers Bangalore,144,0,20.0,Kolkata Knight Riders,166,6,20.0,Kolkata Knight Riders,M Chinnaswamy Stadium,Bangalore,L Balaji,Royal Challengers Bangalore,field,runs,42.0,N
+312,2012,Match 9 ,2012-04-09,Sunrisers Hyderabad,14,0,20.0,Mumbai Indians,164,5,20.0,Mumbai Indians,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,RG Sharma,Sunrisers Hyderabad,bat,wickets,5.0,N
+313,2012,Match 8 ,2012-04-08,Pune Warriors India,193,0,17.1,Punjab Kings,119,0,20.0,Pune Warriors,Subrata Roy Sahara Stadium,Pune,MN Samuels,Pune Warriors,bat,runs,22.0,N
+314,2012,Match 7 ,2012-04-08,Rajasthan Royals,137,0,20.0,Kolkata Knight Riders,157,8,20.0,Rajasthan Royals,Sawai Mansingh Stadium,Jaipur,BJ Hodge,Kolkata Knight Riders,field,runs,22.0,N
+315,2012,Match 6 ,2012-04-07,Sunrisers Hyderabad,160,0,20.0,Chennai Super Kings,191,4,20.0,Chennai Super Kings,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,RA Jadeja,Sunrisers Hyderabad,field,runs,74.0,N
+316,2012,Match 5 ,2012-04-07,Royal Challengers Bangalore,129,0,20.0,Delhi Capitals,101,9,20.0,Royal Challengers Bangalore,M Chinnaswamy Stadium,Bangalore,AB de Villiers,Delhi Daredevils,field,runs,20.0,N
+317,2012,Match 4 ,2012-04-06,Rajasthan Royals,100,0,12.0,Punjab Kings,97,9,11.1,Rajasthan Royals,Sawai Mansingh Stadium,Jaipur,AM Rahane,Punjab Kings,field,runs,31.0,N
+318,2012,Match 3 ,2012-04-06,Mumbai Indians,115,0,19.5,Pune Warriors India,112,0,16.5,Pune Warriors,Wankhede Stadium,Mumbai,SPD Smith,Mumbai Indians,field,runs,28.0,N
+319,2012,Match 2 ,2012-04-05,Kolkata Knight Riders,0,0,0.0,Delhi Capitals,0,0,0.0,Delhi Capitals,Eden Gardens,Kolkata,IK Pathan,Delhi Daredevils,field,wickets,8.0,N
+320,2012,Match 1 ,2012-04-04,Chennai Super Kings,0,0,0.0,Mumbai Indians,0,0,0.0,Mumbai Indians,MA Chidambaram Stadium,Chennai,RE Levi,Mumbai Indians,field,wickets,8.0,N
+321,2013,Match 76 ,2013-05-26,Chennai Super Kings,125,9,20.0,Mumbai Indians,148,9,20.0,Mumbai Indians,Eden Gardens,Kolkata,KA Pollard,Mumbai Indians,bat,runs,23.0,N
+322,2013,Match 75 ,2013-05-24,Rajasthan Royals,165,6,20.0,Mumbai Indians,169,6,19.5,Mumbai Indians,Eden Gardens,Kolkata,Harbhajan Singh,Rajasthan Royals,bat,wickets,4.0,N
+323,2013,Match 74 ,2013-05-22,Rajasthan Royals,135,6,19.2,Sunrisers Hyderabad,132,7,20.0,Rajasthan Royals,Feroz Shah Kotla,Delhi,BJ Hodge,Sunrisers Hyderabad,bat,wickets,4.0,N
+324,2013,Match 73 ,2013-05-21,Chennai Super Kings,192,1,20.0,Mumbai Indians,144,0,18.4,Chennai Super Kings,Feroz Shah Kotla,Delhi,MEK Hussey,Chennai Super Kings,bat,runs,48.0,N
+325,2013,Match 72 ,2013-05-19,Sunrisers Hyderabad,132,5,18.5,Kolkata Knight Riders,130,7,20.0,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,PA Patel,Kolkata Knight Riders,bat,wickets,5.0,N
+326,2013,Match 71 ,2013-05-19,Pune Warriors India,172,5,20.0,Delhi Capitals,134,9,20.0,Pune Warriors,Subrata Roy Sahara Stadium,Pune,LJ Wright,Pune Warriors,bat,runs,38.0,N
+327,2013,Match 70 ,2013-05-18,Royal Challengers Bangalore,106,2,8.0,Chennai Super Kings,82,6,8.0,Royal Challengers Bangalore,M Chinnaswamy Stadium,Bangalore,V Kohli,Chennai Super Kings,field,runs,24.0,N
+328,2013,Match 69 ,2013-05-18,Punjab Kings,183,8,20.0,Mumbai Indians,133,9,19.1,Punjab Kings,Himachal Pradesh Cricket Association Stadium,Dharamsala,Azhar Mahmood,Mumbai Indians,field,runs,50.0,N
+329,2013,Match 68 ,2013-05-17,Sunrisers Hyderabad,136,9,20.0,Rajasthan Royals,113,9,20.0,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,A Mishra,Sunrisers Hyderabad,bat,runs,23.0,N
+330,2013,Match 67 ,2013-05-16,Punjab Kings,171,4,20.0,Delhi Capitals,164,7,20.0,Punjab Kings,Himachal Pradesh Cricket Association Stadium,Dharamsala,DA Miller,Delhi Daredevils,field,runs,7.0,N
+331,2013,Match 66 ,2013-05-15,Mumbai Indians,166,8,20.0,Rajasthan Royals,152,7,20.0,Mumbai Indians,Wankhede Stadium,Mumbai,AP Tare,Rajasthan Royals,field,runs,14.0,N
+332,2013,Match 65 ,2013-05-15,Kolkata Knight Riders,163,7,20.0,Pune Warriors India,170,4,20.0,Pune Warriors,JSCA International Stadium Complex,Ranchi,MK Pandey,Kolkata Knight Riders,field,runs,7.0,N
+333,2013,Match 64 ,2013-05-14,Chennai Super Kings,168,4,20.0,Delhi Capitals,135,9,20.0,Chennai Super Kings,MA Chidambaram Stadium,Chennai,MS Dhoni,Chennai Super Kings,bat,runs,33.0,N
+334,2013,Match 63 ,2013-05-14,Royal Challengers Bangalore,174,5,20.0,Punjab Kings,176,3,18.1,Punjab Kings,M Chinnaswamy Stadium,Bangalore,AC Gilchrist,Punjab Kings,field,wickets,7.0,N
+335,2013,Match 62 ,2013-05-13,Mumbai Indians,184,3,19.3,Sunrisers Hyderabad,178,3,20.0,Mumbai Indians,Wankhede Stadium,Mumbai,KA Pollard,Sunrisers Hyderabad,bat,wickets,7.0,N
+336,2013,Match 61 ,2013-05-12,Rajasthan Royals,144,5,17.1,Chennai Super Kings,141,4,20.0,Rajasthan Royals,Sawai Mansingh Stadium,Jaipur,SR Watson,Rajasthan Royals,field,wickets,5.0,N
+337,2013,Match 60 ,2013-05-12,Kolkata Knight Riders,116,5,19.2,Royal Challengers Bangalore,115,9,20.0,Kolkata Knight Riders,JSCA International Stadium Complex,Ranchi,JH Kallis,Kolkata Knight Riders,field,wickets,5.0,N
+338,2013,Match 59 ,2013-05-11,Punjab Kings,120,9,20.0,Sunrisers Hyderabad,150,7,20.0,Sunrisers Hyderabad,Punjab Cricket Association Stadium,Chandigarh,PA Patel,Punjab Kings,field,runs,30.0,N
+339,2013,Match 58 ,2013-05-11,Pune Warriors India,112,8,20.0,Mumbai Indians,116,5,18.5,Mumbai Indians,Subrata Roy Sahara Stadium,Pune,MG Johnson,Pune Warriors,bat,wickets,5.0,N
+340,2013,Match 57 ,2013-05-10,Delhi Capitals,179,7,20.0,Royal Challengers Bangalore,183,4,20.0,Royal Challengers Bangalore,Feroz Shah Kotla,Delhi,JD Unadkat,Delhi Daredevils,field,runs,4.0,N
+341,2013,Match 56 ,2013-05-09,Pune Warriors India,106,0,19.3,Kolkata Knight Riders,152,6,20.0,Kolkata Knight Riders,Subrata Roy Sahara Stadium,Pune,G Gambhir,Kolkata Knight Riders,bat,runs,46.0,N
+342,2013,Match 55 ,2013-05-09,Punjab Kings,145,6,20.0,Rajasthan Royals,147,2,19.0,Rajasthan Royals,Punjab Cricket Association Stadium,Chandigarh,KK Cooper,Rajasthan Royals,field,wickets,8.0,N
+343,2013,Match 54 ,2013-05-08,Sunrisers Hyderabad,146,8,20.0,Chennai Super Kings,223,3,20.0,Chennai Super Kings,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,SK Raina,Sunrisers Hyderabad,field,runs,77.0,N
+344,2013,Match 53 ,2013-05-07,Mumbai Indians,170,6,20.0,Kolkata Knight Riders,105,0,18.2,Mumbai Indians,Wankhede Stadium,Mumbai,SR Tendulkar,Mumbai Indians,bat,runs,65.0,N
+345,2013,Match 52 ,2013-05-07,Rajasthan Royals,155,1,17.5,Delhi Capitals,154,4,20.0,Rajasthan Royals,Sawai Mansingh Stadium,Jaipur,AM Rahane,Delhi Daredevils,bat,wickets,9.0,N
+346,2013,Match 51 ,2013-05-06,Punjab Kings,194,4,18.0,Royal Challengers Bangalore,190,3,20.0,Punjab Kings,Punjab Cricket Association Stadium,Chandigarh,DA Miller,Punjab Kings,field,wickets,6.0,N
+347,2013,Match 50 ,2013-05-05,Rajasthan Royals,182,5,19.5,Pune Warriors India,178,4,20.0,Rajasthan Royals,Sawai Mansingh Stadium,Jaipur,AM Rahane,Pune Warriors,bat,wickets,5.0,N
+348,2013,Match 49 ,2013-05-05,Mumbai Indians,139,5,20.0,Chennai Super Kings,79,0,15.2,Mumbai Indians,Wankhede Stadium,Mumbai,MG Johnson,Mumbai Indians,bat,runs,60.0,N
+349,2013,Final ,2013-05-04,Sunrisers Hyderabad,81,4,13.5,Delhi Capitals,80,0,19.1,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,DJG Sammy,Delhi Daredevils,bat,wickets,6.0,N
+350,2013,Match 47 ,2013-05-03,Kolkata Knight Riders,133,2,17.2,Rajasthan Royals,132,6,20.0,Kolkata Knight Riders,Eden Gardens,Kolkata,YK Pathan,Rajasthan Royals,bat,wickets,8.0,N
+351,2013,Match 46 ,2013-05-02,Pune Warriors India,170,9,20.0,Royal Challengers Bangalore,187,3,20.0,Royal Challengers Bangalore,Subrata Roy Sahara Stadium,Pune,AB de Villiers,Royal Challengers Bangalore,bat,runs,17.0,N
+352,2013,Match 45 ,2013-05-02,Chennai Super Kings,186,4,20.0,Punjab Kings,171,6,20.0,Chennai Super Kings,MA Chidambaram Stadium,Chennai,SK Raina,Chennai Super Kings,bat,runs,15.0,N
+353,2013,Match 44 ,2013-05-01,Delhi Capitals,137,3,17.5,Kolkata Knight Riders,136,7,20.0,Delhi Capitals,Shaheed Veer Narayan Singh International Stadium,Raipur,DA Warner,Kolkata Knight Riders,bat,wickets,7.0,N
+354,2013,Match 43 ,2013-05-01,Sunrisers Hyderabad,130,3,18.0,Mumbai Indians,129,4,20.0,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,I Sharma,Mumbai Indians,bat,wickets,7.0,N
+355,2013,Match 42 ,2013-04-30,Pune Warriors India,127,9,20.0,Chennai Super Kings,164,3,20.0,Chennai Super Kings,Subrata Roy Sahara Stadium,Pune,MS Dhoni,Chennai Super Kings,bat,runs,37.0,N
+356,2013,Match 41 ,2013-04-29,Mumbai Indians,174,3,20.0,Punjab Kings,170,0,20.0,Mumbai Indians,Wankhede Stadium,Mumbai,RG Sharma,Mumbai Indians,bat,runs,4.0,N
+357,2013,Match 40 ,2013-04-29,Rajasthan Royals,173,6,19.5,Royal Challengers Bangalore,171,6,20.0,Rajasthan Royals,Sawai Mansingh Stadium,Jaipur,SV Samson,Rajasthan Royals,field,wickets,4.0,N
+358,2013,Match 39 ,2013-04-28,Delhi Capitals,164,5,20.0,Pune Warriors India,149,4,20.0,Delhi Capitals,Shaheed Veer Narayan Singh International Stadium,Raipur,DA Warner,Pune Warriors,field,runs,15.0,N
+359,2013,Match 38 ,2013-04-28,Chennai Super Kings,200,3,20.0,Kolkata Knight Riders,186,4,20.0,Chennai Super Kings,MA Chidambaram Stadium,Chennai,MEK Hussey,Kolkata Knight Riders,field,runs,14.0,N
+360,2013,Match 37 ,2013-04-27,Mumbai Indians,194,7,20.0,Royal Challengers Bangalore,136,7,20.0,Mumbai Indians,Wankhede Stadium,Mumbai,DR Smith,Mumbai Indians,bat,runs,58.0,N
+361,2013,Match 36 ,2013-04-27,Rajasthan Royals,146,2,17.5,Sunrisers Hyderabad,144,9,20.0,Rajasthan Royals,Sawai Mansingh Stadium,Jaipur,JP Faulkner,Sunrisers Hyderabad,bat,wickets,8.0,N
+362,2013,Match 35 ,2013-04-26,Kolkata Knight Riders,150,4,18.2,Punjab Kings,149,6,20.0,Kolkata Knight Riders,Eden Gardens,Kolkata,JH Kallis,Punjab Kings,bat,wickets,6.0,N
+363,2013,Match 34 ,2013-04-25,Chennai Super Kings,160,5,19.4,Sunrisers Hyderabad,159,6,20.0,Chennai Super Kings,MA Chidambaram Stadium,Chennai,MS Dhoni,Sunrisers Hyderabad,bat,wickets,5.0,N
+364,2013,Match 33 ,2013-04-24,Kolkata Knight Riders,159,6,20.0,Mumbai Indians,162,5,19.5,Mumbai Indians,Eden Gardens,Kolkata,DR Smith,Kolkata Knight Riders,bat,wickets,5.0,N
+365,2013,Match 32 ,2013-04-23,Delhi Capitals,120,7,20.0,Punjab Kings,121,5,17.0,Punjab Kings,Feroz Shah Kotla,Delhi,Harmeet Singh,Punjab Kings,field,wickets,5.0,N
+366,2013,Match 31 ,2013-04-23,Royal Challengers Bangalore,263,5,20.0,Pune Warriors India,133,9,20.0,Royal Challengers Bangalore,M Chinnaswamy Stadium,Bangalore,CH Gayle,Pune Warriors,field,runs,130.0,N
+367,2013,Match 30 ,2013-04-22,Chennai Super Kings,186,5,19.5,Rajasthan Royals,185,4,20.0,Chennai Super Kings,MA Chidambaram Stadium,Chennai,MEK Hussey,Rajasthan Royals,bat,wickets,5.0,N
+368,2013,Match 29 ,2013-04-21,Punjab Kings,186,3,19.5,Pune Warriors India,185,4,20.0,Punjab Kings,Punjab Cricket Association Stadium,Chandigarh,DA Miller,Punjab Kings,field,wickets,7.0,N
+369,2013,Match 28 ,2013-04-21,Delhi Capitals,165,1,17.0,Mumbai Indians,161,4,20.0,Delhi Capitals,Feroz Shah Kotla,Delhi,V Sehwag,Mumbai Indians,bat,wickets,9.0,N
+370,2013,Match 27 ,2013-04-20,Royal Challengers Bangalore,123,3,17.5,Rajasthan Royals,117,0,19.4,Royal Challengers Bangalore,M Chinnaswamy Stadium,Bangalore,R Vinay Kumar,Royal Challengers Bangalore,field,wickets,7.0,N
+371,2013,Match 26 ,2013-04-20,Kolkata Knight Riders,119,9,20.0,Chennai Super Kings,124,6,19.1,Chennai Super Kings,Eden Gardens,Kolkata,RA Jadeja,Kolkata Knight Riders,bat,wickets,4.0,N
+372,2013,Match 25 ,2013-04-19,Sunrisers Hyderabad,127,5,18.5,Punjab Kings,123,9,20.0,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,GH Vihari,Punjab Kings,bat,wickets,5.0,N
+373,2013,Match 24 ,2013-04-18,Delhi Capitals,83,0,17.3,Chennai Super Kings,169,4,20.0,Chennai Super Kings,Feroz Shah Kotla,Delhi,MEK Hussey,Chennai Super Kings,bat,runs,86.0,N
+374,2013,Match 23 ,2013-04-17,Rajasthan Royals,179,3,20.0,Mumbai Indians,92,0,18.2,Rajasthan Royals,Sawai Mansingh Stadium,Jaipur,AM Rahane,Rajasthan Royals,bat,runs,87.0,N
+375,2013,Match 22 ,2013-04-17,Pune Warriors India,108,0,19.0,Sunrisers Hyderabad,119,8,20.0,Sunrisers Hyderabad,Subrata Roy Sahara Stadium,Pune,A Mishra,Pune Warriors,field,runs,11.0,N
+376,2013,Match 21 ,2013-04-16,Royal Challengers Bangalore,152,7,20.0,Delhi Capitals,152,5,20.0,Royal Challengers Bangalore,M Chinnaswamy Stadium,Bangalore,V Kohli,Royal Challengers Bangalore,field,tie,0.0,Y
+377,2013,Match 20 ,2013-04-16,Punjab Kings,157,9,20.0,Kolkata Knight Riders,153,9,20.0,Punjab Kings,Punjab Cricket Association Stadium,Chandigarh,MS Gony,Kolkata Knight Riders,field,runs,4.0,N
+378,2013,Match 19 ,2013-04-15,Chennai Super Kings,135,8,20.0,Pune Warriors India,159,5,20.0,Pune Warriors,MA Chidambaram Stadium,Chennai,SPD Smith,Pune Warriors,bat,runs,24.0,N
+379,2013,Match 18 ,2013-04-14,Rajasthan Royals,126,4,19.2,Punjab Kings,124,0,18.5,Rajasthan Royals,Sawai Mansingh Stadium,Jaipur,JP Faulkner,Rajasthan Royals,field,wickets,6.0,N
+380,2013,Match 17 ,2013-04-14,Kolkata Knight Riders,180,4,20.0,Sunrisers Hyderabad,132,7,20.0,Kolkata Knight Riders,Eden Gardens,Kolkata,G Gambhir,Kolkata Knight Riders,bat,runs,48.0,N
+381,2013,Match 16 ,2013-04-13,Chennai Super Kings,166,6,19.5,Royal Challengers Bangalore,165,6,20.0,Chennai Super Kings,MA Chidambaram Stadium,Chennai,RA Jadeja,Chennai Super Kings,field,wickets,4.0,N
+382,2013,Match 15 ,2013-04-13,Mumbai Indians,183,3,20.0,Pune Warriors India,142,8,20.0,Mumbai Indians,Wankhede Stadium,Mumbai,RG Sharma,Mumbai Indians,bat,runs,41.0,N
+383,2013,Match 14 ,2013-04-12,Delhi Capitals,114,8,20.0,Sunrisers Hyderabad,115,7,19.2,Sunrisers Hyderabad,Feroz Shah Kotla,Delhi,A Mishra,Delhi Daredevils,bat,wickets,3.0,N
+384,2013,Match 13 ,2013-04-11,Pune Warriors India,148,3,18.4,Rajasthan Royals,145,5,20.0,Pune Warriors,Subrata Roy Sahara Stadium,Pune,AJ Finch,Rajasthan Royals,bat,wickets,7.0,N
+385,2013,Match 12 ,2013-04-11,Royal Challengers Bangalore,158,2,17.3,Kolkata Knight Riders,154,8,20.0,Royal Challengers Bangalore,M Chinnaswamy Stadium,Bangalore,CH Gayle,Royal Challengers Bangalore,field,wickets,8.0,N
+386,2013,Match 11 ,2013-04-10,Punjab Kings,138,0,19.5,Chennai Super Kings,139,0,17.2,Chennai Super Kings,Punjab Cricket Association Stadium,Chandigarh,MEK Hussey,Chennai Super Kings,field,wickets,10.0,N
+387,2013,Match 10 ,2013-04-09,Mumbai Indians,209,5,20.0,Delhi Capitals,165,9,20.0,Mumbai Indians,Wankhede Stadium,Mumbai,KD Karthik,Mumbai Indians,bat,runs,44.0,N
+388,2013,Match 9 ,2013-04-09,Royal Challengers Bangalore,162,3,17.4,Sunrisers Hyderabad,161,6,20.0,Royal Challengers Bangalore,M Chinnaswamy Stadium,Bangalore,V Kohli,Sunrisers Hyderabad,bat,wickets,7.0,N
+389,2013,Match 8 ,2013-04-08,Rajasthan Royals,144,6,20.0,Kolkata Knight Riders,125,0,19.0,Rajasthan Royals,Sawai Mansingh Stadium,Jaipur,SK Trivedi,Kolkata Knight Riders,field,runs,19.0,N
+390,2013,Match 7 ,2013-04-07,Sunrisers Hyderabad,130,7,20.0,Royal Challengers Bangalore,130,8,20.0,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,GH Vihari,Royal Challengers Bangalore,bat,tie,0.0,Y
+391,2013,Match 6 ,2013-04-07,Pune Warriors India,99,9,20.0,Punjab Kings,100,2,12.2,Punjab Kings,Subrata Roy Sahara Stadium,Pune,M Vohra,Pune Warriors,bat,wickets,8.0,N
+392,2013,Match 5 ,2013-04-06,Chennai Super Kings,139,9,20.0,Mumbai Indians,148,6,20.0,Mumbai Indians,MA Chidambaram Stadium,Chennai,KA Pollard,Mumbai Indians,bat,runs,9.0,N
+393,2013,Match 4 ,2013-04-06,Delhi Capitals,160,6,20.0,Rajasthan Royals,165,7,20.0,Rajasthan Royals,Feroz Shah Kotla,Delhi,R Dravid,Rajasthan Royals,bat,runs,5.0,N
+394,2013,Match 3 ,2013-04-05,Sunrisers Hyderabad,126,6,20.0,Pune Warriors India,104,0,18.5,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,A Mishra,Pune Warriors,field,runs,22.0,N
+395,2013,Match 2 ,2013-04-04,Royal Challengers Bangalore,156,5,20.0,Mumbai Indians,154,5,20.0,Royal Challengers Bangalore,M Chinnaswamy Stadium,Bangalore,CH Gayle,Mumbai Indians,field,runs,2.0,N
+396,2013,Match 1 ,2013-04-03,Kolkata Knight Riders,129,4,18.4,Delhi Capitals,128,0,20.0,Kolkata Knight Riders,Eden Gardens,Kolkata,SP Narine,Kolkata Knight Riders,field,wickets,6.0,N
+397,2014,Match 60 ,2014-06-01,Punjab Kings,199,4,20.0,Kolkata Knight Riders,200,7,19.3,Kolkata Knight Riders,M Chinnaswamy Stadium,Bangalore,MK Pandey,Kolkata Knight Riders,field,wickets,3.0,N
+398,2014,Match 59 ,2014-05-30,Punjab Kings,226,6,20.0,Chennai Super Kings,202,7,20.0,Punjab Kings,Wankhede Stadium,Mumbai,V Sehwag,Chennai Super Kings,field,runs,24.0,N
+399,2014,Match 58 ,2014-05-28,Chennai Super Kings,176,3,18.4,Mumbai Indians,173,8,20.0,Chennai Super Kings,Brabourne Stadium,Mumbai,SK Raina,Chennai Super Kings,field,wickets,7.0,N
+400,2014,Match 57 ,2014-05-28,Punjab Kings,135,8,20.0,Kolkata Knight Riders,163,8,20.0,Kolkata Knight Riders,Eden Gardens,Kolkata,UT Yadav,Punjab Kings,field,runs,28.0,N
+401,2014,Match 56 ,2014-05-25,Mumbai Indians,195,5,14.4,Rajasthan Royals,189,4,20.0,Mumbai Indians,Wankhede Stadium,Mumbai,CJ Anderson,Mumbai Indians,field,wickets,5.0,N
+402,2014,Match 55 ,2014-05-25,Punjab Kings,119,3,13.5,Delhi Capitals,115,0,18.1,Punjab Kings,Punjab Cricket Association Stadium,Chandigarh,M Vohra,Punjab Kings,field,wickets,7.0,N
+403,2014,Match 54 ,2014-05-24,Kolkata Knight Riders,161,6,14.2,Sunrisers Hyderabad,160,7,20.0,Kolkata Knight Riders,Eden Gardens,Kolkata,YK Pathan,Kolkata Knight Riders,field,wickets,4.0,N
+404,2014,Match 53 ,2014-05-24,Royal Challengers Bangalore,154,6,20.0,Chennai Super Kings,160,2,17.4,Chennai Super Kings,M Chinnaswamy Stadium,Bangalore,MS Dhoni,Chennai Super Kings,field,wickets,8.0,N
+405,2014,Match 52 ,2014-05-23,Punjab Kings,179,4,20.0,Rajasthan Royals,163,8,20.0,Punjab Kings,Punjab Cricket Association Stadium,Chandigarh,SE Marsh,Rajasthan Royals,field,runs,16.0,N
+406,2014,Match 51 ,2014-05-23,Mumbai Indians,173,0,19.3,Delhi Capitals,158,4,20.0,Mumbai Indians,Wankhede Stadium,Mumbai,MEK Hussey,Delhi Daredevils,field,runs,15.0,N
+407,2014,Match 50 ,2014-05-22,Chennai Super Kings,185,3,20.0,Sunrisers Hyderabad,189,4,19.4,Sunrisers Hyderabad,JSCA International Stadium Complex,Ranchi,DA Warner,Sunrisers Hyderabad,field,wickets,6.0,N
+408,2014,Match 49 ,2014-05-22,Kolkata Knight Riders,195,4,20.0,Royal Challengers Bangalore,165,5,20.0,Kolkata Knight Riders,Eden Gardens,Kolkata,RV Uthappa,Royal Challengers Bangalore,field,runs,30.0,N
+409,2014,Final ,2014-05-21,Punjab Kings,156,8,20.0,Mumbai Indians,159,3,19.0,Mumbai Indians,Punjab Cricket Association Stadium,Chandigarh,LMP Simmons,Mumbai Indians,field,wickets,7.0,N
+410,2014,Match 47 ,2014-05-20,Kolkata Knight Riders,156,2,18.0,Chennai Super Kings,154,4,20.0,Kolkata Knight Riders,Eden Gardens,Kolkata,RV Uthappa,Kolkata Knight Riders,field,wickets,8.0,N
+411,2014,Match 46 ,2014-05-20,Sunrisers Hyderabad,161,3,19.4,Royal Challengers Bangalore,160,6,20.0,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,DA Warner,Royal Challengers Bangalore,bat,wickets,7.0,N
+412,2014,Match 45 ,2014-05-19,Delhi Capitals,164,7,20.0,Punjab Kings,165,6,19.4,Punjab Kings,Feroz Shah Kotla,Delhi,AR Patel,Punjab Kings,field,wickets,4.0,N
+413,2014,Match 44 ,2014-05-19,Rajasthan Royals,153,8,20.0,Mumbai Indians,178,3,20.0,Mumbai Indians,"Sardar Patel Stadium, Motera",Ahmedabad,MEK Hussey,Mumbai Indians,bat,runs,25.0,N
+414,2014,Match 43 ,2014-05-18,Sunrisers Hyderabad,142,8,20.0,Kolkata Knight Riders,146,3,19.4,Kolkata Knight Riders,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,UT Yadav,Sunrisers Hyderabad,bat,wickets,7.0,N
+415,2014,Match 42 ,2014-05-18,Chennai Super Kings,138,4,20.0,Royal Challengers Bangalore,142,5,19.5,Royal Challengers Bangalore,JSCA International Stadium Complex,Ranchi,AB de Villiers,Chennai Super Kings,bat,wickets,5.0,N
+416,2014,Match 41 ,2014-05-15,Rajasthan Royals,201,6,20.0,Delhi Capitals,139,9,20.0,Rajasthan Royals,"Sardar Patel Stadium, Motera",Ahmedabad,AM Rahane,Delhi Daredevils,field,runs,62.0,N
+417,2014,Match 40 ,2014-05-14,Kolkata Knight Riders,142,4,18.4,Mumbai Indians,141,5,20.0,Kolkata Knight Riders,Barabati Stadium,Cuttack,RV Uthappa,Kolkata Knight Riders,field,wickets,6.0,N
+418,2014,Match 39 ,2014-05-14,Sunrisers Hyderabad,205,5,20.0,Punjab Kings,211,4,18.4,Punjab Kings,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,WP Saha,Punjab Kings,field,wickets,6.0,N
+419,2014,Match 38 ,2014-05-13,Royal Challengers Bangalore,186,4,20.0,Delhi Capitals,170,7,20.0,Royal Challengers Bangalore,M Chinnaswamy Stadium,Bangalore,Yuvraj Singh,Delhi Daredevils,field,runs,16.0,N
+420,2014,Match 37 ,2014-05-13,Chennai Super Kings,149,5,19.4,Rajasthan Royals,148,8,20.0,Chennai Super Kings,JSCA International Stadium Complex,Ranchi,RA Jadeja,Rajasthan Royals,bat,wickets,5.0,N
+421,2014,Match 36 ,2014-05-12,Sunrisers Hyderabad,157,3,20.0,Mumbai Indians,160,3,18.4,Mumbai Indians,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,AT Rayudu,Sunrisers Hyderabad,bat,wickets,7.0,N
+422,2014,Match 35 ,2014-05-11,Royal Challengers Bangalore,190,5,20.0,Rajasthan Royals,191,5,18.5,Rajasthan Royals,M Chinnaswamy Stadium,Bangalore,JP Faulkner,Royal Challengers Bangalore,bat,wickets,5.0,N
+423,2014,Match 34 ,2014-05-11,Punjab Kings,149,8,20.0,Kolkata Knight Riders,150,1,18.0,Kolkata Knight Riders,Barabati Stadium,Cuttack,G Gambhir,Kolkata Knight Riders,field,wickets,9.0,N
+424,2014,Match 33 ,2014-05-10,Mumbai Indians,157,6,20.0,Chennai Super Kings,160,6,19.3,Chennai Super Kings,Wankhede Stadium,Mumbai,DR Smith,Chennai Super Kings,field,wickets,4.0,N
+425,2014,Match 32 ,2014-05-10,Delhi Capitals,143,7,20.0,Sunrisers Hyderabad,44,2,4.2,Sunrisers Hyderabad,Feroz Shah Kotla,Delhi,DW Steyn,Sunrisers Hyderabad,field,wickets,8.0,N
+426,2014,Match 31 ,2014-05-09,Royal Challengers Bangalore,166,9,20.0,Punjab Kings,198,8,20.0,Punjab Kings,M Chinnaswamy Stadium,Bangalore,Sandeep Sharma,Royal Challengers Bangalore,field,runs,32.0,N
+427,2014,Match 30 ,2014-05-08,Rajasthan Royals,102,0,19.5,Sunrisers Hyderabad,134,9,20.0,Sunrisers Hyderabad,"Sardar Patel Stadium, Motera",Ahmedabad,B Kumar,Rajasthan Royals,field,runs,32.0,N
+428,2014,Match 29 ,2014-05-07,Punjab Kings,231,4,20.0,Chennai Super Kings,187,6,20.0,Punjab Kings,Barabati Stadium,Cuttack,GJ Maxwell,Chennai Super Kings,field,runs,44.0,N
+429,2014,Match 28 ,2014-05-07,Delhi Capitals,160,5,20.0,Kolkata Knight Riders,161,2,18.2,Kolkata Knight Riders,Feroz Shah Kotla,Delhi,G Gambhir,Delhi Daredevils,bat,wickets,8.0,N
+430,2014,Match 27 ,2014-05-06,Mumbai Indians,187,5,20.0,Royal Challengers Bangalore,168,8,20.0,Mumbai Indians,Wankhede Stadium,Mumbai,RG Sharma,Royal Challengers Bangalore,field,runs,19.0,N
+431,2014,Match 26 ,2014-05-05,Delhi Capitals,178,5,20.0,Chennai Super Kings,181,2,19.4,Chennai Super Kings,Feroz Shah Kotla,Delhi,DR Smith,Chennai Super Kings,field,wickets,8.0,N
+432,2014,Match 25 ,2014-05-05,Rajasthan Royals,170,6,20.0,Kolkata Knight Riders,160,6,20.0,Rajasthan Royals,"Sardar Patel Stadium, Motera",Ahmedabad,PV Tambe,Kolkata Knight Riders,field,runs,10.0,N
+433,2014,Match 24 ,2014-05-04,Royal Challengers Bangalore,158,6,19.5,Sunrisers Hyderabad,155,6,20.0,Royal Challengers Bangalore,M Chinnaswamy Stadium,Bangalore,AB de Villiers,Royal Challengers Bangalore,field,wickets,4.0,N
+434,2014,Match 23 ,2014-05-03,Delhi Capitals,152,5,20.0,Rajasthan Royals,156,3,18.3,Rajasthan Royals,Feroz Shah Kotla,Delhi,KK Nair,Rajasthan Royals,field,wickets,7.0,N
+435,2014,Match 22 ,2014-05-03,Mumbai Indians,170,5,19.1,Punjab Kings,168,5,20.0,Mumbai Indians,Wankhede Stadium,Mumbai,CJ Anderson,Punjab Kings,bat,wickets,5.0,N
+436,2014,Match 21 ,2014-05-02,Chennai Super Kings,148,3,17.0,Kolkata Knight Riders,114,9,17.0,Chennai Super Kings,JSCA International Stadium Complex,Ranchi,RA Jadeja,Chennai Super Kings,bat,runs,34.0,N
+437,2014,Match 20 ,2014-04-30,Mumbai Indians,157,7,20.0,Sunrisers Hyderabad,172,5,20.0,Sunrisers Hyderabad,Dubai International Cricket Stadium,Dubai,B Kumar,Mumbai Indians,field,runs,15.0,N
+438,2014,Match 19 ,2014-04-29,Kolkata Knight Riders,152,8,20.0,Rajasthan Royals,152,5,20.0,Rajasthan Royals,Sheikh Zayed Stadium,Abu Dhabi,JP Faulkner,Rajasthan Royals,bat,tie,0.0,Y
+439,2014,Match 18 ,2014-04-28,Punjab Kings,127,5,18.5,Royal Challengers Bangalore,124,8,20.0,Punjab Kings,Dubai International Cricket Stadium,Dubai,Sandeep Sharma,Punjab Kings,field,wickets,5.0,N
+440,2014,Match 17 ,2014-04-27,Sunrisers Hyderabad,145,5,20.0,Chennai Super Kings,146,5,19.3,Chennai Super Kings,Sharjah Cricket Stadium,Sharjah,DR Smith,Sunrisers Hyderabad,bat,wickets,5.0,N
+441,2014,Match 16 ,2014-04-27,Delhi Capitals,126,4,18.5,Mumbai Indians,125,6,20.0,Delhi Capitals,Sharjah Cricket Stadium,Sharjah,M Vijay,Mumbai Indians,bat,wickets,6.0,N
+442,2014,Match 15 ,2014-04-26,Kolkata Knight Riders,109,0,18.2,Punjab Kings,132,9,20.0,Punjab Kings,Sheikh Zayed Stadium,Abu Dhabi,Sandeep Sharma,Kolkata Knight Riders,field,runs,23.0,N
+443,2014,Match 14 ,2014-04-26,Rajasthan Royals,71,4,13.0,Royal Challengers Bangalore,70,0,15.0,Rajasthan Royals,Sheikh Zayed Stadium,Abu Dhabi,PV Tambe,Rajasthan Royals,field,wickets,6.0,N
+444,2014,Match 13 ,2014-04-25,Chennai Super Kings,142,3,19.0,Mumbai Indians,141,7,20.0,Chennai Super Kings,Dubai International Cricket Stadium,Dubai,MM Sharma,Mumbai Indians,bat,wickets,7.0,N
+445,2014,Match 12 ,2014-04-25,Sunrisers Hyderabad,184,1,20.0,Delhi Capitals,180,4,20.0,Sunrisers Hyderabad,Dubai International Cricket Stadium,Dubai,AJ Finch,Sunrisers Hyderabad,bat,runs,4.0,N
+446,2014,Match 11 ,2014-04-24,Royal Challengers Bangalore,148,5,20.0,Kolkata Knight Riders,150,7,20.0,Kolkata Knight Riders,Sharjah Cricket Stadium,Sharjah,CA Lynn,Royal Challengers Bangalore,field,runs,2.0,N
+447,2014,Match 10 ,2014-04-23,Rajasthan Royals,133,0,19.5,Chennai Super Kings,140,6,20.0,Chennai Super Kings,Dubai International Cricket Stadium,Dubai,RA Jadeja,Rajasthan Royals,field,runs,7.0,N
+448,2014,Match 9 ,2014-04-22,Punjab Kings,193,6,20.0,Sunrisers Hyderabad,121,0,19.2,Punjab Kings,Sharjah Cricket Stadium,Sharjah,GJ Maxwell,Sunrisers Hyderabad,field,runs,72.0,N
+449,2014,Match 8 ,2014-04-21,Chennai Super Kings,177,7,20.0,Delhi Capitals,84,0,15.4,Chennai Super Kings,Sheikh Zayed Stadium,Abu Dhabi,SK Raina,Chennai Super Kings,bat,runs,93.0,N
+450,2014,Match 7 ,2014-04-20,Rajasthan Royals,191,5,20.0,Punjab Kings,193,3,18.4,Punjab Kings,Sharjah Cricket Stadium,Sharjah,GJ Maxwell,Punjab Kings,field,wickets,7.0,N
+451,2014,Match 6 ,2014-04-19,Kolkata Knight Riders,166,5,20.0,Delhi Capitals,167,6,19.3,Delhi Capitals,Dubai International Cricket Stadium,Dubai,JP Duminy,Kolkata Knight Riders,bat,wickets,4.0,N
+452,2014,Match 5 ,2014-04-19,Royal Challengers Bangalore,116,3,17.3,Mumbai Indians,115,9,20.0,Royal Challengers Bangalore,Dubai International Cricket Stadium,Dubai,PA Patel,Royal Challengers Bangalore,field,wickets,7.0,N
+453,2014,Match 4 ,2014-04-18,Sunrisers Hyderabad,133,6,20.0,Rajasthan Royals,135,6,19.3,Rajasthan Royals,Sheikh Zayed Stadium,Abu Dhabi,AM Rahane,Rajasthan Royals,field,wickets,4.0,N
+454,2014,Match 3 ,2014-04-18,Chennai Super Kings,205,4,20.0,Punjab Kings,206,4,18.5,Punjab Kings,Sheikh Zayed Stadium,Abu Dhabi,GJ Maxwell,Chennai Super Kings,bat,wickets,6.0,N
+455,2014,Match 2 ,2014-04-17,Delhi Capitals,145,4,20.0,Royal Challengers Bangalore,146,2,16.4,Royal Challengers Bangalore,Sharjah Cricket Stadium,Sharjah,YS Chahal,Royal Challengers Bangalore,field,wickets,8.0,N
+456,2014,Match 1 ,2014-04-16,Mumbai Indians,122,7,20.0,Kolkata Knight Riders,163,5,20.0,Kolkata Knight Riders,Sheikh Zayed Stadium,Abu Dhabi,JH Kallis,Kolkata Knight Riders,bat,runs,41.0,N
+457,2015,Match 60 ,2015-05-24,Mumbai Indians,202,5,20.0,Chennai Super Kings,161,8,20.0,Mumbai Indians,Eden Gardens,Kolkata,RG Sharma,Chennai Super Kings,field,runs,41.0,N
+458,2015,Match 59 ,2015-05-22,Chennai Super Kings,140,7,19.5,Royal Challengers Bangalore,139,8,20.0,Chennai Super Kings,JSCA International Stadium Complex,Ranchi,A Nehra,Chennai Super Kings,field,wickets,3.0,N
+459,2015,Match 58 ,2015-05-20,Royal Challengers Bangalore,180,4,20.0,Rajasthan Royals,109,0,19.0,Royal Challengers Bangalore,Maharashtra Cricket Association Stadium,Pune,AB de Villiers,Royal Challengers Bangalore,bat,runs,71.0,N
+460,2015,Match 57 ,2015-05-19,Chennai Super Kings,162,0,19.0,Mumbai Indians,187,6,20.0,Mumbai Indians,Wankhede Stadium,Mumbai,KA Pollard,Mumbai Indians,bat,runs,25.0,N
+461,2015,Match 56 ,2015-05-17,Sunrisers Hyderabad,113,0,20.0,Mumbai Indians,114,1,13.5,Mumbai Indians,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,MJ McClenaghan,Sunrisers Hyderabad,bat,wickets,9.0,N
+462,2015,Match 55 ,2015-05-17,Royal Challengers Bangalore,2,0,1.1,Delhi Capitals,187,5,20.0,No Result,M Chinnaswamy Stadium,Bangalore,,Royal Challengers Bangalore,field,,,
+463,2015,Match 54 ,2015-05-16,Rajasthan Royals,199,6,20.0,Kolkata Knight Riders,190,9,20.0,Rajasthan Royals,Brabourne Stadium,Mumbai,SR Watson,Rajasthan Royals,bat,runs,9.0,N
+464,2015,Match 53 ,2015-05-16,Punjab Kings,130,7,20.0,Chennai Super Kings,134,3,16.5,Chennai Super Kings,Punjab Cricket Association Stadium,Chandigarh,P Negi,Punjab Kings,bat,wickets,7.0,N
+465,2015,Match 52 ,2015-05-15,Sunrisers Hyderabad,135,3,11.0,Royal Challengers Bangalore,83,4,5.5,Royal Challengers Bangalore,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,V Kohli,Sunrisers Hyderabad,bat,wickets,6.0,N
+466,2015,Match 51 ,2015-05-14,Mumbai Indians,171,4,20.0,Kolkata Knight Riders,166,7,20.0,Mumbai Indians,Wankhede Stadium,Mumbai,HH Pandya,Kolkata Knight Riders,field,runs,5.0,N
+467,2015,Match 50 ,2015-05-13,Punjab Kings,106,6,10.0,Royal Challengers Bangalore,84,6,10.0,Punjab Kings,Punjab Cricket Association Stadium,Chandigarh,AR Patel,Royal Challengers Bangalore,field,runs,22.0,N
+468,2015,Match 49 ,2015-05-12,Delhi Capitals,120,4,16.4,Chennai Super Kings,119,6,20.0,Delhi Capitals,Shaheed Veer Narayan Singh International Stadium,Raipur,Z Khan,Chennai Super Kings,bat,wickets,6.0,N
+469,2015,Final ,2015-05-11,Sunrisers Hyderabad,185,5,20.0,Punjab Kings,180,7,20.0,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,DA Warner,Sunrisers Hyderabad,bat,runs,5.0,N
+470,2015,Match 47 ,2015-05-10,Chennai Super Kings,157,5,20.0,Rajasthan Royals,145,9,20.0,Chennai Super Kings,MA Chidambaram Stadium,Chennai,RA Jadeja,Chennai Super Kings,bat,runs,12.0,N
+471,2015,Match 46 ,2015-05-10,Mumbai Indians,196,7,20.0,Royal Challengers Bangalore,235,1,20.0,Royal Challengers Bangalore,Wankhede Stadium,Mumbai,AB de Villiers,Royal Challengers Bangalore,bat,runs,39.0,N
+472,2015,Match 45 ,2015-05-09,Delhi Capitals,157,4,20.0,Sunrisers Hyderabad,163,4,20.0,Sunrisers Hyderabad,Shaheed Veer Narayan Singh International Stadium,Raipur,MC Henriques,Sunrisers Hyderabad,bat,runs,6.0,N
+473,2015,Match 44 ,2015-05-09,Kolkata Knight Riders,184,9,19.5,Punjab Kings,183,5,20.0,Kolkata Knight Riders,Eden Gardens,Kolkata,AD Russell,Punjab Kings,bat,wickets,1.0,N
+474,2015,Match 43 ,2015-05-08,Chennai Super Kings,158,5,20.0,Mumbai Indians,159,4,19.2,Mumbai Indians,MA Chidambaram Stadium,Chennai,HH Pandya,Chennai Super Kings,bat,wickets,6.0,N
+475,2015,Match 42 ,2015-05-07,Kolkata Knight Riders,171,7,20.0,Delhi Capitals,158,6,20.0,Kolkata Knight Riders,Eden Gardens,Kolkata,PP Chawla,Kolkata Knight Riders,bat,runs,13.0,N
+476,2015,Match 41 ,2015-05-07,Rajasthan Royals,194,7,20.0,Sunrisers Hyderabad,201,4,20.0,Sunrisers Hyderabad,Brabourne Stadium,Mumbai,EJG Morgan,Rajasthan Royals,field,runs,7.0,N
+477,2015,Match 40 ,2015-05-06,Royal Challengers Bangalore,226,3,20.0,Punjab Kings,88,0,13.4,Royal Challengers Bangalore,M Chinnaswamy Stadium,Bangalore,CH Gayle,Punjab Kings,field,runs,138.0,N
+478,2015,Match 39 ,2015-05-05,Mumbai Indians,153,5,19.3,Delhi Capitals,152,6,20.0,Mumbai Indians,Wankhede Stadium,Mumbai,Harbhajan Singh,Delhi Daredevils,bat,wickets,5.0,N
+479,2015,Match 38 ,2015-05-04,Kolkata Knight Riders,167,7,20.0,Sunrisers Hyderabad,132,9,20.0,Kolkata Knight Riders,Eden Gardens,Kolkata,UT Yadav,Sunrisers Hyderabad,field,runs,35.0,N
+480,2015,Match 37 ,2015-05-04,Chennai Super Kings,148,9,20.0,Royal Challengers Bangalore,124,0,19.4,Chennai Super Kings,MA Chidambaram Stadium,Chennai,SK Raina,Chennai Super Kings,bat,runs,24.0,N
+481,2015,Match 36 ,2015-05-03,Rajasthan Royals,189,2,20.0,Delhi Capitals,175,7,20.0,Rajasthan Royals,Brabourne Stadium,Mumbai,AM Rahane,Delhi Daredevils,field,runs,14.0,N
+482,2015,Match 35 ,2015-05-03,Punjab Kings,149,7,20.0,Mumbai Indians,172,3,20.0,Mumbai Indians,Punjab Cricket Association Stadium,Chandigarh,LMP Simmons,Mumbai Indians,bat,runs,23.0,N
+483,2015,Match 34 ,2015-05-02,Sunrisers Hyderabad,192,7,20.0,Chennai Super Kings,170,6,20.0,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,DA Warner,Chennai Super Kings,field,runs,22.0,N
+484,2015,Match 33 ,2015-05-02,Royal Challengers Bangalore,115,3,9.4,Kolkata Knight Riders,111,4,10.0,Royal Challengers Bangalore,M Chinnaswamy Stadium,Bangalore,Mandeep Singh,Royal Challengers Bangalore,field,wickets,7.0,N
+485,2015,Match 32 ,2015-05-01,Mumbai Indians,187,5,20.0,Rajasthan Royals,179,7,20.0,Mumbai Indians,Wankhede Stadium,Mumbai,AT Rayudu,Rajasthan Royals,field,runs,8.0,N
+486,2015,Match 31 ,2015-05-01,Delhi Capitals,119,1,13.5,Punjab Kings,118,8,20.0,Delhi Capitals,Feroz Shah Kotla,Delhi,NM Coulter-Nile,Delhi Daredevils,field,wickets,9.0,N
+487,2015,Match 30 ,2015-04-30,Kolkata Knight Riders,169,3,19.5,Chennai Super Kings,165,9,20.0,Kolkata Knight Riders,Eden Gardens,Kolkata,AD Russell,Kolkata Knight Riders,field,wickets,7.0,N
+488,2015,Match 29 ,2015-04-29,Royal Challengers Bangalore,200,7,20.0,Rajasthan Royals,0,0,0.0,No Result,M Chinnaswamy Stadium,Bangalore,,Rajasthan Royals,field,,,
+489,2015,Match 28 ,2015-04-28,Chennai Super Kings,134,6,20.0,Kolkata Knight Riders,132,9,20.0,Chennai Super Kings,MA Chidambaram Stadium,Chennai,DJ Bravo,Kolkata Knight Riders,field,runs,2.0,N
+490,2015,Match 27 ,2015-04-27,Punjab Kings,130,9,20.0,Sunrisers Hyderabad,150,6,20.0,Sunrisers Hyderabad,Punjab Cricket Association Stadium,Chandigarh,TA Boult,Punjab Kings,field,runs,20.0,N
+491,2015,Match 26 ,2015-04-26,Delhi Capitals,95,0,18.2,Royal Challengers Bangalore,99,0,10.3,Royal Challengers Bangalore,Feroz Shah Kotla,Delhi,VR Aaron,Royal Challengers Bangalore,field,wickets,10.0,N
+492,2015,Match 24 ,2015-04-25,Chennai Super Kings,192,3,20.0,Punjab Kings,95,9,20.0,Chennai Super Kings,MA Chidambaram Stadium,Chennai,BB McCullum,Chennai Super Kings,bat,runs,97.0,N
+493,2015,Match 23 ,2015-04-25,Mumbai Indians,157,8,20.0,Sunrisers Hyderabad,137,8,20.0,Mumbai Indians,Wankhede Stadium,Mumbai,SL Malinga,Mumbai Indians,bat,runs,20.0,N
+494,2015,Match 22 ,2015-04-24,Rajasthan Royals,130,9,20.0,Royal Challengers Bangalore,134,1,16.1,Royal Challengers Bangalore,"Sardar Patel Stadium, Motera",Ahmedabad,MA Starc,Royal Challengers Bangalore,field,wickets,9.0,N
+495,2015,Match 21 ,2015-04-23,Delhi Capitals,190,4,20.0,Mumbai Indians,153,9,20.0,Delhi Capitals,Feroz Shah Kotla,Delhi,SS Iyer,Mumbai Indians,field,runs,37.0,N
+496,2015,Match 20 ,2015-04-22,Royal Challengers Bangalore,154,8,20.0,Chennai Super Kings,181,8,20.0,Chennai Super Kings,M Chinnaswamy Stadium,Bangalore,SK Raina,Royal Challengers Bangalore,field,runs,27.0,N
+497,2015,Match 19 ,2015-04-22,Sunrisers Hyderabad,176,4,20.0,Kolkata Knight Riders,101,4,12.0,Sunrisers Hyderabad,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,DA Warner,Kolkata Knight Riders,field,runs,16.0,N
+498,2015,Match 18 ,2015-04-21,Rajasthan Royals,191,6,20.0,Punjab Kings,191,6,20.0,Punjab Kings,"Sardar Patel Stadium, Motera",Ahmedabad,SE Marsh,Punjab Kings,field,tie,0.0,Y
+499,2015,Match 17 ,2015-04-20,Delhi Capitals,146,8,20.0,Kolkata Knight Riders,147,4,18.1,Kolkata Knight Riders,Feroz Shah Kotla,Delhi,UT Yadav,Kolkata Knight Riders,field,wickets,6.0,N
+500,2015,Match 16 ,2015-04-19,Royal Challengers Bangalore,191,7,20.0,Mumbai Indians,209,7,20.0,Mumbai Indians,M Chinnaswamy Stadium,Bangalore,Harbhajan Singh,Royal Challengers Bangalore,field,runs,18.0,N
+501,2015,Match 15 ,2015-04-19,Rajasthan Royals,157,2,18.2,Chennai Super Kings,156,4,20.0,Rajasthan Royals,"Sardar Patel Stadium, Motera",Ahmedabad,AM Rahane,Chennai Super Kings,bat,wickets,8.0,N
+502,2015,Match 14 ,2015-04-18,Punjab Kings,155,9,20.0,Kolkata Knight Riders,159,6,17.5,Kolkata Knight Riders,Maharashtra Cricket Association Stadium,Pune,AD Russell,Kolkata Knight Riders,field,wickets,4.0,N
+503,2015,Match 13 ,2015-04-18,Sunrisers Hyderabad,163,8,20.0,Delhi Capitals,167,4,20.0,Delhi Capitals,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,JP Duminy,Delhi Daredevils,bat,runs,4.0,N
+504,2015,Match 12 ,2015-04-17,Mumbai Indians,183,7,20.0,Chennai Super Kings,189,4,16.4,Chennai Super Kings,Wankhede Stadium,Mumbai,A Nehra,Mumbai Indians,bat,wickets,6.0,N
+505,2015,Match 11 ,2015-04-16,Sunrisers Hyderabad,127,5,20.0,Rajasthan Royals,131,4,20.0,Rajasthan Royals,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,AM Rahane,Rajasthan Royals,field,wickets,6.0,N
+506,2015,Match 10 ,2015-04-15,Punjab Kings,165,7,20.0,Delhi Capitals,169,5,19.5,Delhi Capitals,Maharashtra Cricket Association Stadium,Pune,MA Agarwal,Punjab Kings,bat,wickets,5.0,N
+507,2015,Match 9 ,2015-04-14,Rajasthan Royals,165,3,19.1,Mumbai Indians,164,5,20.0,Rajasthan Royals,"Sardar Patel Stadium, Motera",Ahmedabad,SPD Smith,Mumbai Indians,bat,wickets,7.0,N
+508,2015,Match 8 ,2015-04-13,Royal Challengers Bangalore,166,0,19.5,Sunrisers Hyderabad,172,2,17.2,Sunrisers Hyderabad,M Chinnaswamy Stadium,Bangalore,DA Warner,Sunrisers Hyderabad,field,wickets,8.0,N
+509,2015,Match 7 ,2015-04-12,Mumbai Indians,159,7,20.0,Punjab Kings,177,5,20.0,Punjab Kings,Wankhede Stadium,Mumbai,GJ Bailey,Mumbai Indians,field,runs,18.0,N
+510,2015,Match 6 ,2015-04-12,Delhi Capitals,184,3,20.0,Rajasthan Royals,186,5,20.0,Rajasthan Royals,Feroz Shah Kotla,Delhi,DJ Hooda,Rajasthan Royals,field,wickets,3.0,N
+511,2015,Match 5 ,2015-04-11,Kolkata Knight Riders,177,6,20.0,Royal Challengers Bangalore,179,7,19.0,Royal Challengers Bangalore,Eden Gardens,Kolkata,CH Gayle,Royal Challengers Bangalore,field,wickets,3.0,N
+512,2015,Match 4 ,2015-04-11,Chennai Super Kings,209,4,20.0,Sunrisers Hyderabad,164,6,20.0,Chennai Super Kings,MA Chidambaram Stadium,Chennai,BB McCullum,Chennai Super Kings,bat,runs,45.0,N
+513,2015,Match 3 ,2015-04-10,Punjab Kings,136,8,20.0,Rajasthan Royals,162,7,20.0,Rajasthan Royals,Maharashtra Cricket Association Stadium,Pune,JP Faulkner,Punjab Kings,field,runs,26.0,N
+514,2015,Match 2 ,2015-04-09,Chennai Super Kings,150,7,20.0,Delhi Capitals,149,9,20.0,Chennai Super Kings,MA Chidambaram Stadium,Chennai,A Nehra,Delhi Daredevils,field,runs,1.0,N
+515,2015,Match 1 ,2015-04-08,Kolkata Knight Riders,170,3,18.3,Mumbai Indians,168,3,20.0,Kolkata Knight Riders,Eden Gardens,Kolkata,M Morkel,Kolkata Knight Riders,field,wickets,7.0,N
+516,2016,Match 60 ,2016-05-29,Royal Challengers Bangalore,200,7,20.0,Sunrisers Hyderabad,208,7,20.0,Sunrisers Hyderabad,M Chinnaswamy Stadium,Bangalore,BCJ Cutting,Sunrisers Hyderabad,bat,runs,8.0,N
+517,2016,Match 59 ,2016-05-27,Gujarat Titans,162,7,20.0,Sunrisers Hyderabad,163,6,19.2,Sunrisers Hyderabad,Feroz Shah Kotla,Delhi,DA Warner,Sunrisers Hyderabad,field,wickets,4.0,N
+518,2016,Match 58 ,2016-05-25,Sunrisers Hyderabad,162,8,20.0,Kolkata Knight Riders,140,8,20.0,Sunrisers Hyderabad,Feroz Shah Kotla,Delhi,MC Henriques,Kolkata Knight Riders,field,runs,22.0,N
+519,2016,Match 57 ,2016-05-24,Gujarat Titans,158,0,20.0,Royal Challengers Bangalore,159,6,18.2,Royal Challengers Bangalore,M Chinnaswamy Stadium,Bangalore,AB de Villiers,Royal Challengers Bangalore,field,wickets,4.0,N
+520,2016,Match 56 ,2016-05-22,Delhi Capitals,138,8,20.0,Royal Challengers Bangalore,139,4,18.1,Royal Challengers Bangalore,Shaheed Veer Narayan Singh International Stadium,Raipur,V Kohli,Royal Challengers Bangalore,field,wickets,6.0,N
+521,2016,Match 55 ,2016-05-22,Kolkata Knight Riders,171,6,20.0,Sunrisers Hyderabad,149,8,20.0,Kolkata Knight Riders,Eden Gardens,Kolkata,YK Pathan,Sunrisers Hyderabad,field,runs,22.0,N
+522,2016,Match 54 ,2016-05-21,Gujarat Titans,173,4,17.5,Mumbai Indians,172,8,20.0,Gujarat Titans,Green Park,Kanpur,SK Raina,Gujarat Titans,field,wickets,6.0,N
+523,2016,Match 53 ,2016-05-21,Rising Pune Supergiant,173,6,20.0,Punjab Kings,172,7,20.0,Pune Warriors,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,MS Dhoni,Punjab Kings,bat,wickets,4.0,N
+524,2016,Match 52 ,2016-05-20,Delhi Capitals,161,4,20.0,Sunrisers Hyderabad,158,7,20.0,Delhi Capitals,Shaheed Veer Narayan Singh International Stadium,Raipur,KK Nair,Delhi Daredevils,field,wickets,6.0,N
+525,2016,Match 51 ,2016-05-19,Gujarat Titans,125,4,13.3,Kolkata Knight Riders,124,8,20.0,Gujarat Titans,Green Park,Kanpur,DR Smith,Gujarat Titans,field,wickets,6.0,N
+526,2016,Match 50 ,2016-05-18,Royal Challengers Bangalore,211,3,15.0,Punjab Kings,120,9,14.0,Royal Challengers Bangalore,M Chinnaswamy Stadium,Bangalore,V Kohli,Punjab Kings,field,runs,82.0,N
+527,2016,Match 49 ,2016-05-17,Rising Pune Supergiant,76,1,11.0,Delhi Capitals,121,6,20.0,Pune Warriors,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,AB Dinda,Pune Warriors,field,runs,19.0,N
+528,2016,Final ,2016-05-16,Kolkata Knight Riders,183,5,20.0,Royal Challengers Bangalore,186,1,18.4,Royal Challengers Bangalore,Eden Gardens,Kolkata,V Kohli,Royal Challengers Bangalore,field,wickets,9.0,N
+529,2016,Match 47 ,2016-05-15,Mumbai Indians,206,4,20.0,Delhi Capitals,126,0,19.1,Mumbai Indians,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,KH Pandya,Delhi Daredevils,field,runs,80.0,N
+530,2016,Match 46 ,2016-05-15,Punjab Kings,179,4,20.0,Sunrisers Hyderabad,180,3,19.4,Sunrisers Hyderabad,Punjab Cricket Association Stadium,Chandigarh,HM Amla,Punjab Kings,bat,wickets,7.0,N
+531,2016,Match 45 ,2016-05-14,Kolkata Knight Riders,66,2,5.0,Rising Pune Supergiant,103,6,17.4,Kolkata Knight Riders,Eden Gardens,Kolkata,YK Pathan,Pune Warriors,bat,wickets,8.0,N
+532,2016,Match 44 ,2016-05-14,Royal Challengers Bangalore,248,3,20.0,Gujarat Titans,104,0,18.4,Royal Challengers Bangalore,M Chinnaswamy Stadium,Bangalore,AB de Villiers,Gujarat Titans,field,runs,144.0,N
+533,2016,Match 43 ,2016-05-13,Mumbai Indians,124,9,20.0,Punjab Kings,127,3,17.0,Punjab Kings,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,MP Stoinis,Mumbai Indians,bat,wickets,7.0,N
+534,2016,Match 42 ,2016-05-12,Sunrisers Hyderabad,146,8,20.0,Delhi Capitals,150,3,18.1,Delhi Capitals,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,CH Morris,Delhi Daredevils,field,wickets,7.0,N
+535,2016,Match 41 ,2016-05-11,Royal Challengers Bangalore,151,4,20.0,Mumbai Indians,153,4,18.4,Mumbai Indians,M Chinnaswamy Stadium,Bangalore,KH Pandya,Mumbai Indians,field,wickets,6.0,N
+536,2016,Match 40 ,2016-05-10,Rising Pune Supergiant,133,8,20.0,Sunrisers Hyderabad,137,8,20.0,Sunrisers Hyderabad,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,A Zampa,Sunrisers Hyderabad,bat,runs,4.0,N
+537,2016,Match 39 ,2016-05-09,Punjab Kings,174,4,20.0,Royal Challengers Bangalore,175,6,20.0,Royal Challengers Bangalore,Punjab Cricket Association Stadium,Chandigarh,SR Watson,Punjab Kings,field,runs,1.0,N
+538,2016,Match 38 ,2016-05-08,Kolkata Knight Riders,158,4,20.0,Gujarat Titans,164,5,18.0,Gujarat Titans,Eden Gardens,Kolkata,P Kumar,Gujarat Titans,field,wickets,5.0,N
+539,2016,Match 37 ,2016-05-08,Mumbai Indians,92,0,16.3,Sunrisers Hyderabad,177,3,20.0,Sunrisers Hyderabad,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,A Nehra,Mumbai Indians,field,runs,85.0,N
+540,2016,Match 36 ,2016-05-07,Punjab Kings,181,5,20.0,Delhi Capitals,172,5,20.0,Punjab Kings,Punjab Cricket Association Stadium,Chandigarh,MP Stoinis,Delhi Daredevils,field,runs,9.0,N
+541,2016,Match 35 ,2016-05-07,Royal Challengers Bangalore,195,3,19.3,Rising Pune Supergiant,191,6,20.0,Royal Challengers Bangalore,M Chinnaswamy Stadium,Bangalore,V Kohli,Royal Challengers Bangalore,field,wickets,7.0,N
+542,2016,Match 34 ,2016-05-06,Sunrisers Hyderabad,129,5,19.0,Gujarat Titans,126,6,20.0,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,B Kumar,Sunrisers Hyderabad,field,wickets,5.0,N
+543,2016,Match 33 ,2016-05-05,Delhi Capitals,162,7,20.0,Rising Pune Supergiant,166,3,19.1,Pune Warriors,Feroz Shah Kotla,Delhi,AM Rahane,Pune Warriors,field,wickets,7.0,N
+544,2016,Match 32 ,2016-05-04,Kolkata Knight Riders,164,3,20.0,Punjab Kings,157,9,20.0,Kolkata Knight Riders,Eden Gardens,Kolkata,AD Russell,Punjab Kings,field,runs,7.0,N
+545,2016,Match 31 ,2016-05-03,Gujarat Titans,149,7,20.0,Delhi Capitals,150,2,17.2,Delhi Capitals,Saurashtra Cricket Association Stadium,Rajkot,RR Pant,Delhi Daredevils,field,wickets,8.0,N
+546,2016,Match 30 ,2016-05-02,Royal Challengers Bangalore,185,7,20.0,Kolkata Knight Riders,189,5,19.1,Kolkata Knight Riders,M Chinnaswamy Stadium,Bangalore,AD Russell,Kolkata Knight Riders,field,wickets,5.0,N
+547,2016,Match 29 ,2016-05-01,Rising Pune Supergiant,159,5,20.0,Mumbai Indians,161,2,18.3,Mumbai Indians,Maharashtra Cricket Association Stadium,Pune,RG Sharma,Mumbai Indians,field,wickets,8.0,N
+548,2016,Match 28 ,2016-05-01,Gujarat Titans,131,9,20.0,Punjab Kings,154,0,19.5,Punjab Kings,Saurashtra Cricket Association Stadium,Rajkot,AR Patel,Gujarat Titans,field,runs,23.0,N
+549,2016,Match 27 ,2016-04-30,Sunrisers Hyderabad,194,5,20.0,Royal Challengers Bangalore,179,6,20.0,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,DA Warner,Royal Challengers Bangalore,field,runs,15.0,N
+550,2016,Match 26 ,2016-04-30,Delhi Capitals,186,8,20.0,Kolkata Knight Riders,159,0,18.3,Delhi Capitals,Feroz Shah Kotla,Delhi,CR Brathwaite,Kolkata Knight Riders,field,runs,27.0,N
+551,2016,Match 25 ,2016-04-29,Rising Pune Supergiant,195,3,20.0,Gujarat Titans,196,7,20.0,Gujarat Titans,Maharashtra Cricket Association Stadium,Pune,DR Smith,Gujarat Titans,field,wickets,3.0,N
+552,2016,Match 24 ,2016-04-28,Mumbai Indians,178,4,18.0,Kolkata Knight Riders,174,5,20.0,Mumbai Indians,Wankhede Stadium,Mumbai,RG Sharma,Mumbai Indians,field,wickets,6.0,N
+553,2016,Match 23 ,2016-04-27,Delhi Capitals,171,5,20.0,Gujarat Titans,172,6,20.0,Gujarat Titans,Feroz Shah Kotla,Delhi,CH Morris,Delhi Daredevils,field,runs,1.0,N
+554,2016,Match 22 ,2016-04-26,Sunrisers Hyderabad,118,8,20.0,Rising Pune Supergiant,94,3,11.0,Pune Warriors,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,AB Dinda,Pune Warriors,field,runs,34.0,N
+555,2016,Match 21 ,2016-04-25,Punjab Kings,164,7,20.0,Mumbai Indians,189,6,20.0,Mumbai Indians,Punjab Cricket Association Stadium,Chandigarh,PA Patel,Punjab Kings,field,runs,25.0,N
+556,2016,Match 20 ,2016-04-24,Rising Pune Supergiant,160,5,20.0,Kolkata Knight Riders,162,8,19.3,Kolkata Knight Riders,Maharashtra Cricket Association Stadium,Pune,SA Yadav,Kolkata Knight Riders,field,wickets,2.0,N
+557,2016,Match 19 ,2016-04-24,Gujarat Titans,182,4,19.3,Royal Challengers Bangalore,180,2,20.0,Gujarat Titans,Saurashtra Cricket Association Stadium,Rajkot,V Kohli,Royal Challengers Bangalore,bat,wickets,6.0,N
+558,2016,Match 18 ,2016-04-23,Sunrisers Hyderabad,146,5,17.5,Punjab Kings,143,6,20.0,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Mustafizur Rahman,Sunrisers Hyderabad,field,wickets,5.0,N
+559,2016,Match 17 ,2016-04-23,Delhi Capitals,164,4,20.0,Mumbai Indians,154,7,20.0,Delhi Capitals,Feroz Shah Kotla,Delhi,SV Samson,Mumbai Indians,field,runs,10.0,N
+560,2016,Match 16 ,2016-04-22,Rising Pune Supergiant,172,8,20.0,Royal Challengers Bangalore,185,3,20.0,Royal Challengers Bangalore,Maharashtra Cricket Association Stadium,Pune,AB de Villiers,Pune Warriors,field,runs,13.0,N
+561,2016,Match 15 ,2016-04-21,Gujarat Titans,135,8,20.0,Sunrisers Hyderabad,137,0,14.5,Sunrisers Hyderabad,Saurashtra Cricket Association Stadium,Rajkot,B Kumar,Sunrisers Hyderabad,field,wickets,10.0,N
+562,2016,Match 14 ,2016-04-20,Mumbai Indians,171,4,18.0,Royal Challengers Bangalore,170,7,20.0,Mumbai Indians,Wankhede Stadium,Mumbai,RG Sharma,Mumbai Indians,field,wickets,6.0,N
+563,2016,Match 13 ,2016-04-19,Punjab Kings,138,8,20.0,Kolkata Knight Riders,141,4,17.1,Kolkata Knight Riders,Punjab Cricket Association Stadium,Chandigarh,RV Uthappa,Kolkata Knight Riders,field,wickets,6.0,N
+564,2016,Match 12 ,2016-04-18,Sunrisers Hyderabad,145,3,17.3,Mumbai Indians,142,6,20.0,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,DA Warner,Sunrisers Hyderabad,field,wickets,7.0,N
+565,2016,Match 11 ,2016-04-17,Royal Challengers Bangalore,191,5,20.0,Delhi Capitals,192,3,19.1,Delhi Capitals,M Chinnaswamy Stadium,Bangalore,Q de Kock,Delhi Daredevils,field,wickets,7.0,N
+566,2016,Match 10 ,2016-04-17,Punjab Kings,153,4,18.4,Rising Pune Supergiant,152,7,20.0,Punjab Kings,Punjab Cricket Association Stadium,Chandigarh,M Vohra,Pune Warriors,bat,wickets,6.0,N
+567,2016,Match 9 ,2016-04-16,Mumbai Indians,143,8,20.0,Gujarat Titans,147,7,20.0,Gujarat Titans,Wankhede Stadium,Mumbai,AJ Finch,Gujarat Titans,field,wickets,3.0,N
+568,2016,Match 8 ,2016-04-16,Sunrisers Hyderabad,142,7,20.0,Kolkata Knight Riders,146,2,18.2,Kolkata Knight Riders,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,G Gambhir,Sunrisers Hyderabad,bat,wickets,8.0,N
+569,2016,Match 7 ,2016-04-15,Delhi Capitals,113,2,13.3,Punjab Kings,111,9,20.0,Delhi Capitals,Feroz Shah Kotla,Delhi,A Mishra,Delhi Daredevils,field,wickets,8.0,N
+570,2016,Match 6 ,2016-04-14,Gujarat Titans,164,3,18.0,Rising Pune Supergiant,163,5,20.0,Gujarat Titans,Saurashtra Cricket Association Stadium,Rajkot,AJ Finch,Pune Warriors,bat,wickets,7.0,N
+571,2016,Match 5 ,2016-04-13,Kolkata Knight Riders,187,5,20.0,Mumbai Indians,188,4,19.1,Mumbai Indians,Eden Gardens,Kolkata,RG Sharma,Mumbai Indians,field,wickets,6.0,N
+572,2016,Match 4 ,2016-04-12,Royal Challengers Bangalore,227,4,20.0,Sunrisers Hyderabad,182,6,20.0,Royal Challengers Bangalore,M Chinnaswamy Stadium,Bangalore,AB de Villiers,Sunrisers Hyderabad,field,runs,45.0,N
+573,2016,Match 3 ,2016-04-11,Punjab Kings,161,6,20.0,Gujarat Titans,162,5,17.4,Gujarat Titans,Punjab Cricket Association Stadium,Chandigarh,AJ Finch,Gujarat Titans,field,wickets,5.0,N
+574,2016,Match 2 ,2016-04-10,Kolkata Knight Riders,99,1,14.1,Delhi Capitals,98,0,17.4,Kolkata Knight Riders,Eden Gardens,Kolkata,AD Russell,Kolkata Knight Riders,field,wickets,9.0,N
+575,2016,Match 1 ,2016-04-09,Mumbai Indians,121,8,20.0,Rising Pune Supergiant,126,1,14.4,Pune Warriors,Wankhede Stadium,Mumbai,AM Rahane,Mumbai Indians,bat,wickets,9.0,N
+576,2017,Match 60 ,2017-05-21,Rising Pune Supergiant,128,6,20.0,Mumbai Indians,129,8,20.0,Mumbai Indians,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,KH Pandya,Mumbai Indians,bat,runs,1.0,N
+577,2017,Match 59 ,2017-05-19,Mumbai Indians,111,4,14.3,Kolkata Knight Riders,107,0,18.5,Mumbai Indians,M Chinnaswamy Stadium,Bangalore,KV Sharma,Mumbai Indians,field,wickets,6.0,N
+578,2017,Match 58 ,2017-05-17,Sunrisers Hyderabad,128,7,20.0,Kolkata Knight Riders,48,3,5.2,Kolkata Knight Riders,M Chinnaswamy Stadium,Bangalore,NM Coulter-Nile,Kolkata Knight Riders,field,wickets,7.0,N
+579,2017,Match 57 ,2017-05-16,Mumbai Indians,142,9,20.0,Rising Pune Supergiant,162,4,20.0,Rising Pune Supergiant,Wankhede Stadium,Mumbai,Washington Sundar,Mumbai Indians,field,runs,20.0,N
+580,2017,Match 56 ,2017-05-14,Delhi Capitals,151,0,20.0,Royal Challengers Bangalore,161,6,20.0,Royal Challengers Bangalore,Feroz Shah Kotla,Delhi,HV Patel,Royal Challengers Bangalore,bat,runs,10.0,N
+581,2017,Match 55 ,2017-05-14,Rising Pune Supergiant,78,1,12.0,Punjab Kings,73,0,15.5,Rising Pune Supergiant,Maharashtra Cricket Association Stadium,Pune,JD Unadkat,Rising Pune Supergiant,field,wickets,9.0,N
+582,2017,Match 54 ,2017-05-13,Kolkata Knight Riders,164,8,20.0,Mumbai Indians,173,5,20.0,Mumbai Indians,Eden Gardens,Kolkata,AT Rayudu,Kolkata Knight Riders,field,runs,9.0,N
+583,2017,Match 53 ,2017-05-13,Gujarat Titans,154,0,19.2,Sunrisers Hyderabad,158,2,18.1,Sunrisers Hyderabad,Green Park,Kanpur,Mohammed Siraj,Sunrisers Hyderabad,field,wickets,8.0,N
+584,2017,Match 52 ,2017-05-12,Delhi Capitals,168,8,20.0,Rising Pune Supergiant,161,7,20.0,Delhi Capitals,Feroz Shah Kotla,Delhi,KK Nair,Delhi Daredevils,bat,runs,7.0,N
+585,2017,Match 51 ,2017-05-11,Mumbai Indians,223,6,20.0,Punjab Kings,230,3,20.0,Punjab Kings,Wankhede Stadium,Mumbai,WP Saha,Mumbai Indians,field,runs,7.0,N
+586,2017,Match 50 ,2017-05-10,Gujarat Titans,195,5,20.0,Delhi Capitals,197,8,19.4,Delhi Capitals,Green Park,Kanpur,SS Iyer,Delhi Daredevils,field,wickets,2.0,N
+587,2017,Match 49 ,2017-05-09,Punjab Kings,167,6,20.0,Kolkata Knight Riders,153,6,20.0,Punjab Kings,Punjab Cricket Association Stadium,Chandigarh,MM Sharma,Kolkata Knight Riders,field,runs,14.0,N
+588,2017,Final ,2017-05-08,Sunrisers Hyderabad,140,3,18.2,Mumbai Indians,138,7,20.0,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,S Dhawan,Mumbai Indians,bat,wickets,7.0,N
+589,2017,Match 47 ,2017-05-07,Punjab Kings,189,3,20.0,Gujarat Titans,192,4,19.4,Gujarat Titans,Punjab Cricket Association Stadium,Chandigarh,DR Smith,Gujarat Titans,field,wickets,6.0,N
+590,2017,Match 46 ,2017-05-07,Royal Challengers Bangalore,158,6,20.0,Kolkata Knight Riders,159,4,15.1,Kolkata Knight Riders,M Chinnaswamy Stadium,Bangalore,SP Narine,Kolkata Knight Riders,field,wickets,6.0,N
+591,2017,Match 45 ,2017-05-06,Delhi Capitals,66,0,13.4,Mumbai Indians,212,3,20.0,Mumbai Indians,Feroz Shah Kotla,Delhi,LMP Simmons,Delhi Daredevils,field,runs,146.0,N
+592,2017,Match 44 ,2017-05-06,Sunrisers Hyderabad,136,9,20.0,Rising Pune Supergiant,148,8,20.0,Rising Pune Supergiant,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,JD Unadkat,Sunrisers Hyderabad,field,runs,12.0,N
+593,2017,Match 43 ,2017-05-05,Royal Challengers Bangalore,119,0,19.0,Punjab Kings,138,7,20.0,Punjab Kings,M Chinnaswamy Stadium,Bangalore,Sandeep Sharma,Royal Challengers Bangalore,field,runs,19.0,N
+594,2017,Match 42 ,2017-05-04,Delhi Capitals,214,3,17.3,Gujarat Titans,208,7,20.0,Delhi Capitals,Feroz Shah Kotla,Delhi,RR Pant,Delhi Daredevils,field,wickets,7.0,N
+595,2017,Match 41 ,2017-05-03,Kolkata Knight Riders,155,8,20.0,Rising Pune Supergiant,158,6,19.2,Rising Pune Supergiant,Eden Gardens,Kolkata,RA Tripathi,Rising Pune Supergiant,field,wickets,4.0,N
+596,2017,Match 40 ,2017-05-02,Delhi Capitals,189,4,19.1,Sunrisers Hyderabad,185,3,20.0,Delhi Capitals,Feroz Shah Kotla,Delhi,Mohammed Shami,Delhi Daredevils,field,wickets,6.0,N
+597,2017,Match 39 ,2017-05-01,Rising Pune Supergiant,167,5,19.5,Gujarat Titans,161,0,19.5,Rising Pune Supergiant,Maharashtra Cricket Association Stadium,Pune,BA Stokes,Rising Pune Supergiant,field,wickets,5.0,N
+598,2017,Match 38 ,2017-05-01,Mumbai Indians,165,5,19.5,Royal Challengers Bangalore,162,8,20.0,Mumbai Indians,Wankhede Stadium,Mumbai,RG Sharma,Royal Challengers Bangalore,bat,wickets,5.0,N
+599,2017,Match 37 ,2017-04-30,Sunrisers Hyderabad,209,3,20.0,Kolkata Knight Riders,161,7,20.0,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,DA Warner,Kolkata Knight Riders,field,runs,48.0,N
+600,2017,Match 36 ,2017-04-30,Punjab Kings,68,0,7.5,Delhi Capitals,67,0,17.1,Punjab Kings,Punjab Cricket Association Stadium,Chandigarh,Sandeep Sharma,Punjab Kings,field,wickets,10.0,N
+601,2017,Match 35 ,2017-04-29,Gujarat Titans,153,9,20.0,Mumbai Indians,153,0,20.0,Mumbai Indians,Saurashtra Cricket Association Stadium,Rajkot,KH Pandya,Gujarat Titans,bat,tie,0.0,Y
+602,2017,Match 34 ,2017-04-29,Rising Pune Supergiant,157,3,20.0,Royal Challengers Bangalore,96,9,20.0,Rising Pune Supergiant,Maharashtra Cricket Association Stadium,Pune,LH Ferguson,Royal Challengers Bangalore,field,runs,61.0,N
+603,2017,Match 33 ,2017-04-28,Punjab Kings,181,9,20.0,Sunrisers Hyderabad,207,3,20.0,Sunrisers Hyderabad,Punjab Cricket Association Stadium,Chandigarh,Rashid Khan,Punjab Kings,field,runs,26.0,N
+604,2017,Match 32 ,2017-04-28,Kolkata Knight Riders,161,3,16.2,Delhi Capitals,160,6,20.0,Kolkata Knight Riders,Eden Gardens,Kolkata,G Gambhir,Kolkata Knight Riders,field,wickets,7.0,N
+605,2017,Match 31 ,2017-04-27,Royal Challengers Bangalore,134,0,20.0,Gujarat Titans,135,3,13.5,Gujarat Titans,M Chinnaswamy Stadium,Bangalore,AJ Tye,Gujarat Titans,field,wickets,7.0,N
+606,2017,Match 30 ,2017-04-26,Rising Pune Supergiant,182,5,20.0,Kolkata Knight Riders,184,3,18.1,Kolkata Knight Riders,Maharashtra Cricket Association Stadium,Pune,RV Uthappa,Kolkata Knight Riders,field,wickets,7.0,N
+607,2017,Match 28 ,2017-04-24,Mumbai Indians,4,0,19.3,Rising Pune Supergiant,131,0,9.4,Rising Pune Supergiant,Wankhede Stadium,Mumbai,BA Stokes,Mumbai Indians,field,runs,3.0,N
+608,2017,Match 27 ,2017-04-23,Kolkata Knight Riders,188,0,20.0,Royal Challengers Bangalore,162,7,20.0,Kolkata Knight Riders,Eden Gardens,Kolkata,NM Coulter-Nile,Royal Challengers Bangalore,field,runs,82.0,N
+609,2017,Match 26 ,2017-04-23,Gujarat Titans,128,0,20.0,Punjab Kings,142,8,20.0,Punjab Kings,Saurashtra Cricket Association Stadium,Rajkot,HM Amla,Gujarat Titans,field,runs,26.0,N
+610,2017,Match 25 ,2017-04-22,Mumbai Indians,176,0,20.0,Delhi Capitals,179,4,20.0,Mumbai Indians,Wankhede Stadium,Mumbai,MJ McClenaghan,Delhi Daredevils,field,runs,14.0,N
+611,2017,Match 24 ,2017-04-22,Rising Pune Supergiant,188,0,20.0,Sunrisers Hyderabad,187,5,18.2,Rising Pune Supergiant,Maharashtra Cricket Association Stadium,Pune,MS Dhoni,Rising Pune Supergiant,field,wickets,6.0,N
+612,2017,Match 23 ,2017-04-21,Kolkata Knight Riders,199,0,20.0,Gujarat Titans,198,4,15.3,Gujarat Titans,Eden Gardens,Kolkata,SK Raina,Gujarat Titans,field,wickets,4.0,N
+613,2017,Match 22 ,2017-04-20,Punjab Kings,176,0,20.0,Mumbai Indians,191,4,20.0,Mumbai Indians,Holkar Cricket Stadium,Indore,JC Buttler,Mumbai Indians,field,wickets,8.0,N
+614,2017,Match 21 ,2017-04-19,Sunrisers Hyderabad,213,0,20.0,Delhi Capitals,192,7,20.0,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,KS Williamson,Sunrisers Hyderabad,bat,runs,15.0,N
+615,2017,Match 20 ,2017-04-18,Gujarat Titans,15,0,20.0,Royal Challengers Bangalore,159,6,19.4,Royal Challengers Bangalore,Saurashtra Cricket Association Stadium,Rajkot,CH Gayle,Gujarat Titans,field,runs,21.0,N
+616,2017,Match 19 ,2017-04-17,Sunrisers Hyderabad,169,0,20.0,Punjab Kings,168,7,19.5,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,B Kumar,Punjab Kings,field,runs,5.0,N
+617,2017,Match 18 ,2017-04-17,Delhi Capitals,161,0,20.0,Kolkata Knight Riders,134,9,20.0,Kolkata Knight Riders,Feroz Shah Kotla,Delhi,NM Coulter-Nile,Delhi Daredevils,bat,wickets,4.0,N
+618,2017,Match 17 ,2017-04-16,Royal Challengers Bangalore,176,0,19.3,Rising Pune Supergiant,177,4,20.0,Rising Pune Supergiant,M Chinnaswamy Stadium,Bangalore,BA Stokes,Royal Challengers Bangalore,field,runs,27.0,N
+619,2017,Match 16 ,2017-04-16,Mumbai Indians,137,0,20.0,Gujarat Titans,188,6,20.0,Mumbai Indians,Wankhede Stadium,Mumbai,N Rana,Mumbai Indians,field,wickets,6.0,N
+620,2017,Match 15 ,2017-04-15,Delhi Capitals,155,0,20.0,Punjab Kings,172,6,20.0,Delhi Capitals,Feroz Shah Kotla,Delhi,CJ Anderson,Delhi Daredevils,bat,runs,51.0,N
+621,2017,Match 14 ,2017-04-15,Kolkata Knight Riders,171,0,18.0,Sunrisers Hyderabad,172,3,20.0,Kolkata Knight Riders,Eden Gardens,Kolkata,RV Uthappa,Sunrisers Hyderabad,field,runs,17.0,N
+622,2017,Match 13 ,2017-04-14,Gujarat Titans,145,0,20.0,Rising Pune Supergiant,142,5,18.5,Gujarat Titans,Saurashtra Cricket Association Stadium,Rajkot,AJ Tye,Gujarat Titans,field,wickets,7.0,N
+623,2017,Match 12 ,2017-04-14,Royal Challengers Bangalore,170,0,16.3,Mumbai Indians,171,2,20.0,Mumbai Indians,M Chinnaswamy Stadium,Bangalore,KA Pollard,Mumbai Indians,field,wickets,4.0,N
+624,2017,Match 11 ,2017-04-13,Kolkata Knight Riders,158,0,18.4,Punjab Kings,159,6,20.0,Kolkata Knight Riders,Eden Gardens,Kolkata,SP Narine,Kolkata Knight Riders,field,wickets,8.0,N
+625,2017,Match 10 ,2017-04-12,Mumbai Indians,205,0,16.1,Sunrisers Hyderabad,108,0,20.0,Mumbai Indians,Wankhede Stadium,Mumbai,JJ Bumrah,Mumbai Indians,field,wickets,4.0,N
+626,2017,Match 9 ,2017-04-11,Rising Pune Supergiant,148,0,14.3,Delhi Capitals,150,2,20.0,Delhi Capitals,Maharashtra Cricket Association Stadium,Pune,SV Samson,Rising Pune Supergiant,field,runs,97.0,N
+627,2017,Match 8 ,2017-04-10,Punjab Kings,178,0,19.5,Royal Challengers Bangalore,180,6,20.0,Punjab Kings,Holkar Cricket Stadium,Indore,AR Patel,Royal Challengers Bangalore,bat,wickets,8.0,N
+628,2017,Match 7 ,2017-04-09,Mumbai Indians,135,0,15.3,Kolkata Knight Riders,140,1,20.0,Mumbai Indians,Wankhede Stadium,Mumbai,N Rana,Mumbai Indians,field,wickets,4.0,N
+629,2017,Match 6 ,2017-04-09,Sunrisers Hyderabad,142,0,20.0,Gujarat Titans,157,8,20.0,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Rashid Khan,Sunrisers Hyderabad,field,wickets,9.0,N
+630,2017,Match 5 ,2017-04-08,Royal Challengers Bangalore,163,0,19.0,Delhi Capitals,164,4,20.0,Royal Challengers Bangalore,M Chinnaswamy Stadium,Bengaluru,KM Jadhav,Royal Challengers Bangalore,bat,runs,15.0,N
+631,2017,Match 4 ,2017-04-08,Punjab Kings,184,0,20.0,Rising Pune Supergiant,183,4,14.5,Punjab Kings,Holkar Cricket Stadium,Indore,GJ Maxwell,Punjab Kings,field,wickets,6.0,N
+632,2017,Match 3 ,2017-04-07,Gujarat Titans,184,0,19.5,Kolkata Knight Riders,187,3,20.0,Kolkata Knight Riders,Saurashtra Cricket Association Stadium,Rajkot,CA Lynn,Kolkata Knight Riders,field,wickets,10.0,N
+633,2017,Match 2 ,2017-04-06,Rising Pune Supergiant,17,0,20.0,Mumbai Indians,207,4,19.4,Rising Pune Supergiant,Maharashtra Cricket Association Stadium,Pune,SPD Smith,Rising Pune Supergiant,field,wickets,7.0,N
+634,2017,Match 1 ,2017-04-05,Sunrisers Hyderabad,0,0,0.0,Royal Challengers Bangalore,0,0,0.0,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Yuvraj Singh,Royal Challengers Bangalore,field,runs,35.0,N
+635,2018,Match 60 ,2018-05-27,Chennai Super Kings,181,2,18.3,Sunrisers Hyderabad,178,6,20.0,Chennai Super Kings,Wankhede Stadium,Mumbai,SR Watson,Chennai Super Kings,field,wickets,8.0,N
+636,2018,Match 59 ,2018-05-25,Sunrisers Hyderabad,174,7,20.0,Kolkata Knight Riders,160,9,20.0,Sunrisers Hyderabad,Eden Gardens,Kolkata,Rashid Khan,Kolkata Knight Riders,field,runs,14.0,N
+637,2018,Match 58 ,2018-05-23,Kolkata Knight Riders,169,7,20.0,Rajasthan Royals,144,4,20.0,Kolkata Knight Riders,Eden Gardens,Kolkata,AD Russell,Rajasthan Royals,field,runs,25.0,N
+638,2018,Match 57 ,2018-05-22,Sunrisers Hyderabad,139,7,20.0,Chennai Super Kings,140,8,19.1,Chennai Super Kings,Wankhede Stadium,Mumbai,F du Plessis,Chennai Super Kings,field,wickets,2.0,N
+639,2018,Match 56 ,2018-05-20,Chennai Super Kings,159,5,19.1,Punjab Kings,153,0,19.4,Chennai Super Kings,Maharashtra Cricket Association Stadium,Pune,L Ngidi,Chennai Super Kings,field,wickets,5.0,N
+640,2018,Match 55 ,2018-05-20,Delhi Capitals,174,4,20.0,Mumbai Indians,163,0,19.3,Delhi Capitals,Feroz Shah Kotla,Delhi,A Mishra,Delhi Daredevils,bat,runs,11.0,N
+641,2018,Match 54 ,2018-05-19,Sunrisers Hyderabad,172,9,20.0,Kolkata Knight Riders,173,5,19.4,Kolkata Knight Riders,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,CA Lynn,Sunrisers Hyderabad,bat,wickets,5.0,N
+642,2018,Match 53 ,2018-05-19,Rajasthan Royals,164,5,20.0,Royal Challengers Bangalore,134,0,19.2,Rajasthan Royals,Sawai Mansingh Stadium,Jaipur,S Gopal,Rajasthan Royals,bat,runs,30.0,N
+643,2018,Match 52 ,2018-05-18,Delhi Capitals,162,5,20.0,Chennai Super Kings,128,6,20.0,Delhi Capitals,Feroz Shah Kotla,Delhi,HV Patel,Chennai Super Kings,field,runs,34.0,N
+644,2018,Match 51 ,2018-05-17,Royal Challengers Bangalore,218,6,20.0,Sunrisers Hyderabad,204,3,20.0,Royal Challengers Bangalore,M Chinnaswamy Stadium,Bengaluru,AB de Villiers,Sunrisers Hyderabad,field,runs,14.0,N
+645,2018,Match 50 ,2018-05-16,Mumbai Indians,186,8,20.0,Punjab Kings,183,5,20.0,Mumbai Indians,Wankhede Stadium,Mumbai,JJ Bumrah,Punjab Kings,field,runs,3.0,N
+646,2018,Match 49 ,2018-05-15,Kolkata Knight Riders,145,4,18.0,Rajasthan Royals,142,0,19.0,Kolkata Knight Riders,Eden Gardens,Kolkata,Kuldeep Yadav,Kolkata Knight Riders,field,wickets,6.0,N
+647,2018,Final ,2018-05-14,Punjab Kings,88,0,15.1,Royal Challengers Bangalore,92,0,8.1,Royal Challengers Bangalore,Holkar Cricket Stadium,Indore,UT Yadav,Royal Challengers Bangalore,field,wickets,10.0,N
+648,2018,Match 47 ,2018-05-13,Mumbai Indians,168,6,20.0,Rajasthan Royals,171,3,18.0,Rajasthan Royals,Wankhede Stadium,Mumbai,JC Buttler,Rajasthan Royals,field,wickets,7.0,N
+649,2018,Match 46 ,2018-05-13,Chennai Super Kings,180,2,19.0,Sunrisers Hyderabad,179,4,20.0,Chennai Super Kings,Maharashtra Cricket Association Stadium,Pune,AT Rayudu,Chennai Super Kings,field,wickets,8.0,N
+650,2018,Match 45 ,2018-05-12,Delhi Capitals,181,4,20.0,Royal Challengers Bangalore,187,5,19.0,Royal Challengers Bangalore,Feroz Shah Kotla,Delhi,AB de Villiers,Royal Challengers Bangalore,field,wickets,5.0,N
+651,2018,Match 44 ,2018-05-12,Punjab Kings,214,8,20.0,Kolkata Knight Riders,245,6,20.0,Kolkata Knight Riders,Holkar Cricket Stadium,Indore,SP Narine,Punjab Kings,field,runs,31.0,N
+652,2018,Match 43 ,2018-05-11,Rajasthan Royals,177,6,19.5,Chennai Super Kings,176,4,20.0,Rajasthan Royals,Sawai Mansingh Stadium,Jaipur,JC Buttler,Chennai Super Kings,bat,wickets,4.0,N
+653,2018,Match 42 ,2018-05-10,Delhi Capitals,187,5,20.0,Sunrisers Hyderabad,191,1,18.5,Sunrisers Hyderabad,Feroz Shah Kotla,Delhi,S Dhawan,Delhi Daredevils,bat,wickets,9.0,N
+654,2018,Match 41 ,2018-05-09,Kolkata Knight Riders,108,0,18.1,Mumbai Indians,210,6,20.0,Mumbai Indians,Eden Gardens,Kolkata,Ishan Kishan,Kolkata Knight Riders,field,runs,102.0,N
+655,2018,Match 40 ,2018-05-08,Rajasthan Royals,158,8,20.0,Punjab Kings,143,7,20.0,Rajasthan Royals,Sawai Mansingh Stadium,Jaipur,JC Buttler,Rajasthan Royals,bat,runs,15.0,N
+656,2018,Match 39 ,2018-05-07,Sunrisers Hyderabad,146,0,20.0,Royal Challengers Bangalore,141,6,20.0,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,KS Williamson,Royal Challengers Bangalore,field,runs,5.0,N
+657,2018,Match 38 ,2018-05-06,Punjab Kings,155,4,18.4,Rajasthan Royals,152,9,20.0,Punjab Kings,Holkar Cricket Stadium,Indore,Mujeeb Ur Rahman,Punjab Kings,field,wickets,6.0,N
+658,2018,Match 37 ,2018-05-06,Mumbai Indians,181,4,20.0,Kolkata Knight Riders,168,6,20.0,Mumbai Indians,Wankhede Stadium,Mumbai,HH Pandya,Kolkata Knight Riders,field,runs,13.0,N
+659,2018,Match 36 ,2018-05-05,Sunrisers Hyderabad,164,3,19.5,Delhi Capitals,163,5,20.0,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Rashid Khan,Delhi Daredevils,bat,wickets,7.0,N
+660,2018,Match 35 ,2018-05-05,Chennai Super Kings,128,4,18.0,Royal Challengers Bangalore,127,9,20.0,Chennai Super Kings,Maharashtra Cricket Association Stadium,Pune,RA Jadeja,Chennai Super Kings,field,wickets,6.0,N
+661,2018,Match 34 ,2018-05-04,Punjab Kings,174,6,20.0,Mumbai Indians,176,4,19.0,Mumbai Indians,Holkar Cricket Stadium,Indore,SA Yadav,Mumbai Indians,field,wickets,6.0,N
+662,2018,Match 33 ,2018-05-03,Kolkata Knight Riders,180,4,17.4,Chennai Super Kings,177,5,20.0,Kolkata Knight Riders,Eden Gardens,Kolkata,SP Narine,Kolkata Knight Riders,field,wickets,6.0,N
+663,2018,Match 32 ,2018-05-02,Delhi Capitals,196,6,17.1,Rajasthan Royals,146,5,12.0,Delhi Capitals,Feroz Shah Kotla,Delhi,RR Pant,Rajasthan Royals,field,runs,4.0,N
+664,2018,Match 31 ,2018-05-01,Royal Challengers Bangalore,167,7,20.0,Mumbai Indians,153,7,20.0,Royal Challengers Bangalore,M Chinnaswamy Stadium,Bengaluru,TG Southee,Mumbai Indians,field,runs,14.0,N
+665,2018,Match 30 ,2018-04-30,Chennai Super Kings,211,4,20.0,Delhi Capitals,198,5,20.0,Chennai Super Kings,Maharashtra Cricket Association Stadium,Pune,SR Watson,Delhi Daredevils,field,runs,13.0,N
+666,2018,Match 29 ,2018-04-29,Royal Challengers Bangalore,175,4,20.0,Kolkata Knight Riders,176,4,19.1,Kolkata Knight Riders,M Chinnaswamy Stadium,Bengaluru,CA Lynn,Kolkata Knight Riders,field,wickets,6.0,N
+667,2018,Match 28 ,2018-04-29,Rajasthan Royals,140,6,20.0,Sunrisers Hyderabad,151,7,20.0,Sunrisers Hyderabad,Sawai Mansingh Stadium,Jaipur,KS Williamson,Sunrisers Hyderabad,bat,runs,11.0,N
+668,2018,Match 27 ,2018-04-28,Chennai Super Kings,169,5,20.0,Mumbai Indians,170,2,19.4,Mumbai Indians,Maharashtra Cricket Association Stadium,Pune,RG Sharma,Mumbai Indians,field,wickets,8.0,N
+669,2018,Match 26 ,2018-04-27,Delhi Capitals,219,4,20.0,Kolkata Knight Riders,164,9,20.0,Delhi Capitals,Feroz Shah Kotla,Delhi,SS Iyer,Kolkata Knight Riders,field,runs,55.0,N
+670,2018,Match 25 ,2018-04-26,Sunrisers Hyderabad,132,6,20.0,Punjab Kings,119,0,19.2,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,AS Rajpoot,Punjab Kings,field,runs,13.0,N
+671,2018,Match 24 ,2018-04-25,Royal Challengers Bangalore,205,8,20.0,Chennai Super Kings,207,5,19.4,Chennai Super Kings,M Chinnaswamy Stadium,Bengaluru,MS Dhoni,Chennai Super Kings,field,wickets,5.0,N
+672,2018,Match 23 ,2018-04-24,Mumbai Indians,87,0,18.5,Sunrisers Hyderabad,118,0,18.4,Sunrisers Hyderabad,Wankhede Stadium,Mumbai,Rashid Khan,Mumbai Indians,field,runs,31.0,N
+673,2018,Match 22 ,2018-04-23,Delhi Capitals,139,8,20.0,Punjab Kings,143,8,20.0,Punjab Kings,Feroz Shah Kotla,Delhi,AS Rajpoot,Delhi Daredevils,field,runs,4.0,N
+674,2018,Match 21 ,2018-04-22,Rajasthan Royals,168,7,19.4,Mumbai Indians,167,7,20.0,Rajasthan Royals,Sawai Mansingh Stadium,Jaipur,JC Archer,Mumbai Indians,bat,wickets,3.0,N
+675,2018,Match 20 ,2018-04-22,Sunrisers Hyderabad,178,6,20.0,Chennai Super Kings,182,3,20.0,Chennai Super Kings,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,AT Rayudu,Sunrisers Hyderabad,field,runs,4.0,N
+676,2018,Match 19 ,2018-04-21,Royal Challengers Bangalore,176,4,18.0,Delhi Capitals,174,5,20.0,Royal Challengers Bangalore,M Chinnaswamy Stadium,Bengaluru,AB de Villiers,Royal Challengers Bangalore,field,wickets,6.0,N
+677,2018,Match 18 ,2018-04-21,Kolkata Knight Riders,191,7,20.0,Punjab Kings,126,1,11.1,Punjab Kings,Eden Gardens,Kolkata,KL Rahul,Punjab Kings,field,wickets,9.0,N
+678,2018,Match 17 ,2018-04-20,Chennai Super Kings,204,5,20.0,Rajasthan Royals,140,0,18.3,Chennai Super Kings,Maharashtra Cricket Association Stadium,Pune,SR Watson,Rajasthan Royals,field,runs,64.0,N
+679,2018,Match 16 ,2018-04-19,Punjab Kings,193,3,20.0,Sunrisers Hyderabad,178,4,20.0,Punjab Kings,Punjab Cricket Association Stadium,Chandigarh,CH Gayle,Punjab Kings,bat,runs,15.0,N
+680,2018,Match 15 ,2018-04-18,Rajasthan Royals,160,8,20.0,Kolkata Knight Riders,163,3,18.5,Kolkata Knight Riders,Sawai Mansingh Stadium,Jaipur,N Rana,Kolkata Knight Riders,field,wickets,7.0,N
+681,2018,Match 14 ,2018-04-17,Mumbai Indians,213,6,20.0,Royal Challengers Bangalore,167,8,20.0,Mumbai Indians,Wankhede Stadium,Mumbai,RG Sharma,Royal Challengers Bangalore,field,runs,46.0,N
+682,2018,Match 13 ,2018-04-16,Kolkata Knight Riders,200,9,20.0,Delhi Capitals,129,0,14.2,Kolkata Knight Riders,Eden Gardens,Kolkata,N Rana,Delhi Daredevils,field,runs,71.0,N
+683,2018,Match 12 ,2018-04-15,Punjab Kings,197,7,20.0,Chennai Super Kings,193,5,20.0,Punjab Kings,Punjab Cricket Association Stadium,Chandigarh,CH Gayle,Chennai Super Kings,field,runs,4.0,N
+684,2018,Match 11 ,2018-04-15,Royal Challengers Bangalore,198,6,20.0,Rajasthan Royals,217,4,20.0,Rajasthan Royals,M Chinnaswamy Stadium,Bengaluru,SV Samson,Royal Challengers Bangalore,field,runs,19.0,N
+685,2018,Match 10 ,2018-04-14,Kolkata Knight Riders,138,8,20.0,Sunrisers Hyderabad,139,5,19.0,Sunrisers Hyderabad,Eden Gardens,Kolkata,B Stanlake,Sunrisers Hyderabad,field,wickets,5.0,N
+686,2018,Match 9 ,2018-04-14,Mumbai Indians,194,7,20.0,Delhi Capitals,195,3,20.0,Delhi Capitals,Wankhede Stadium,Mumbai,JJ Roy,Delhi Daredevils,field,wickets,7.0,N
+687,2018,Match 8 ,2018-04-13,Royal Challengers Bangalore,159,6,19.3,Punjab Kings,155,0,19.2,Royal Challengers Bangalore,M Chinnaswamy Stadium,Bengaluru,UT Yadav,Royal Challengers Bangalore,field,wickets,4.0,N
+688,2018,Match 7 ,2018-04-12,Sunrisers Hyderabad,151,9,20.0,Mumbai Indians,147,8,20.0,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Rashid Khan,Sunrisers Hyderabad,field,wickets,1.0,N
+689,2018,Match 6 ,2018-04-11,Rajasthan Royals,153,5,17.5,Delhi Capitals,60,4,6.0,Rajasthan Royals,Sawai Mansingh Stadium,Jaipur,SV Samson,Delhi Daredevils,field,runs,10.0,N
+690,2018,Match 5 ,2018-04-10,Chennai Super Kings,205,5,19.5,Kolkata Knight Riders,202,6,20.0,Chennai Super Kings,MA Chidambaram Stadium,Chennai,SW Billings,Chennai Super Kings,field,wickets,5.0,N
+691,2018,Match 4 ,2018-04-09,Sunrisers Hyderabad,127,1,15.5,Rajasthan Royals,125,9,20.0,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,S Dhawan,Sunrisers Hyderabad,field,wickets,9.0,N
+692,2018,Match 3 ,2018-04-08,Kolkata Knight Riders,177,6,18.5,Royal Challengers Bangalore,176,7,20.0,Kolkata Knight Riders,Eden Gardens,Kolkata,SP Narine,Kolkata Knight Riders,field,wickets,4.0,N
+693,2018,Match 2 ,2018-04-08,Punjab Kings,167,4,18.5,Delhi Capitals,166,7,20.0,Punjab Kings,Punjab Cricket Association Stadium,Chandigarh,KL Rahul,Punjab Kings,field,wickets,6.0,N
+694,2018,Match 1 ,2018-04-07,Mumbai Indians,165,4,20.0,Chennai Super Kings,169,9,19.5,Chennai Super Kings,Wankhede Stadium,Mumbai,DJ Bravo,Chennai Super Kings,field,wickets,1.0,N
+695,2019,Match 60 ,2019-05-12,Mumbai Indians,149,8,20.0,Chennai Super Kings,148,7,20.0,Mumbai Indians,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,JJ Bumrah,Mumbai Indians,bat,runs,1.0,N
+696,2019,Match 59 ,2019-05-10,Chennai Super Kings,151,4,19.0,Delhi Capitals,147,9,20.0,Chennai Super Kings,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,F du Plessis,Chennai Super Kings,field,wickets,6.0,N
+697,2019,Match 58 ,2019-05-08,Delhi Capitals,165,8,19.5,Sunrisers Hyderabad,162,8,20.0,Delhi Capitals,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,RR Pant,Delhi Capitals,field,wickets,2.0,N
+698,2019,Match 57 ,2019-05-07,Mumbai Indians,132,4,18.3,Chennai Super Kings,131,4,20.0,Mumbai Indians,MA Chidambaram Stadium,Chennai,SA Yadav,Chennai Super Kings,bat,wickets,6.0,N
+699,2019,Match 56 ,2019-05-05,Mumbai Indians,134,1,16.1,Kolkata Knight Riders,133,7,20.0,Mumbai Indians,Wankhede Stadium,Mumbai,HH Pandya,Mumbai Indians,field,wickets,9.0,N
+700,2019,Match 55 ,2019-05-05,Punjab Kings,173,4,18.0,Chennai Super Kings,170,5,20.0,Punjab Kings,Punjab Cricket Association Stadium,Chandigarh,KL Rahul,Punjab Kings,field,wickets,6.0,N
+701,2019,Match 54 ,2019-05-04,Royal Challengers Bangalore,178,6,19.2,Sunrisers Hyderabad,175,7,20.0,Royal Challengers Bangalore,M Chinnaswamy Stadium,Bengaluru,SO Hetmyer,Royal Challengers Bangalore,field,wickets,4.0,N
+702,2019,Match 53 ,2019-05-04,Delhi Capitals,121,5,16.1,Rajasthan Royals,115,9,20.0,Delhi Capitals,Feroz Shah Kotla,Delhi,A Mishra,Rajasthan Royals,bat,wickets,5.0,N
+703,2019,Match 52 ,2019-05-03,Punjab Kings,183,6,20.0,Kolkata Knight Riders,185,3,18.0,Kolkata Knight Riders,Punjab Cricket Association Stadium,Chandigarh,Shubman Gill,Kolkata Knight Riders,field,wickets,7.0,N
+704,2019,Match 51 ,2019-05-02,Mumbai Indians,162,5,20.0,Sunrisers Hyderabad,162,6,20.0,Mumbai Indians,Wankhede Stadium,Mumbai,JJ Bumrah,Mumbai Indians,bat,tie,0.0,Y
+705,2019,Match 50 ,2019-05-01,Chennai Super Kings,179,4,20.0,Delhi Capitals,99,0,16.2,Chennai Super Kings,MA Chidambaram Stadium,Chennai,MS Dhoni,Delhi Capitals,field,runs,80.0,N
+706,2019,Match 49 ,2019-04-30,Royal Challengers Bangalore,62,7,5.0,Rajasthan Royals,41,1,3.2,No Result,M Chinnaswamy Stadium,Bengaluru,,Rajasthan Royals,field,,,
+707,2019,Final ,2019-04-29,Sunrisers Hyderabad,212,6,20.0,Punjab Kings,167,8,20.0,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,DA Warner,Punjab Kings,field,runs,45.0,N
+708,2019,Match 47 ,2019-04-28,Kolkata Knight Riders,232,2,20.0,Mumbai Indians,198,7,20.0,Kolkata Knight Riders,Eden Gardens,Kolkata,AD Russell,Mumbai Indians,field,runs,34.0,N
+709,2019,Match 46 ,2019-04-28,Delhi Capitals,187,5,20.0,Royal Challengers Bangalore,171,7,20.0,Delhi Capitals,Feroz Shah Kotla,Delhi,S Dhawan,Delhi Capitals,bat,runs,16.0,N
+710,2019,Match 45 ,2019-04-27,Rajasthan Royals,161,3,19.1,Sunrisers Hyderabad,160,8,20.0,Rajasthan Royals,Sawai Mansingh Stadium,Jaipur,JD Unadkat,Rajasthan Royals,field,wickets,7.0,N
+711,2019,Match 44 ,2019-04-26,Chennai Super Kings,109,0,17.4,Mumbai Indians,155,4,20.0,Mumbai Indians,MA Chidambaram Stadium,Chennai,RG Sharma,Chennai Super Kings,field,runs,46.0,N
+712,2019,Match 43 ,2019-04-25,Kolkata Knight Riders,175,6,20.0,Rajasthan Royals,177,7,19.2,Rajasthan Royals,Eden Gardens,Kolkata,VR Aaron,Rajasthan Royals,field,wickets,3.0,N
+713,2019,Match 42 ,2019-04-24,Royal Challengers Bangalore,202,4,20.0,Punjab Kings,185,7,20.0,Royal Challengers Bangalore,M Chinnaswamy Stadium,Bengaluru,AB de Villiers,Punjab Kings,field,runs,17.0,N
+714,2019,Match 41 ,2019-04-23,Chennai Super Kings,176,4,19.5,Sunrisers Hyderabad,175,3,20.0,Chennai Super Kings,MA Chidambaram Stadium,Chennai,SR Watson,Chennai Super Kings,field,wickets,6.0,N
+715,2019,Match 40 ,2019-04-22,Rajasthan Royals,191,6,20.0,Delhi Capitals,193,4,19.2,Delhi Capitals,Sawai Mansingh Stadium,Jaipur,RR Pant,Delhi Capitals,field,wickets,6.0,N
+716,2019,Match 39 ,2019-04-21,Royal Challengers Bangalore,161,7,20.0,Chennai Super Kings,160,8,20.0,Royal Challengers Bangalore,M Chinnaswamy Stadium,Bengaluru,PA Patel,Chennai Super Kings,field,runs,1.0,N
+717,2019,Match 38 ,2019-04-21,Sunrisers Hyderabad,161,1,15.0,Kolkata Knight Riders,159,8,20.0,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,KK Ahmed,Sunrisers Hyderabad,field,wickets,9.0,N
+718,2019,Match 37 ,2019-04-20,Delhi Capitals,166,5,19.4,Punjab Kings,163,7,20.0,Delhi Capitals,Feroz Shah Kotla,Delhi,SS Iyer,Delhi Capitals,field,wickets,5.0,N
+719,2019,Match 36 ,2019-04-20,Rajasthan Royals,162,5,19.1,Mumbai Indians,161,5,20.0,Rajasthan Royals,Sawai Mansingh Stadium,Jaipur,SPD Smith,Rajasthan Royals,field,wickets,5.0,N
+720,2019,Match 35 ,2019-04-19,Kolkata Knight Riders,203,5,20.0,Royal Challengers Bangalore,213,4,20.0,Royal Challengers Bangalore,Eden Gardens,Kolkata,V Kohli,Kolkata Knight Riders,field,runs,10.0,N
+721,2019,Match 34 ,2019-04-18,Delhi Capitals,128,9,20.0,Mumbai Indians,168,5,20.0,Mumbai Indians,Feroz Shah Kotla,Delhi,HH Pandya,Mumbai Indians,bat,runs,40.0,N
+722,2019,Match 33 ,2019-04-17,Sunrisers Hyderabad,137,4,16.5,Chennai Super Kings,132,5,20.0,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,DA Warner,Chennai Super Kings,bat,wickets,6.0,N
+723,2019,Match 32 ,2019-04-16,Punjab Kings,182,6,20.0,Rajasthan Royals,170,7,20.0,Punjab Kings,Punjab Cricket Association Stadium,Chandigarh,R Ashwin,Rajasthan Royals,field,runs,12.0,N
+724,2019,Match 31 ,2019-04-15,Mumbai Indians,172,5,19.0,Royal Challengers Bangalore,171,7,20.0,Mumbai Indians,Wankhede Stadium,Mumbai,SL Malinga,Mumbai Indians,field,wickets,5.0,N
+725,2019,Match 30 ,2019-04-14,Sunrisers Hyderabad,116,0,18.5,Delhi Capitals,155,7,20.0,Delhi Capitals,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,KMA Paul,Sunrisers Hyderabad,field,runs,39.0,N
+726,2019,Match 29 ,2019-04-14,Kolkata Knight Riders,161,8,20.0,Chennai Super Kings,162,5,19.4,Chennai Super Kings,Eden Gardens,Kolkata,Imran Tahir,Chennai Super Kings,field,wickets,5.0,N
+727,2019,Match 28 ,2019-04-13,Punjab Kings,173,4,20.0,Royal Challengers Bangalore,174,2,19.2,Royal Challengers Bangalore,Punjab Cricket Association Stadium,Chandigarh,AB de Villiers,Royal Challengers Bangalore,field,wickets,8.0,N
+728,2019,Match 27 ,2019-04-13,Mumbai Indians,187,5,20.0,Rajasthan Royals,188,6,19.3,Rajasthan Royals,Wankhede Stadium,Mumbai,JC Buttler,Rajasthan Royals,field,wickets,4.0,N
+729,2019,Match 26 ,2019-04-12,Kolkata Knight Riders,178,7,20.0,Delhi Capitals,180,3,18.5,Delhi Capitals,Eden Gardens,Kolkata,S Dhawan,Delhi Capitals,field,wickets,7.0,N
+730,2019,Match 25 ,2019-04-11,Rajasthan Royals,151,7,20.0,Chennai Super Kings,155,6,20.0,Chennai Super Kings,Sawai Mansingh Stadium,Jaipur,MS Dhoni,Chennai Super Kings,field,wickets,4.0,N
+731,2019,Match 24 ,2019-04-10,Mumbai Indians,198,7,20.0,Punjab Kings,197,4,20.0,Mumbai Indians,Wankhede Stadium,Mumbai,KA Pollard,Mumbai Indians,field,wickets,3.0,N
+732,2019,Match 23 ,2019-04-09,Chennai Super Kings,111,3,17.2,Kolkata Knight Riders,108,9,20.0,Chennai Super Kings,MA Chidambaram Stadium,Chennai,DL Chahar,Chennai Super Kings,field,wickets,7.0,N
+733,2019,Match 22 ,2019-04-08,Punjab Kings,151,4,19.5,Sunrisers Hyderabad,150,4,20.0,Punjab Kings,Punjab Cricket Association Stadium,Chandigarh,KL Rahul,Punjab Kings,field,wickets,6.0,N
+734,2019,Match 21 ,2019-04-07,Rajasthan Royals,139,3,20.0,Kolkata Knight Riders,140,2,13.5,Kolkata Knight Riders,Sawai Mansingh Stadium,Jaipur,HF Gurney,Kolkata Knight Riders,field,wickets,8.0,N
+735,2019,Match 20 ,2019-04-07,Royal Challengers Bangalore,149,8,20.0,Delhi Capitals,152,6,18.5,Delhi Capitals,M Chinnaswamy Stadium,Bengaluru,K Rabada,Delhi Capitals,field,wickets,4.0,N
+736,2019,Match 19 ,2019-04-06,Sunrisers Hyderabad,96,0,17.4,Mumbai Indians,136,7,20.0,Mumbai Indians,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,AS Joseph,Sunrisers Hyderabad,field,runs,40.0,N
+737,2019,Match 18 ,2019-04-06,Chennai Super Kings,160,3,20.0,Punjab Kings,138,5,20.0,Chennai Super Kings,MA Chidambaram Stadium,Chennai,Harbhajan Singh,Chennai Super Kings,bat,runs,22.0,N
+738,2019,Match 17 ,2019-04-05,Royal Challengers Bangalore,205,3,20.0,Kolkata Knight Riders,206,5,19.1,Kolkata Knight Riders,M Chinnaswamy Stadium,Bengaluru,AD Russell,Kolkata Knight Riders,field,wickets,5.0,N
+739,2019,Match 16 ,2019-04-04,Delhi Capitals,129,8,20.0,Sunrisers Hyderabad,131,5,18.3,Sunrisers Hyderabad,Feroz Shah Kotla,Delhi,JM Bairstow,Sunrisers Hyderabad,field,wickets,5.0,N
+740,2019,Match 15 ,2019-04-03,Mumbai Indians,170,5,20.0,Chennai Super Kings,133,8,20.0,Mumbai Indians,Wankhede Stadium,Mumbai,HH Pandya,Chennai Super Kings,field,runs,37.0,N
+741,2019,Match 14 ,2019-04-02,Rajasthan Royals,164,3,19.5,Royal Challengers Bangalore,158,4,20.0,Rajasthan Royals,Sawai Mansingh Stadium,Jaipur,S Gopal,Rajasthan Royals,field,wickets,7.0,N
+742,2019,Match 13 ,2019-04-01,Punjab Kings,166,9,20.0,Delhi Capitals,152,0,19.2,Punjab Kings,Punjab Cricket Association Stadium,Chandigarh,SM Curran,Delhi Capitals,field,runs,14.0,N
+743,2019,Match 12 ,2019-03-31,Chennai Super Kings,175,5,20.0,Rajasthan Royals,167,8,20.0,Chennai Super Kings,MA Chidambaram Stadium,Chennai,MS Dhoni,Rajasthan Royals,field,runs,8.0,N
+744,2019,Match 11 ,2019-03-31,Sunrisers Hyderabad,231,2,20.0,Royal Challengers Bangalore,113,0,19.5,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,JM Bairstow,Royal Challengers Bangalore,field,runs,118.0,N
+745,2019,Match 10 ,2019-03-30,Delhi Capitals,185,6,20.0,Kolkata Knight Riders,185,8,20.0,Delhi Capitals,Feroz Shah Kotla,Delhi,PP Shaw,Delhi Capitals,field,tie,0.0,Y
+746,2019,Match 9 ,2019-03-30,Punjab Kings,177,2,18.4,Mumbai Indians,176,7,20.0,Punjab Kings,Punjab Cricket Association Stadium,Chandigarh,MA Agarwal,Punjab Kings,field,wickets,8.0,N
+747,2019,Match 8 ,2019-03-29,Sunrisers Hyderabad,201,5,19.0,Rajasthan Royals,198,2,20.0,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Rashid Khan,Rajasthan Royals,bat,wickets,5.0,N
+748,2019,Match 7 ,2019-03-28,Royal Challengers Bangalore,181,5,20.0,Mumbai Indians,187,8,20.0,Mumbai Indians,M Chinnaswamy Stadium,Bengaluru,JJ Bumrah,Royal Challengers Bangalore,field,runs,6.0,N
+749,2019,Match 6 ,2019-03-27,Kolkata Knight Riders,218,4,20.0,Punjab Kings,190,4,20.0,Kolkata Knight Riders,Eden Gardens,Kolkata,AD Russell,Punjab Kings,field,runs,28.0,N
+750,2019,Match 5 ,2019-03-26,Delhi Capitals,147,6,20.0,Chennai Super Kings,150,4,19.4,Chennai Super Kings,Feroz Shah Kotla,Delhi,SR Watson,Delhi Capitals,bat,wickets,6.0,N
+751,2019,Match 4 ,2019-03-25,Rajasthan Royals,170,9,20.0,Punjab Kings,184,4,20.0,Punjab Kings,Sawai Mansingh Stadium,Jaipur,CH Gayle,Rajasthan Royals,field,runs,14.0,N
+752,2019,Match 3 ,2019-03-24,Mumbai Indians,176,9,19.2,Delhi Capitals,213,6,20.0,Delhi Capitals,Wankhede Stadium,Mumbai,RR Pant,Mumbai Indians,field,runs,37.0,N
+753,2019,Match 2 ,2019-03-24,Kolkata Knight Riders,183,4,19.4,Sunrisers Hyderabad,181,3,20.0,Kolkata Knight Riders,Eden Gardens,Kolkata,AD Russell,Kolkata Knight Riders,field,wickets,6.0,N
+754,2019,Match 1 ,2019-03-23,Chennai Super Kings,71,3,17.4,Royal Challengers Bangalore,70,0,17.1,Chennai Super Kings,MA Chidambaram Stadium,Chennai,Harbhajan Singh,Chennai Super Kings,field,wickets,7.0,N
+755,2020,Match 60 ,2020-11-10,Mumbai Indians,157,5,18.4,Delhi Capitals,156,7,20.0,Mumbai Indians,Dubai International Cricket Stadium,Dubai,TA Boult,Delhi Capitals,bat,wickets,5.0,N
+756,2020,Match 59 ,2020-11-08,Delhi Capitals,189,3,20.0,Sunrisers Hyderabad,172,8,20.0,Delhi Capitals,Sheikh Zayed Stadium,Abu Dhabi,MP Stoinis,Delhi Capitals,bat,runs,17.0,N
+757,2020,Match 58 ,2020-11-06,Sunrisers Hyderabad,132,4,19.4,Royal Challengers Bangalore,131,7,20.0,Sunrisers Hyderabad,Sheikh Zayed Stadium,Abu Dhabi,KS Williamson,Sunrisers Hyderabad,field,wickets,6.0,N
+758,2020,Match 57 ,2020-11-05,Mumbai Indians,200,5,20.0,Delhi Capitals,143,8,20.0,Mumbai Indians,Dubai International Cricket Stadium,Dubai,JJ Bumrah,Delhi Capitals,field,runs,57.0,N
+759,2020,Match 56 ,2020-11-03,Sunrisers Hyderabad,151,0,17.1,Mumbai Indians,149,8,20.0,Sunrisers Hyderabad,Sharjah Cricket Stadium,Sharjah,S Nadeem,Sunrisers Hyderabad,field,wickets,10.0,N
+760,2020,Match 55 ,2020-11-02,Delhi Capitals,154,4,19.0,Royal Challengers Bangalore,152,7,20.0,Delhi Capitals,Sheikh Zayed Stadium,Abu Dhabi,A Nortje,Delhi Capitals,field,wickets,6.0,N
+761,2020,Match 54 ,2020-11-01,Kolkata Knight Riders,191,7,20.0,Rajasthan Royals,131,9,20.0,Kolkata Knight Riders,Dubai International Cricket Stadium,Dubai,PJ Cummins,Rajasthan Royals,field,runs,60.0,N
+762,2020,Match 53 ,2020-11-01,Chennai Super Kings,154,1,18.5,Punjab Kings,153,6,20.0,Chennai Super Kings,Sheikh Zayed Stadium,Abu Dhabi,RD Gaikwad,Chennai Super Kings,field,wickets,9.0,N
+763,2020,Match 52 ,2020-10-31,Royal Challengers Bangalore,120,7,20.0,Sunrisers Hyderabad,121,5,14.1,Sunrisers Hyderabad,Sharjah Cricket Stadium,Sharjah,Sandeep Sharma,Sunrisers Hyderabad,field,wickets,5.0,N
+764,2020,Match 51 ,2020-10-31,Delhi Capitals,110,9,20.0,Mumbai Indians,111,1,14.2,Mumbai Indians,Dubai International Cricket Stadium,Dubai,Ishan Kishan,Mumbai Indians,field,wickets,9.0,N
+765,2020,Match 50 ,2020-10-30,Punjab Kings,185,4,20.0,Rajasthan Royals,186,3,17.3,Rajasthan Royals,Sheikh Zayed Stadium,Abu Dhabi,BA Stokes,Rajasthan Royals,field,wickets,7.0,N
+766,2020,Match 49 ,2020-10-29,Chennai Super Kings,178,4,20.0,Kolkata Knight Riders,172,5,20.0,Chennai Super Kings,Dubai International Cricket Stadium,Dubai,RD Gaikwad,Chennai Super Kings,field,wickets,6.0,N
+767,2020,Final ,2020-10-28,Mumbai Indians,166,5,19.1,Royal Challengers Bangalore,164,6,20.0,Mumbai Indians,Sheikh Zayed Stadium,Abu Dhabi,SA Yadav,Mumbai Indians,field,wickets,5.0,N
+768,2020,Match 47 ,2020-10-27,Sunrisers Hyderabad,219,2,20.0,Delhi Capitals,131,0,19.0,Sunrisers Hyderabad,Dubai International Cricket Stadium,Dubai,WP Saha,Delhi Capitals,field,runs,88.0,N
+769,2020,Match 46 ,2020-10-26,Kolkata Knight Riders,149,9,20.0,Punjab Kings,150,2,18.5,Punjab Kings,Sharjah Cricket Stadium,Sharjah,CH Gayle,Punjab Kings,field,wickets,8.0,N
+770,2020,Match 45 ,2020-10-25,Rajasthan Royals,196,2,18.2,Mumbai Indians,195,5,20.0,Rajasthan Royals,Sheikh Zayed Stadium,Abu Dhabi,BA Stokes,Mumbai Indians,bat,wickets,8.0,N
+771,2020,Match 44 ,2020-10-25,Royal Challengers Bangalore,145,6,20.0,Chennai Super Kings,150,2,18.4,Chennai Super Kings,Dubai International Cricket Stadium,Dubai,RD Gaikwad,Royal Challengers Bangalore,bat,wickets,8.0,N
+772,2020,Match 43 ,2020-10-24,Punjab Kings,126,7,20.0,Sunrisers Hyderabad,114,0,19.5,Punjab Kings,Dubai International Cricket Stadium,Dubai,CJ Jordan,Sunrisers Hyderabad,field,runs,12.0,N
+773,2020,Match 42 ,2020-10-24,Kolkata Knight Riders,194,6,20.0,Delhi Capitals,135,9,20.0,Kolkata Knight Riders,Sheikh Zayed Stadium,Abu Dhabi,CV Varun,Delhi Capitals,field,runs,59.0,N
+774,2020,Match 41 ,2020-10-23,Chennai Super Kings,114,9,20.0,Mumbai Indians,116,0,12.2,Mumbai Indians,Sharjah Cricket Stadium,Sharjah,TA Boult,Mumbai Indians,field,wickets,10.0,N
+775,2020,Match 40 ,2020-10-22,Rajasthan Royals,154,6,20.0,Sunrisers Hyderabad,156,2,18.1,Sunrisers Hyderabad,Dubai International Cricket Stadium,Dubai,MK Pandey,Sunrisers Hyderabad,field,wickets,8.0,N
+776,2020,Match 39 ,2020-10-21,Kolkata Knight Riders,84,8,20.0,Royal Challengers Bangalore,85,2,13.3,Royal Challengers Bangalore,Sheikh Zayed Stadium,Abu Dhabi,Mohammed Siraj,Kolkata Knight Riders,bat,wickets,8.0,N
+777,2020,Match 38 ,2020-10-20,Punjab Kings,167,5,19.0,Delhi Capitals,164,5,20.0,Punjab Kings,Dubai International Cricket Stadium,Dubai,S Dhawan,Delhi Capitals,bat,wickets,5.0,N
+778,2020,Match 37 ,2020-10-19,Chennai Super Kings,125,5,20.0,Rajasthan Royals,126,3,17.3,Rajasthan Royals,Sheikh Zayed Stadium,Abu Dhabi,JC Buttler,Chennai Super Kings,bat,wickets,7.0,N
+779,2020,Match 36 ,2020-10-18,Mumbai Indians,176,6,20.0,Punjab Kings,176,6,20.0,Punjab Kings,Dubai International Cricket Stadium,Dubai,KL Rahul,Mumbai Indians,bat,tie,0.0,Y
+780,2020,Match 35 ,2020-10-18,Sunrisers Hyderabad,163,6,20.0,Kolkata Knight Riders,163,5,20.0,Kolkata Knight Riders,Sheikh Zayed Stadium,Abu Dhabi,LH Ferguson,Sunrisers Hyderabad,field,tie,0.0,Y
+781,2020,Match 34 ,2020-10-17,Delhi Capitals,185,5,19.5,Chennai Super Kings,179,4,20.0,Delhi Capitals,Sharjah Cricket Stadium,Sharjah,S Dhawan,Chennai Super Kings,bat,wickets,5.0,N
+782,2020,Match 33 ,2020-10-17,Rajasthan Royals,177,6,20.0,Royal Challengers Bangalore,179,3,19.4,Royal Challengers Bangalore,Dubai International Cricket Stadium,Dubai,AB de Villiers,Rajasthan Royals,bat,wickets,7.0,N
+783,2020,Match 32 ,2020-10-16,Mumbai Indians,149,2,16.5,Kolkata Knight Riders,148,5,20.0,Mumbai Indians,Sheikh Zayed Stadium,Abu Dhabi,Q de Kock,Kolkata Knight Riders,bat,wickets,8.0,N
+784,2020,Match 31 ,2020-10-15,Royal Challengers Bangalore,171,6,20.0,Punjab Kings,177,2,20.0,Punjab Kings,Sharjah Cricket Stadium,Sharjah,KL Rahul,Royal Challengers Bangalore,bat,wickets,8.0,N
+785,2020,Match 30 ,2020-10-14,Delhi Capitals,161,7,20.0,Rajasthan Royals,148,8,20.0,Delhi Capitals,Dubai International Cricket Stadium,Dubai,A Nortje,Delhi Capitals,bat,runs,13.0,N
+786,2020,Match 29 ,2020-10-13,Sunrisers Hyderabad,147,8,20.0,Chennai Super Kings,167,6,20.0,Chennai Super Kings,Dubai International Cricket Stadium,Dubai,RA Jadeja,Chennai Super Kings,bat,runs,20.0,N
+787,2020,Match 28 ,2020-10-12,Royal Challengers Bangalore,194,2,20.0,Kolkata Knight Riders,112,9,20.0,Royal Challengers Bangalore,Sharjah Cricket Stadium,Sharjah,AB de Villiers,Royal Challengers Bangalore,bat,runs,82.0,N
+788,2020,Match 27 ,2020-10-11,Mumbai Indians,166,5,19.4,Delhi Capitals,162,4,20.0,Mumbai Indians,Sheikh Zayed Stadium,Abu Dhabi,Q de Kock,Delhi Capitals,bat,wickets,5.0,N
+789,2020,Match 26 ,2020-10-11,Sunrisers Hyderabad,158,4,20.0,Rajasthan Royals,163,5,19.5,Rajasthan Royals,Dubai International Cricket Stadium,Dubai,R Tewatia,Sunrisers Hyderabad,bat,wickets,5.0,N
+790,2020,Match 25 ,2020-10-10,Chennai Super Kings,132,8,20.0,Royal Challengers Bangalore,169,4,20.0,Royal Challengers Bangalore,Dubai International Cricket Stadium,Dubai,V Kohli,Royal Challengers Bangalore,bat,runs,37.0,N
+791,2020,Match 24 ,2020-10-10,Punjab Kings,162,5,20.0,Kolkata Knight Riders,164,6,20.0,Kolkata Knight Riders,Sheikh Zayed Stadium,Abu Dhabi,KD Karthik,Kolkata Knight Riders,bat,runs,2.0,N
+792,2020,Match 23 ,2020-10-09,Rajasthan Royals,138,0,19.4,Delhi Capitals,184,8,20.0,Delhi Capitals,Sharjah Cricket Stadium,Sharjah,R Ashwin,Rajasthan Royals,field,runs,46.0,N
+793,2020,Match 22 ,2020-10-08,Sunrisers Hyderabad,201,6,20.0,Punjab Kings,132,0,16.5,Sunrisers Hyderabad,Dubai International Cricket Stadium,Dubai,JM Bairstow,Sunrisers Hyderabad,bat,runs,69.0,N
+794,2020,Match 21 ,2020-10-07,Kolkata Knight Riders,167,0,20.0,Chennai Super Kings,157,5,20.0,Kolkata Knight Riders,Sheikh Zayed Stadium,Abu Dhabi,RA Tripathi,Kolkata Knight Riders,bat,runs,10.0,N
+795,2020,Match 20 ,2020-10-06,Mumbai Indians,193,4,20.0,Rajasthan Royals,136,0,18.1,Mumbai Indians,Sheikh Zayed Stadium,Abu Dhabi,SA Yadav,Mumbai Indians,bat,runs,57.0,N
+796,2020,Match 19 ,2020-10-05,Royal Challengers Bangalore,137,9,20.0,Delhi Capitals,196,4,20.0,Delhi Capitals,Dubai International Cricket Stadium,Dubai,AR Patel,Royal Challengers Bangalore,field,runs,59.0,N
+797,2020,Match 18 ,2020-10-04,Punjab Kings,178,4,20.0,Chennai Super Kings,181,0,17.4,Chennai Super Kings,Dubai International Cricket Stadium,Dubai,SR Watson,Punjab Kings,bat,wickets,10.0,N
+798,2020,Match 17 ,2020-10-04,Mumbai Indians,208,5,20.0,Sunrisers Hyderabad,174,7,20.0,Mumbai Indians,Sharjah Cricket Stadium,Sharjah,TA Boult,Mumbai Indians,bat,runs,34.0,N
+799,2020,Match 16 ,2020-10-03,Delhi Capitals,228,4,20.0,Kolkata Knight Riders,210,8,20.0,Delhi Capitals,Sharjah Cricket Stadium,Sharjah,SS Iyer,Kolkata Knight Riders,field,runs,18.0,N
+800,2020,Match 15 ,2020-10-03,Royal Challengers Bangalore,158,2,19.1,Rajasthan Royals,154,6,20.0,Royal Challengers Bangalore,Sheikh Zayed Stadium,Abu Dhabi,YS Chahal,Rajasthan Royals,bat,wickets,8.0,N
+801,2020,Match 14 ,2020-10-02,Chennai Super Kings,157,5,20.0,Sunrisers Hyderabad,164,5,20.0,Sunrisers Hyderabad,Dubai International Cricket Stadium,Dubai,PK Garg,Sunrisers Hyderabad,bat,runs,7.0,N
+802,2020,Match 13 ,2020-10-01,Punjab Kings,143,8,20.0,Mumbai Indians,191,4,20.0,Mumbai Indians,Sheikh Zayed Stadium,Abu Dhabi,KA Pollard,Punjab Kings,field,runs,48.0,N
+803,2020,Match 12 ,2020-09-30,Rajasthan Royals,137,9,20.0,Kolkata Knight Riders,174,6,20.0,Kolkata Knight Riders,Dubai International Cricket Stadium,Dubai,Shivam Mavi,Rajasthan Royals,field,runs,37.0,N
+804,2020,Match 11 ,2020-09-29,Delhi Capitals,147,7,20.0,Sunrisers Hyderabad,162,4,20.0,Sunrisers Hyderabad,Sheikh Zayed Stadium,Abu Dhabi,Rashid Khan,Delhi Capitals,field,runs,15.0,N
+805,2020,Match 10 ,2020-09-28,Royal Challengers Bangalore,201,3,20.0,Mumbai Indians,201,5,20.0,Royal Challengers Bangalore,Dubai International Cricket Stadium,Dubai,AB de Villiers,Mumbai Indians,field,tie,0.0,Y
+806,2020,Match 9 ,2020-09-27,Rajasthan Royals,226,6,19.3,Punjab Kings,223,2,20.0,Rajasthan Royals,Sharjah Cricket Stadium,Sharjah,SV Samson,Rajasthan Royals,field,wickets,4.0,N
+807,2020,Match 8 ,2020-09-26,Kolkata Knight Riders,145,3,18.0,Sunrisers Hyderabad,142,4,20.0,Kolkata Knight Riders,Sheikh Zayed Stadium,Abu Dhabi,Shubman Gill,Sunrisers Hyderabad,bat,wickets,7.0,N
+808,2020,Match 7 ,2020-09-25,Chennai Super Kings,131,7,20.0,Delhi Capitals,175,3,20.0,Delhi Capitals,Dubai International Cricket Stadium,Dubai,PP Shaw,Chennai Super Kings,field,runs,44.0,N
+809,2020,Match 6 ,2020-09-24,Punjab Kings,206,3,20.0,Royal Challengers Bangalore,109,0,17.0,Punjab Kings,Dubai International Cricket Stadium,Dubai,KL Rahul,Royal Challengers Bangalore,field,runs,97.0,N
+810,2020,Match 5 ,2020-09-23,Kolkata Knight Riders,146,9,20.0,Mumbai Indians,195,5,20.0,Mumbai Indians,Sheikh Zayed Stadium,Abu Dhabi,RG Sharma,Kolkata Knight Riders,field,runs,49.0,N
+811,2020,Match 4 ,2020-09-22,Rajasthan Royals,216,7,20.0,Chennai Super Kings,200,6,20.0,Rajasthan Royals,Sharjah Cricket Stadium,Sharjah,SV Samson,Chennai Super Kings,field,runs,16.0,N
+812,2020,Match 3 ,2020-09-21,Sunrisers Hyderabad,153,0,19.4,Royal Challengers Bangalore,163,5,20.0,Royal Challengers Bangalore,Dubai International Cricket Stadium,Dubai,YS Chahal,Sunrisers Hyderabad,field,runs,10.0,N
+813,2020,Match 2 ,2020-09-20,Delhi Capitals,157,8,20.0,Punjab Kings,157,8,20.0,Delhi Capitals,Dubai International Cricket Stadium,Dubai,MP Stoinis,Punjab Kings,field,tie,0.0,Y
+814,2020,Match 1 ,2020-09-19,Mumbai Indians,162,9,20.0,Chennai Super Kings,166,5,19.2,Chennai Super Kings,Sheikh Zayed Stadium,Abu Dhabi,AT Rayudu,Chennai Super Kings,field,wickets,5.0,N
+815,2021,Match 60 ,2021-10-15,Chennai Super Kings,192,3,20.0,Kolkata Knight Riders,165,9,20.0,Chennai Super Kings,Dubai International Cricket Stadium,Dubai,F du Plessis,Kolkata Knight Riders,field,Runs,27.0,N
+816,2021,Match 59 ,2021-10-13,Kolkata Knight Riders,136,7,19.5,Delhi Capitals,135,5,20.0,Kolkata Knight Riders,Sharjah Cricket Stadium,Sharjah,VR Iyer,Kolkata Knight Riders,field,Wickets,3.0,N
+817,2021,Match 58 ,2021-10-11,Royal Challengers Bangalore,138,7,20.0,Kolkata Knight Riders,139,6,19.4,Kolkata Knight Riders,Sharjah Cricket Stadium,Sharjah,SP Narine,Royal Challengers Bangalore,bat,Wickets,4.0,N
+818,2021,Match 57 ,2021-10-10,Delhi Capitals,172,5,20.0,Chennai Super Kings,173,6,19.4,Chennai Super Kings,Dubai International Cricket Stadium,Dubai,RD Gaikwad,Chennai Super Kings,field,Wickets,4.0,N
+819,2021,Match 55 ,2021-10-08,Royal Challengers Bangalore,166,3,20.0,Delhi Capitals,164,5,20.0,Royal Challengers Bangalore,Dubai International Cricket Stadium,Dubai,KS Bharat,Royal Challengers Bangalore,field,Wickets,7.0,N
+820,2021,Match 56 ,2021-10-08,Sunrisers Hyderabad,193,8,20.0,Mumbai Indians,235,9,20.0,Mumbai Indians,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,Ishan Kishan,Mumbai Indians,bat,Runs,42.0,N
+821,2021,Match 54 ,2021-10-07,Kolkata Knight Riders,171,4,20.0,Rajasthan Royals,85,0,16.1,Kolkata Knight Riders,Sharjah Cricket Stadium,Sharjah,Shivam Mavi,Rajasthan Royals,field,Runs,86.0,N
+822,2021,Match 53 ,2021-10-07,Chennai Super Kings,134,6,20.0,Punjab Kings,139,4,13.0,Punjab Kings,Dubai International Cricket Stadium,Dubai,KL Rahul,Punjab Kings,field,Wickets,6.0,N
+823,2021,Match 52 ,2021-10-06,Royal Challengers Bangalore,137,6,20.0,Sunrisers Hyderabad,141,7,20.0,Sunrisers Hyderabad,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,KS Williamson,Royal Challengers Bangalore,field,Runs,4.0,N
+824,2021,Match 51 ,2021-10-05,Rajasthan Royals,90,9,20.0,Mumbai Indians,94,2,8.2,Mumbai Indians,Sharjah Cricket Stadium,Sharjah,NM Coulter-Nile,Mumbai Indians,field,Wickets,8.0,N
+825,2021,Match 50 ,2021-10-04,Delhi Capitals,139,7,19.4,Chennai Super Kings,136,5,20.0,Delhi Capitals,Dubai International Cricket Stadium,Dubai,AR Patel,Delhi Capitals,field,Wickets,3.0,N
+826,2021,Match 49 ,2021-10-03,Kolkata Knight Riders,119,4,19.4,Sunrisers Hyderabad,115,8,20.0,Kolkata Knight Riders,Dubai International Cricket Stadium,Dubai,Shubman Gill,Sunrisers Hyderabad,bat,Wickets,6.0,N
+827,2021,Final ,2021-10-03,Royal Challengers Bangalore,164,7,20.0,Punjab Kings,158,6,20.0,Royal Challengers Bangalore,Sharjah Cricket Stadium,Sharjah,GJ Maxwell,Royal Challengers Bangalore,bat,Runs,6.0,N
+828,2021,Match 47 ,2021-10-02,Rajasthan Royals,190,3,17.3,Chennai Super Kings,189,4,20.0,Rajasthan Royals,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,RD Gaikwad,Rajasthan Royals,field,Wickets,7.0,N
+829,2021,Match 46 ,2021-10-02,Mumbai Indians,129,8,20.0,Delhi Capitals,132,6,19.1,Delhi Capitals,Sharjah Cricket Stadium,Sharjah,AR Patel,Delhi Capitals,field,Wickets,4.0,N
+830,2021,Match 45 ,2021-10-01,Kolkata Knight Riders,165,7,20.0,Punjab Kings,168,5,19.3,Punjab Kings,Dubai International Cricket Stadium,Dubai,KL Rahul,Punjab Kings,field,Wickets,5.0,N
+831,2021,Match 44 ,2021-09-30,Sunrisers Hyderabad,134,7,20.0,Chennai Super Kings,139,4,19.4,Chennai Super Kings,Sharjah Cricket Stadium,Sharjah,JR Hazlewood,Chennai Super Kings,field,Wickets,6.0,N
+832,2021,Match 43 ,2021-09-29,Rajasthan Royals,149,9,20.0,Royal Challengers Bangalore,153,3,17.1,Royal Challengers Bangalore,Dubai International Cricket Stadium,Dubai,YS Chahal,Royal Challengers Bangalore,field,Wickets,7.0,N
+833,2021,Match 42 ,2021-09-28,Mumbai Indians,137,4,19.0,Punjab Kings,135,6,20.0,Mumbai Indians,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,KA Pollard,Mumbai Indians,field,Wickets,6.0,N
+834,2021,Match 41 ,2021-09-28,Kolkata Knight Riders,130,7,18.2,Delhi Capitals,127,9,20.0,Kolkata Knight Riders,Sharjah Cricket Stadium,Sharjah,SP Narine,Kolkata Knight Riders,field,Wickets,3.0,N
+835,2021,Match 40 ,2021-09-27,Sunrisers Hyderabad,167,3,18.3,Rajasthan Royals,164,5,20.0,Sunrisers Hyderabad,Dubai International Cricket Stadium,Dubai,JJ Roy,Rajasthan Royals,bat,Wickets,7.0,N
+836,2021,Match 39 ,2021-09-26,Royal Challengers Bangalore,165,6,20.0,Mumbai Indians,111,0,18.1,Royal Challengers Bangalore,Dubai International Cricket Stadium,Dubai,GJ Maxwell,Mumbai Indians,field,Runs,54.0,N
+837,2021,Match 38 ,2021-09-26,Chennai Super Kings,172,8,20.0,Kolkata Knight Riders,171,6,20.0,Chennai Super Kings,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,RA Jadeja,Kolkata Knight Riders,bat,Wickets,2.0,N
+838,2021,Match 37 ,2021-09-25,Sunrisers Hyderabad,120,7,20.0,Punjab Kings,125,7,20.0,Punjab Kings,Sharjah Cricket Stadium,Sharjah,JO Holder,Sunrisers Hyderabad,field,Runs,5.0,N
+839,2021,Match 36 ,2021-09-25,Delhi Capitals,154,6,20.0,Rajasthan Royals,121,6,20.0,Delhi Capitals,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,SS Iyer,Rajasthan Royals,field,Runs,33.0,N
+840,2021,Match 35 ,2021-09-24,Royal Challengers Bangalore,156,6,20.0,Chennai Super Kings,157,4,18.1,Chennai Super Kings,Sharjah Cricket Stadium,Sharjah,DJ Bravo,Chennai Super Kings,field,Wickets,6.0,N
+841,2021,Match 34 ,2021-09-23,Mumbai Indians,155,6,20.0,Kolkata Knight Riders,159,3,15.1,Kolkata Knight Riders,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,SP Narine,Kolkata Knight Riders,field,Wickets,7.0,N
+842,2021,Match 33 ,2021-09-22,Delhi Capitals,139,2,17.5,Sunrisers Hyderabad,134,9,20.0,Delhi Capitals,Dubai International Cricket Stadium,Dubai,A Nortje,Sunrisers Hyderabad,bat,Wickets,8.0,N
+843,2021,Match 32 ,2021-09-21,Punjab Kings,183,4,20.0,Rajasthan Royals,185,0,20.0,Rajasthan Royals,Dubai International Cricket Stadium,Dubai,Kartik Tyagi,Punjab Kings,field,Runs,2.0,N
+844,2021,Match 31 ,2021-09-20,Kolkata Knight Riders,94,1,10.0,Royal Challengers Bangalore,92,0,19.0,Kolkata Knight Riders,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,CV Varun,Royal Challengers Bangalore,bat,Wickets,9.0,N
+845,2021,Match 30 ,2021-09-19,Chennai Super Kings,156,6,20.0,Mumbai Indians,136,8,20.0,Chennai Super Kings,Dubai International Cricket Stadium,Dubai,RD Gaikwad,Chennai Super Kings,bat,Runs,20.0,N
+846,2021,Match 29 ,2021-05-02,Punjab Kings,166,6,20.0,Delhi Capitals,167,3,17.4,Delhi Capitals,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,MA Agarwal,Delhi Capitals,field,Wickets,7.0,N
+847,2021,Match 28 ,2021-05-02,Rajasthan Royals,220,3,20.0,Sunrisers Hyderabad,165,8,20.0,Rajasthan Royals,"Arun Jaitley Stadium, Delhi",Delhi,JC Buttler,Sunrisers Hyderabad,field,Runs,55.0,N
+848,2021,Match 27 ,2021-05-01,Mumbai Indians,219,6,20.0,Chennai Super Kings,218,4,20.0,Mumbai Indians,"Arun Jaitley Stadium, Delhi",Delhi,KA Pollard,Mumbai Indians,field,Wickets,4.0,N
+849,2021,Match 26 ,2021-04-30,Punjab Kings,179,5,20.0,Royal Challengers Bangalore,145,8,20.0,Punjab Kings,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Harpreet Brar,Royal Challengers Bangalore,field,Runs,34.0,N
+850,2021,Match 25 ,2021-04-29,Delhi Capitals,156,3,16.3,Kolkata Knight Riders,154,6,20.0,Delhi Capitals,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,PP Shaw,Delhi Capitals,field,Wickets,7.0,N
+851,2021,Match 24 ,2021-04-29,Mumbai Indians,172,3,18.3,Rajasthan Royals,171,4,20.0,Mumbai Indians,"Arun Jaitley Stadium, Delhi",Delhi,Q de Kock,Mumbai Indians,field,Wickets,7.0,N
+852,2021,Match 23 ,2021-04-28,Chennai Super Kings,173,3,18.3,Sunrisers Hyderabad,171,3,20.0,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",Delhi,RD Gaikwad,Sunrisers Hyderabad,bat,Wickets,7.0,N
+853,2021,Match 22 ,2021-04-27,Delhi Capitals,170,4,20.0,Royal Challengers Bangalore,171,5,20.0,Royal Challengers Bangalore,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,AB de Villiers,Delhi Capitals,field,Runs,1.0,N
+854,2021,Match 21 ,2021-04-26,Punjab Kings,123,9,20.0,Kolkata Knight Riders,126,5,16.4,Kolkata Knight Riders,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,EJG Morgan,Kolkata Knight Riders,field,Wickets,5.0,N
+855,2021,Match 20 ,2021-04-25,Sunrisers Hyderabad,159,7,20.0,Delhi Capitals,159,4,20.0,Delhi Capitals,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,PP Shaw,Delhi Capitals,bat,SuperOver,,Y
+856,2021,Match 19 ,2021-04-25,Chennai Super Kings,191,4,20.0,Royal Challengers Bangalore,122,9,20.0,Chennai Super Kings,Wankhede Stadium,Mumbai,RA Jadeja,Chennai Super Kings,bat,Runs,69.0,N
+857,2021,Match 18 ,2021-04-24,Rajasthan Royals,134,4,18.5,Kolkata Knight Riders,133,9,20.0,Rajasthan Royals,Wankhede Stadium,Mumbai,CH Morris,Rajasthan Royals,field,Wickets,6.0,N
+858,2021,Match 17 ,2021-04-23,Punjab Kings,132,1,17.4,Mumbai Indians,131,6,20.0,Punjab Kings,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,KL Rahul,Punjab Kings,field,Wickets,9.0,N
+859,2021,Match 16 ,2021-04-22,Royal Challengers Bangalore,181,0,16.3,Rajasthan Royals,177,9,20.0,Royal Challengers Bangalore,Wankhede Stadium,Mumbai,D Padikkal,Royal Challengers Bangalore,field,Wickets,10.0,N
+860,2021,Match 15 ,2021-04-21,Kolkata Knight Riders,202,0,19.1,Chennai Super Kings,220,3,20.0,Chennai Super Kings,Wankhede Stadium,Mumbai,F du Plessis,Kolkata Knight Riders,field,Runs,18.0,N
+861,2021,Match 14 ,2021-04-21,Punjab Kings,120,0,19.4,Sunrisers Hyderabad,121,1,18.4,Sunrisers Hyderabad,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,JM Bairstow,Punjab Kings,bat,Wickets,9.0,N
+862,2021,Match 13 ,2021-04-20,Delhi Capitals,138,4,19.1,Mumbai Indians,137,9,20.0,Delhi Capitals,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,A Mishra,Mumbai Indians,bat,Wickets,6.0,N
+863,2021,Match 12 ,2021-04-19,Chennai Super Kings,188,9,20.0,Rajasthan Royals,143,9,20.0,Chennai Super Kings,Wankhede Stadium,Mumbai,MM Ali,Rajasthan Royals,field,Runs,45.0,N
+864,2021,Match 11 ,2021-04-18,Delhi Capitals,198,4,18.2,Punjab Kings,195,4,20.0,Delhi Capitals,Wankhede Stadium,Mumbai,S Dhawan,Delhi Capitals,field,Wickets,6.0,N
+865,2021,Match 10 ,2021-04-18,Royal Challengers Bangalore,204,4,20.0,Kolkata Knight Riders,166,8,20.0,Royal Challengers Bangalore,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,AB de Villiers,Royal Challengers Bangalore,bat,Runs,38.0,N
+866,2021,Match 9 ,2021-04-17,Mumbai Indians,150,5,20.0,Sunrisers Hyderabad,137,0,19.4,Mumbai Indians,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,KA Pollard,Mumbai Indians,bat,Runs,13.0,N
+867,2021,Match 8 ,2021-04-16,Punjab Kings,106,8,20.0,Chennai Super Kings,107,4,15.4,Chennai Super Kings,Wankhede Stadium,Mumbai,DL Chahar,Chennai Super Kings,field,Wickets,6.0,N
+868,2021,Match 7 ,2021-04-15,Rajasthan Royals,150,7,19.4,Delhi Capitals,147,8,20.0,Rajasthan Royals,Wankhede Stadium,Mumbai,JD Unadkat,Rajasthan Royals,field,Wickets,3.0,N
+869,2021,Match 6 ,2021-04-14,Sunrisers Hyderabad,143,9,20.0,Royal Challengers Bangalore,149,8,20.0,Royal Challengers Bangalore,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,GJ Maxwell,Sunrisers Hyderabad,field,Runs,6.0,N
+870,2021,Match 5 ,2021-04-13,Kolkata Knight Riders,142,7,20.0,Mumbai Indians,152,0,20.0,Mumbai Indians,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,RD Chahar,Kolkata Knight Riders,field,Runs,10.0,N
+871,2021,Match 4 ,2021-04-12,Rajasthan Royals,217,7,20.0,Punjab Kings,221,6,20.0,Punjab Kings,Wankhede Stadium,Mumbai,SV Samson,Rajasthan Royals,field,Runs,4.0,N
+872,2021,Match 3 ,2021-04-11,Sunrisers Hyderabad,177,5,20.0,Kolkata Knight Riders,187,6,20.0,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,N Rana,Sunrisers Hyderabad,field,Runs,10.0,N
+873,2021,Match 2 ,2021-04-10,Chennai Super Kings,188,7,20.0,Delhi Capitals,190,3,18.4,Delhi Capitals,Wankhede Stadium,Mumbai,S Dhawan,Delhi Capitals,field,Wickets,7.0,N
+874,2021,Match 1 ,2021-04-09,Mumbai Indians,159,9,20.0,Royal Challengers Bangalore,160,8,20.0,Royal Challengers Bangalore,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,HV Patel,Royal Challengers Bangalore,field,Wickets,2.0,N
+875,2022,Final ,2022-05-29,Gujarat Titans,133,3,18.1,Rajasthan Royals,130,9,20.0,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,HH Pandya,Rajasthan Royals,bat,Wickets,7.0,N
+876,2022,Qualifier 2 ,2022-05-27,Rajasthan Royals,161,3,18.1,Royal Challengers Bangalore,157,8,20.0,Rajasthan Royals,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,JC Buttler,Rajasthan Royals,field,Wickets,7.0,N
+877,2022,Eliminator ,2022-05-25,Lucknow Super Giants,193,6,20.0,Royal Challengers Bangalore,207,4,20.0,Royal Challengers Bangalore,Eden Gardens,Kolkata,RM Patidar,Lucknow Super Giants,field,Runs,14.0,N
+878,2022,Qualifier 1 ,2022-05-24,Gujarat Titans,191,3,19.3,Rajasthan Royals,188,6,20.0,Gujarat Titans,Eden Gardens,Kolkata,DA Miller,Gujarat Titans,field,Wickets,7.0,N
+879,2022,Match 70 ,2022-05-22,Sunrisers Hyderabad,157,8,20.0,Punjab Kings,160,5,15.1,Punjab Kings,Wankhede Stadium,Mumbai,Harpreet Brar,Sunrisers Hyderabad,bat,Wickets,5.0,N
+880,2022,Match 69 ,2022-05-21,Mumbai Indians,160,5,19.1,Delhi Capitals,159,7,20.0,Mumbai Indians,Wankhede Stadium,Mumbai,JJ Bumrah,Mumbai Indians,field,Wickets,5.0,N
+881,2022,Match 68 ,2022-05-20,Rajasthan Royals,151,5,19.4,Chennai Super Kings,150,6,20.0,Rajasthan Royals,Brabourne Stadium,Mumbai,R Ashwin,Chennai Super Kings,bat,Wickets,5.0,N
+882,2022,Match 67 ,2022-05-19,Royal Challengers Bangalore,170,2,18.4,Gujarat Titans,168,5,20.0,Royal Challengers Bangalore,Wankhede Stadium,Mumbai,V Kohli,Gujarat Titans,bat,Wickets,8.0,N
+883,2022,Match 66 ,2022-05-18,Kolkata Knight Riders,208,8,20.0,Lucknow Super Giants,210,0,20.0,Lucknow Super Giants,Dr DY Patil Sports Academy,Navi Mumbai,Q de Kock,Lucknow Super Giants,bat,Runs,2.0,N
+884,2022,Match 65 ,2022-05-17,Mumbai Indians,190,7,20.0,Sunrisers Hyderabad,193,6,20.0,Sunrisers Hyderabad,Wankhede Stadium,Mumbai,RA Tripathi,Mumbai Indians,field,Runs,3.0,N
+885,2022,Match 64 ,2022-05-16,Punjab Kings,142,9,20.0,Delhi Capitals,159,7,20.0,Delhi Capitals,Dr DY Patil Sports Academy,Navi Mumbai,SN Thakur,Punjab Kings,field,Runs,17.0,N
+886,2022,Match 63 ,2022-05-15,Lucknow Super Giants,154,8,20.0,Rajasthan Royals,178,6,20.0,Rajasthan Royals,Brabourne Stadium,Mumbai,TA Boult,Rajasthan Royals,bat,Runs,24.0,N
+887,2022,Match 62 ,2022-05-15,Chennai Super Kings,133,5,20.0,Gujarat Titans,137,3,19.1,Gujarat Titans,Wankhede Stadium,Mumbai,WP Saha,Chennai Super Kings,bat,Wickets,7.0,N
+888,2022,Match 61 ,2022-05-14,Kolkata Knight Riders,177,6,20.0,Sunrisers Hyderabad,123,8,20.0,Kolkata Knight Riders,Maharashtra Cricket Association Stadium,Pune,AD Russell,Kolkata Knight Riders,bat,Runs,54.0,N
+889,2022,Match 60 ,2022-05-13,Royal Challengers Bangalore,155,9,20.0,Punjab Kings,209,9,20.0,Punjab Kings,Brabourne Stadium,Mumbai,JM Bairstow,Royal Challengers Bangalore,field,Runs,54.0,N
+890,2022,Match 59 ,2022-05-12,Chennai Super Kings,97,0,16.0,Mumbai Indians,103,5,14.5,Mumbai Indians,Wankhede Stadium,Mumbai,DR Sams,Mumbai Indians,field,Wickets,5.0,N
+891,2022,Match 58 ,2022-05-11,Rajasthan Royals,160,6,20.0,Delhi Capitals,161,2,18.1,Delhi Capitals,Dr DY Patil Sports Academy,Navi Mumbai,MR Marsh,Delhi Capitals,field,Wickets,8.0,N
+892,2022,Match 57 ,2022-05-10,Lucknow Super Giants,82,0,13.5,Gujarat Titans,144,4,20.0,Gujarat Titans,Maharashtra Cricket Association Stadium,Pune,Shubman Gill,Gujarat Titans,bat,Runs,62.0,N
+893,2022,Match 56 ,2022-05-09,Mumbai Indians,113,0,17.3,Kolkata Knight Riders,165,9,20.0,Kolkata Knight Riders,Dr DY Patil Sports Academy,Navi Mumbai,JJ Bumrah,Mumbai Indians,field,Runs,52.0,N
+894,2022,Match 55 ,2022-05-08,Chennai Super Kings,208,6,20.0,Delhi Capitals,117,0,17.4,Chennai Super Kings,Dr DY Patil Sports Academy,Navi Mumbai,DP Conway,Delhi Capitals,field,Runs,91.0,N
+895,2022,Match 54 ,2022-05-08,Sunrisers Hyderabad,125,0,19.2,Royal Challengers Bangalore,192,3,20.0,Royal Challengers Bangalore,Wankhede Stadium,Mumbai,PWH de Silva,Royal Challengers Bangalore,bat,Runs,67.0,N
+896,2022,Match 53 ,2022-05-07,Lucknow Super Giants,176,7,20.0,Kolkata Knight Riders,101,0,14.3,Lucknow Super Giants,Maharashtra Cricket Association Stadium,Pune,Avesh Khan,Kolkata Knight Riders,field,Runs,75.0,N
+897,2022,Match 52 ,2022-05-07,Punjab Kings,189,5,20.0,Rajasthan Royals,190,4,19.4,Rajasthan Royals,Wankhede Stadium,Mumbai,YBK Jaiswal,Punjab Kings,bat,Wickets,6.0,N
+898,2022,Match 51 ,2022-05-06,Gujarat Titans,172,5,20.0,Mumbai Indians,177,6,20.0,Mumbai Indians,Brabourne Stadium,Mumbai,TH David,Gujarat Titans,field,Runs,5.0,N
+899,2022,Match 50 ,2022-05-05,Delhi Capitals,207,3,20.0,Sunrisers Hyderabad,186,8,20.0,Delhi Capitals,Brabourne Stadium,Mumbai,DA Warner,Sunrisers Hyderabad,field,Runs,21.0,N
+900,2022,Match 49 ,2022-05-04,Royal Challengers Bangalore,173,8,20.0,Chennai Super Kings,160,8,20.0,Royal Challengers Bangalore,Maharashtra Cricket Association Stadium,Pune,HV Patel,Chennai Super Kings,field,Runs,13.0,N
+901,2022,Match 48 ,2022-05-03,Gujarat Titans,143,8,20.0,Punjab Kings,145,2,16.0,Punjab Kings,Dr DY Patil Sports Academy,Navi Mumbai,K Rabada,Gujarat Titans,bat,Wickets,8.0,N
+902,2022,Match 47 ,2022-05-02,Kolkata Knight Riders,158,3,19.1,Rajasthan Royals,152,5,20.0,Kolkata Knight Riders,Wankhede Stadium,Mumbai,RK Singh,Kolkata Knight Riders,field,Wickets,7.0,N
+903,2022,Match 46 ,2022-05-01,Sunrisers Hyderabad,189,6,20.0,Chennai Super Kings,202,2,20.0,Chennai Super Kings,Maharashtra Cricket Association Stadium,Pune,RD Gaikwad,Sunrisers Hyderabad,field,Runs,13.0,N
+904,2022,Match 45 ,2022-05-01,Delhi Capitals,189,7,20.0,Lucknow Super Giants,195,3,20.0,Lucknow Super Giants,Wankhede Stadium,Mumbai,Mohsin Khan,Lucknow Super Giants,bat,Runs,6.0,N
+905,2022,Match 44 ,2022-04-30,Rajasthan Royals,158,6,20.0,Mumbai Indians,161,5,19.2,Mumbai Indians,Dr DY Patil Sports Academy,Navi Mumbai,SA Yadav,Mumbai Indians,field,Wickets,5.0,N
+906,2022,Match 43 ,2022-04-30,Gujarat Titans,174,4,19.3,Royal Challengers Bangalore,170,6,20.0,Gujarat Titans,Brabourne Stadium,Mumbai,R Tewatia,Royal Challengers Bangalore,bat,Wickets,6.0,N
+907,2022,Match 42 ,2022-04-29,Punjab Kings,133,8,20.0,Lucknow Super Giants,153,8,20.0,Lucknow Super Giants,Maharashtra Cricket Association Stadium,Pune,KH Pandya,Punjab Kings,field,Runs,20.0,N
+908,2022,Match 41 ,2022-04-28,Delhi Capitals,150,6,19.0,Kolkata Knight Riders,146,9,20.0,Delhi Capitals,Wankhede Stadium,Mumbai,Kuldeep Yadav,Delhi Capitals,field,Wickets,4.0,N
+909,2022,Match 40 ,2022-04-27,Gujarat Titans,199,5,20.0,Sunrisers Hyderabad,195,6,20.0,Gujarat Titans,Wankhede Stadium,Mumbai,Umran Malik,Gujarat Titans,field,Wickets,5.0,N
+910,2022,Match 39 ,2022-04-26,Royal Challengers Bangalore,115,0,19.3,Rajasthan Royals,144,8,20.0,Rajasthan Royals,Maharashtra Cricket Association Stadium,Pune,R Parag,Royal Challengers Bangalore,field,Runs,29.0,N
+911,2022,Match 38 ,2022-04-25,Punjab Kings,187,4,20.0,Chennai Super Kings,176,6,20.0,Punjab Kings,Wankhede Stadium,Mumbai,S Dhawan,Chennai Super Kings,field,Runs,11.0,N
+912,2022,Match 37 ,2022-04-24,Lucknow Super Giants,168,6,20.0,Mumbai Indians,132,8,20.0,Lucknow Super Giants,Wankhede Stadium,Mumbai,KL Rahul,Mumbai Indians,field,Runs,36.0,N
+913,2022,Match 36 ,2022-04-23,Royal Challengers Bangalore,68,0,16.1,Sunrisers Hyderabad,72,1,8.0,Sunrisers Hyderabad,Brabourne Stadium,Mumbai,M Jansen,Sunrisers Hyderabad,field,Wickets,9.0,N
+914,2022,Match 35 ,2022-04-23,Kolkata Knight Riders,148,8,20.0,Gujarat Titans,156,9,20.0,Gujarat Titans,Dr DY Patil Sports Academy,Navi Mumbai,Rashid Khan,Gujarat Titans,bat,Runs,8.0,N
+915,2022,Match 34 ,2022-04-22,Delhi Capitals,207,8,20.0,Rajasthan Royals,222,2,20.0,Rajasthan Royals,Wankhede Stadium,Mumbai,JC Buttler,Delhi Capitals,field,Runs,15.0,N
+916,2022,Match 33 ,2022-04-21,Mumbai Indians,155,7,20.0,Chennai Super Kings,156,7,20.0,Chennai Super Kings,Dr DY Patil Sports Academy,Navi Mumbai,Mukesh Choudhary,Chennai Super Kings,field,Wickets,3.0,N
+917,2022,Match 32 ,2022-04-20,Delhi Capitals,119,1,10.3,Punjab Kings,115,0,20.0,Delhi Capitals,Brabourne Stadium,Mumbai,Kuldeep Yadav,Delhi Capitals,field,Wickets,9.0,N
+918,2022,Match 31 ,2022-04-19,Lucknow Super Giants,163,8,20.0,Royal Challengers Bangalore,181,6,20.0,Royal Challengers Bangalore,Dr DY Patil Sports Academy,Mumbai,F du Plessis,Lucknow Super Giants,field,Runs,18.0,N
+919,2022,Match 30 ,2022-04-18,Rajasthan Royals,217,5,20.0,Kolkata Knight Riders,210,0,19.4,Rajasthan Royals,Brabourne Stadium,Mumbai,YS Chahal,Kolkata Knight Riders,field,Runs,7.0,N
+920,2022,Match 29 ,2022-04-17,Gujarat Titans,170,7,19.5,Chennai Super Kings,169,5,20.0,Gujarat Titans,Maharashtra Cricket Association Stadium,Pune,DA Miller,Gujarat Titans,field,Wickets,3.0,N
+921,2022,Match 28 ,2022-04-17,Punjab Kings,151,0,20.0,Sunrisers Hyderabad,152,3,18.5,Sunrisers Hyderabad,Dr DY Patil Sports Academy,Mumbai,Umran Malik,Sunrisers Hyderabad,field,Wickets,7.0,N
+922,2022,Match 27 ,2022-04-16,Delhi Capitals,173,7,20.0,Royal Challengers Bangalore,189,5,20.0,Royal Challengers Bangalore,Wankhede Stadium,Mumbai,KD Karthik,Delhi Capitals,field,Runs,16.0,N
+923,2022,Match 26 ,2022-04-16,Mumbai Indians,181,9,20.0,Lucknow Super Giants,199,4,20.0,Lucknow Super Giants,Brabourne Stadium,Mumbai,KL Rahul,Mumbai Indians,field,Runs,18.0,N
+924,2022,Match 25 ,2022-04-15,Sunrisers Hyderabad,176,3,17.5,Kolkata Knight Riders,175,8,20.0,Sunrisers Hyderabad,Brabourne Stadium,Mumbai,RA Tripathi,Sunrisers Hyderabad,field,Wickets,7.0,N
+925,2022,Match 24 ,2022-04-14,Rajasthan Royals,155,9,20.0,Gujarat Titans,192,4,20.0,Gujarat Titans,Dr DY Patil Sports Academy,Mumbai,HH Pandya,Rajasthan Royals,field,Runs,37.0,N
+926,2022,Match 23 ,2022-04-13,Mumbai Indians,186,9,20.0,Punjab Kings,198,5,20.0,Punjab Kings,Maharashtra Cricket Association Stadium,Pune,MA Agarwal,Mumbai Indians,field,Runs,12.0,N
+927,2022,Match 22 ,2022-04-12,Chennai Super Kings,216,4,20.0,Royal Challengers Bangalore,193,9,20.0,Chennai Super Kings,Dr DY Patil Sports Academy,Mumbai,S Dube,Royal Challengers Bangalore,field,Runs,23.0,N
+928,2022,Match 21 ,2022-04-11,Sunrisers Hyderabad,168,2,19.1,Gujarat Titans,162,7,20.0,Sunrisers Hyderabad,Dr DY Patil Sports Academy,Mumbai,KS Williamson,Sunrisers Hyderabad,field,Wickets,8.0,N
+929,2022,Match 20 ,2022-04-10,Rajasthan Royals,165,6,20.0,Lucknow Super Giants,162,8,20.0,Rajasthan Royals,Wankhede Stadium,Mumbai,YS Chahal,Lucknow Super Giants,field,Runs,3.0,N
+930,2022,Match 19 ,2022-04-10,Kolkata Knight Riders,171,0,19.4,Delhi Capitals,215,5,20.0,Delhi Capitals,Brabourne Stadium,Mumbai,Kuldeep Yadav,Kolkata Knight Riders,field,Runs,44.0,N
+931,2022,Match 18 ,2022-04-09,Royal Challengers Bangalore,152,3,18.3,Mumbai Indians,151,6,20.0,Royal Challengers Bangalore,Maharashtra Cricket Association Stadium,Pune,Anuj Rawat,Royal Challengers Bangalore,field,Wickets,7.0,N
+932,2022,Match 17 ,2022-04-09,Chennai Super Kings,154,7,20.0,Sunrisers Hyderabad,155,2,17.4,Sunrisers Hyderabad,Dr DY Patil Sports Academy,Mumbai,Abhishek Sharma,Sunrisers Hyderabad,field,Wickets,8.0,N
+933,2022,Match 16 ,2022-04-08,Punjab Kings,189,9,20.0,Gujarat Titans,190,4,20.0,Gujarat Titans,Brabourne Stadium,Mumbai,Shubman Gill,Gujarat Titans,field,Wickets,6.0,N
+934,2022,Match 15 ,2022-04-07,Lucknow Super Giants,155,4,19.4,Delhi Capitals,149,3,20.0,Lucknow Super Giants,Dr DY Patil Sports Academy,Mumbai,Q de Kock,Lucknow Super Giants,field,Wickets,6.0,N
+935,2022,Match 14 ,2022-04-06,Kolkata Knight Riders,162,5,16.0,Mumbai Indians,161,4,20.0,Kolkata Knight Riders,Maharashtra Cricket Association Stadium,Pune,PJ Cummins,Kolkata Knight Riders,field,Wickets,5.0,N
+936,2022,Match 13 ,2022-04-05,Rajasthan Royals,169,3,20.0,Royal Challengers Bangalore,173,6,19.1,Royal Challengers Bangalore,Wankhede Stadium,Mumbai,KD Karthik,Royal Challengers Bangalore,field,Wickets,4.0,N
+937,2022,Match 12 ,2022-04-04,Sunrisers Hyderabad,157,9,20.0,Lucknow Super Giants,169,7,20.0,Lucknow Super Giants,Dr DY Patil Sports Academy,Mumbai,Avesh Khan,Sunrisers Hyderabad,field,Runs,12.0,N
+938,2022,Match 11 ,2022-04-03,Chennai Super Kings,126,0,18.0,Punjab Kings,180,8,20.0,Punjab Kings,Brabourne Stadium,Mumbai,LS Livingstone,Chennai Super Kings,field,Runs,54.0,N
+939,2022,Match 10 ,2022-04-02,Gujarat Titans,171,6,20.0,Delhi Capitals,157,9,20.0,Gujarat Titans,Maharashtra Cricket Association Stadium,Pune,LH Ferguson,Delhi Capitals,field,Runs,14.0,N
+940,2022,Match 9 ,2022-04-02,Mumbai Indians,170,8,20.0,Rajasthan Royals,193,8,20.0,Rajasthan Royals,Dr DY Patil Sports Academy,Mumbai,JC Buttler,Mumbai Indians,field,Runs,23.0,N
+941,2022,Match 8 ,2022-04-01,Kolkata Knight Riders,141,4,14.3,Punjab Kings,137,0,18.2,Kolkata Knight Riders,Wankhede Stadium,Mumbai,UT Yadav,Kolkata Knight Riders,field,Wickets,6.0,N
+942,2022,Match 7 ,2022-03-31,Lucknow Super Giants,211,4,19.3,Chennai Super Kings,210,7,20.0,Lucknow Super Giants,Brabourne Stadium,Mumbai,E Lewis,Lucknow Super Giants,field,Wickets,6.0,N
+943,2022,Match 6 ,2022-03-30,Royal Challengers Bangalore,132,7,19.2,Kolkata Knight Riders,128,0,18.5,Royal Challengers Bangalore,Dr DY Patil Sports Academy,Mumbai,PWH de Silva,Royal Challengers Bangalore,field,Wickets,3.0,N
+944,2022,Match 5 ,2022-03-29,Sunrisers Hyderabad,149,7,20.0,Rajasthan Royals,210,6,20.0,Rajasthan Royals,Maharashtra Cricket Association Stadium,Pune,SV Samson,Sunrisers Hyderabad,field,Runs,61.0,N
+945,2022,Match 4 ,2022-03-28,Gujarat Titans,161,5,19.4,Lucknow Super Giants,158,6,20.0,Gujarat Titans,Wankhede Stadium,Mumbai,Mohammed Shami,Gujarat Titans,field,Wickets,5.0,N
+946,2022,Match 3 ,2022-03-27,Royal Challengers Bangalore,205,2,20.0,Punjab Kings,208,5,19.0,Punjab Kings,Dr DY Patil Sports Academy,Mumbai,OF Smith,Punjab Kings,field,Wickets,5.0,N
+947,2022,Match 2 ,2022-03-27,Delhi Capitals,179,6,18.2,Mumbai Indians,177,5,20.0,Delhi Capitals,Brabourne Stadium,Mumbai,Kuldeep Yadav,Delhi Capitals,field,Wickets,4.0,N
+948,2022,Match 1 ,2022-03-26,Chennai Super Kings,131,5,20.0,Kolkata Knight Riders,133,4,18.3,Kolkata Knight Riders,Wankhede Stadium,Mumbai,UT Yadav,Kolkata Knight Riders,field,Wickets,6.0,N
