@@ -16,7 +16,7 @@ class Match:
     total_runsA = 0
     iter = 10
     toss_winner = teamA
-    data = []
+    data = [['batting_team', 'runs_scored', 'wickets_lost']]
     batting_team = ""
     file_name = "Four10_results.csv"
 
@@ -167,7 +167,8 @@ class Match:
             self.total_runsB = self.runs[1] + self.runs[3]
 
         
-        df = pd.DataFrame(self.data)
+        df = pd.DataFrame(self.data, columns=["ball #", "batting team", "runs scored", "wickets lost"])
+        df.columns=["ball #", "batting team", "runs scored", "wickets lost"]
         df.to_csv(self.file_name, header=False)
         
         # delimiter='\n'
