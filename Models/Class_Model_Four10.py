@@ -4,6 +4,7 @@ import time
 import matplotlib.pyplot as plt
 import csv
 from csv import writer
+import pandas as pd
 
 class Match:
     teamA = "Team A"
@@ -164,13 +165,19 @@ class Match:
         else:
             self.total_runsA = self.runs[0] + self.runs[2]
             self.total_runsB = self.runs[1] + self.runs[3]
-        
-        delimiter='\n'
-        with open(self.file_name, 'w', encoding='UTF8', newline='') as f:
-            writer = csv.writer(f, delimiter=delimiter, quoting=csv.QUOTE_NONE, quotechar='',  lineterminator='\n')
 
-            # write the header
-            writer.writerow(self.data)
+        
+        df = pd.DataFrame(self.data)
+        df.to_csv(self.file_name, header=False)
+        
+        # delimiter='\n'
+        # with open(self.file_name, 'w', encoding='UTF8', newline='') as f:
+        #     writer = csv.writer(f)
+
+        #     # write the header
+        #     self.data
+        #     writer.writerow(self.data)
+
         
         
         
