@@ -68,11 +68,30 @@ def calculate_wicket_runs():
 
 
 
-def simulate_innings(probs):
+def batting_innings(probs):
     wickets = 0
     runs = 0
     for o in range(1,11):
         for b in range(1,7):
+            if(wickets==10):
+                break
+            res,runs, wickets = simulate_ball(probs, runs, wickets)
+            #print(res + str(runs) + str(wickets))
+            if(res == "extra run"):
+                b -= 1
+            #print("" + str(o) + ":" + str(b) + ":" + str(res))
+        if(wickets == 10):
+            break
+        
+    return runs, wickets
+
+def chasing_innings(probs, target_score):
+    wickets = 0
+    runs = 0
+    for o in range(1,11):
+        for b in range(1,7):
+            if(runs>=target_score):
+                break
             if(wickets==10):
                 break
             res,runs, wickets = simulate_ball(probs, runs, wickets)
@@ -83,8 +102,6 @@ def simulate_innings(probs):
             break
         
     return runs, wickets
-
-
 
 
 
@@ -101,66 +118,103 @@ def simulate_game(probs1, probs2):
     c = np.random.uniform()*100
     #print(c)
     if(c>50):
-        runs1B, wickets1B = simulate_innings(probs2)
-        runs1A, wickets1A = simulate_innings(probs1)
-        runs2B, wickets2B = simulate_innings(probs2)
-        runs2A, wickets2B = simulate_innings(probs1)
+        toss_winner = "B"
+        runs1B, wickets1B = batting_innings(probs2)
+        runs1A, wickets1A = chasing_innings(probs1, runs1B)
+        runs2B, wickets2A = batting_innings(probs2)
+        runs2A, wickets2B = chasing_innings(probs1, runs2B)
 
     else:
-        
-        runs1A, wickets1A = simulate_innings(probs1)
-        runs1B, wickets1B = simulate_innings(probs2)
-        runs2A, wickets2B = simulate_innings(probs1)
-        runs2B, wickets2B = simulate_innings(probs2)
+        toss_winner = "A"
+        runs1A, wickets1A = batting_innings(probs1)
+        runs1B, wickets1B = chasing_innings(probs2, runs1A)
+        runs2A, wickets2A = batting_innings(probs1)
+        runs2B, wickets2B = chasing_innings(probs2, runs2A)
 
     runsA = runs1A + runs2A
     runsB = runs1B + runs2B
-    winMargin = abs(runsA-runsB)
+    wicketsA = 10-wickets2A
+    wicketsB = 10-wickets2B
+    #winMargin = abs(runsA-runsB)
     # runs1, wickets1 = simulate_innings(probs1)
     # runs2, wickets2 = simulate_innings(probs2)
 
-    # # print("----- End of Match -----")
-    # # print("Team 1 score: " + str(runs1) + "/" + str(wickets1))
-    # # print("Team 2 score: " + str(runs2) + "/" + str(wickets2))
+    # print("----- End of Match -----")
+    # print("Team 1 score: " + str(runs1A) + "/" + str(wicketsA))
+    # print("Team 2 score: " + str(runs1B) + "/" + str(wicketsB))
+    # print("Team 1 score: " + str(runs2A) + "/" + str(wicketsA))
+    # print("Team 2 score: " + str(runs2B) + "/" + str(wicketsB))
+    # print(wicketsA)
+    # print(wicketsB)
 
     if(runsA > runsB):
-        return "Team 1 wins", runsA, runsB, winMargin
+        return "Team A wins", runsA, runsB, wicketsA, wicketsB, toss_winner
     elif(runsA < runsB):
-        return "Team 2 wins", runsA, runsB, winMargin
+        return "Team B wins", runsA, runsB, wicketsA, wicketsB, toss_winner
     else:
-        return "Draw",  runsA, runsB, winMargin  
+        return "Draw",  runsA, runsB, wicketsA, wicketsB, toss_winner
 
 def test_func(probs1, probs2, iter):
     runs = []
-    wickets = []
     team1_wins = 0
     team2_wins = 0
-    win_margins = []
+    run_margins = []
+    wicket_margins = []
     
     for i in range(iter):
-        res, runs1, runs2, wm = simulate_game(probs1, probs2)
-        runs.append(runs1)
-        runs.append(runs2)
-        win_margins.append(wm)
-        # wickets.append(wickets1)
-        # wickets.append(wickets2)
-        if(res == "Team 1 wins"):
-            team1_wins += 1
-        elif(res == "Team 2 wins"):
-            team2_wins += 1
-        #print(res)
+        res, runsA, runsB, wicketsA, wicketsB, toss_winner = simulate_game(probs1, probs2)
+        runs.append(runsA)
+        runs.append(runsB)
+        if(toss_winner == "A"):
+            if(res == "Team A wins"):
+                team1_wins += 1
+                run_margins.append(runsA-runsB)
+            elif(res == "Team B wins"):
+                team2_wins += 1
+                wicket_margins.append(wicketsB)
+        else:
+            if(res == "Team A wins"):
+                team1_wins += 1
+                wicket_margins.append(wicketsA)
+            elif(res == "Team B wins"):
+                team2_wins += 1
+                run_margins.append(runsB-runsA)
     
-    return sum(runs)/len(runs), team1_wins*100/iter, team2_wins*100/iter, win_margins
+    return sum(runs)/len(runs), team1_wins*100/iter, team2_wins*100/iter, run_margins, wicket_margins
 
 
-def wm_plot(win_margins):
-    counts, edges, bars = plt.hist(win_margins)
-    plt.xlabel("Win Margin")
+def margins_plot(run_margins, wicket_margins):
+    plt.figure()
+    # plt.hist(run_margins)
+    # plt.show()
+    plt.subplot(121)
+    counts, edges, bars = plt.hist(run_margins, bins=10, edgecolor='black', align="mid")
+    # ticks = [(patch._x0 + patch._x1)/2 for patch in bars]
+    # ticklabels = [i for i in range(10)]
+    plt.xlabel("Run Margin")
     plt.ylabel("Frequency")
-    plt.title("Histogram of Win Margin")
+    plt.title("Histogram of Run Margins")
     #bar_labels = bars/len(win_margins)
     plt.bar_label(bars)
+    # plt.show()
+
+    plt.subplot(122)
+    labels, counts = np.unique(wicket_margins, return_counts=True)
+    fig = plt.bar(labels, counts, align='center', color = "orange")
+    plt.gca().set_xticks(labels)
+    for p in fig:
+        height = p.get_height()
+        plt.annotate('{}'.format(height),
+            xy=(p.get_x() + p.get_width() / 2, height),
+            xytext=(0, 3), # 3 points vertical offset
+            textcoords="offset points",
+            ha='center', va='bottom')
+    #fig.bar_label(fig.containers[0], label_type='edge')
+    plt.xlabel("Wicket Margin")
+    plt.ylabel("Frequency")
+    plt.title("Histogram of Wicket Margins")
     plt.show()
+
     
 
 if __name__ == "__main__":
@@ -177,14 +231,16 @@ if __name__ == "__main__":
     probs1.insert(0, 0)
     probs2.insert(0, 0)
     
-    avg_runs, team1_w_p, team2_w_p, win_margins = test_func(probs1,probs2,10000)
+    avg_runs, team1_w_p, team2_w_p, run_margins, wicket_margins = test_func(probs1,probs2,1)
 
     print("Average runs: " + str(avg_runs))
     #print("Average wickets: " + str(avg_wickets))
     print("% won by team 1: " + str(team1_w_p) + "%")
     print("% won by team 2: " + str(team2_w_p) + "%")
 
-    wm_plot(win_margins)
+    # print(len(run_margins))
+    # print(len(wicket_margins))
+    margins_plot(run_margins, wicket_margins)
 
 
 
