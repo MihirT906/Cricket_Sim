@@ -16,7 +16,7 @@ class Match:
     total_runsA = 0
     iter = 10
     toss_winner = teamA
-    data = [['batting_team', 'runs_scored', 'wickets_lost']]
+    data = [['batting_team', 'result','runs_scored', 'wickets_lost']]
     batting_team = ""
     file_name = "Four10_results.csv"
 
@@ -198,7 +198,7 @@ class Match:
             self.toss_winner=self.teamA
         self.batting_team = self.toss_winner
 
-        self.data = []
+        self.data = [['batting_team', 'result', 'runs_scored', 'wickets_lost']]
 
         
         
